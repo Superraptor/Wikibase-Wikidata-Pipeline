@@ -1,12 +1,10 @@
+import constants
 import re
 import json
 import requests
 from tqdm import tqdm
 
 # ---------------- CONFIG ---------------- #
-WB_URL = "https://your-wikibase.org"
-SPARQL_ENDPOINT = f"{WB_URL}/query/sparql"
-OUTPUT_FILE = "formatter_property_candidates.json"
 
 HEADERS = {
     "Accept": "application/sparql-results+json"
@@ -29,7 +27,7 @@ PLACEHOLDER_PATTERN = re.compile(r"(\$1|\{.+?\}|%s)")
 # ---------------- UTIL ---------------- #
 
 def run_sparql(query):
-    r = requests.get(SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
+    r = requests.get(constants.SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
     r.raise_for_status()
     return r.json()["results"]["bindings"]
 
@@ -150,7 +148,7 @@ def main():
                 "evidence": evidence
             }
 
-    with open(OUTPUT_FILE, "w") as f:
+    with open(constants.MAPPING_FILE, "w") as f:
         json.dump(results, f, indent=2)
 
     print(f"Saved {len(results)} formatter candidates to {OUTPUT_FILE}")

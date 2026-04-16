@@ -58,7 +58,7 @@ def is_used_on_properties(prop):
       ?p wdt:{prop} ?val .
     }}
     """
-    r = requests.get(SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
+    r = requests.get(constants.SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
     return r.json()["boolean"]
 
 

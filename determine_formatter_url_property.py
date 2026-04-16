@@ -151,7 +151,7 @@ def main():
     with open(constants.MAPPING_FILE, "w") as f:
         json.dump(results, f, indent=2)
 
-    print(f"Saved {len(results)} formatter candidates to {OUTPUT_FILE}")
+    print(f"Saved {len(results)} formatter candidates to {constants.MAPPING_FILE}")
 
 
 if __name__ == "__main__":

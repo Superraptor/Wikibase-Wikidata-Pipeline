@@ -19,14 +19,18 @@ HEADERS = {
 WEIGHTS = {
     "label_match": 2,
     "value_pattern": 3,
-    "url_formatter": 2,
+    "url_pattern": 3,
+    "datatype": 3,
     "semantic_match": 4
 }
 
-THRESHOLD = 5  # minimum score to accept property
+THRESHOLD = 2  # minimum score to accept property
 
 # Regex for Wikidata IDs
 WD_ID_PATTERN = re.compile(r"^[QPL]\d+$")
+
+# Regex for URL datatypes
+URL_PATTERN = re.compile(r"https?://")
 
 # Configuration for WikibaseIntegrator
 wbi_config['MEDIAWIKI_API_URL'] = constants.WIKIBASE_MEDIAWIKI_API_URL
@@ -37,6 +41,12 @@ wbi_config['WIKIBASE_URL'] = constants.WIKIBASE_URL
 # Initial login
 login = wbi_login.Login(user=constants.WIKIBASE_CREDENTIAL_USERNAME, password=constants.WIKIBASE_CREDENTIAL_PASSWORD)
 wbi = WikibaseIntegrator(login=login)
+
+# Set up keywords
+keywords = {
+    'reference URL': ["reference url", "reference link", "ref url", "ref link", "webref", "source url", "url for reference", "stated at url"],
+    'stated in': ["stated in", "is stated in", "source of claim", "stated at", "cited in", "stated on"]
+}
 
 # ---------------- UTIL FUNCTIONS ---------------- #
 
@@ -77,22 +87,18 @@ def sample_property_values(prop, limit=50):
     return run_sparql(query)
 
 
-def get_url_formatter(prop):
-    try:
-        wikibase_formatter_url_property = constants.WIKIBASE_FORMATTER_URL_PROPERTY
-    except (AttributeError, UnboundLocalError):
-        wikibase_formatter_url_property = determine_formatter_url_property.main()
-
+def get_property_type(prop):
     query = f"""
     PREFIX wd: <{constants.WIKIBASE_WD_PREFIX}>
-    PREFIX wdt: <{constants.WIKIBASE_WDT_PREFIX}>
 
-    SELECT ?formatter WHERE {{
-      wd:{prop} wdt:{wikibase_formatter_url_property} ?formatter .
+    SELECT ?datatype WHERE {{
+      VALUES ?property {{ wd:{prop} }}
+      ?property wikibase:propertyType ?datatype .
+
+      SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en" . }}
     }}
     """
-    results = run_sparql(query)
-    return results[0]["formatter"]["value"] if results else None
+    return run_sparql(query)
 
 
 def fetch_wikidata_label(qid):
@@ -119,12 +125,11 @@ def get_local_item_label(item_uri):
 
 # ---------------- SCORING ---------------- #
 
-def score_property(prop_id, prop_label):
+def score_property(prop_id, prop_label, keywords):
     score = 0
     evidence = {}
 
     # (a) Label / alias match
-    keywords = ["wikidata", "qid", "wikibase item", "wd id", "wd identifier", "wikidata id", "wikidata identifier", "wikidata q id", "wikidata entity id", "wikidata entity identifier"]
     if any(k in prop_label.lower() for k in keywords):
         score += WEIGHTS["label_match"]
         evidence["label_match"] = True
@@ -136,19 +141,26 @@ def score_property(prop_id, prop_label):
             score += WEIGHTS["label_match"]
             evidence["alias_match"] = True
 
-        # (b) Value pattern match
         values = sample_property_values(prop_id)
-        qid_like = [v["val"]["value"].split("/")[-1] for v in values]
+        vals = [v["val"]["value"] for v in values if "val" in v]
 
-        if any(WD_ID_PATTERN.match(v) for v in qid_like):
-                score += WEIGHTS["value_pattern"]
-                evidence["value_pattern"] = True
+        if not vals:
+            return 0, {}
 
-        # (c) URL formatter check
-        formatter = get_url_formatter(prop_id)
-        if formatter and "wikidata.org" in formatter:
-            score += WEIGHTS["url_formatter"]
-            evidence["url_formatter"] = formatter
+        # (b) Property type check
+          # For "stated in", should be item
+        if "stated in" in keywords:
+            result = get_property_type(prop_id)        
+            datatype_value = result[0]['datatype']['value']
+            if "WikibaseItem" in datatype_value:
+                score += WEIGHTS["datatype"]
+                evidence["datatype"] = True
+
+          # For "reference URL" should be URL, use URL pattern
+        elif "reference url" in keywords:
+            if any(URL_PATTERN.search(v) for v in vals):
+                score += WEIGHTS["url_pattern"]
+                evidence["url_pattern"] = True
 
         # (d) Semantic validation
         matches = 0
@@ -180,19 +192,23 @@ def main():
     props = get_all_properties()
     mapping = {}
 
-    for p in tqdm(props):
-        prop_uri = p["prop"]["value"]
-        prop_id = prop_uri.split("/")[-1]
-        prop_label = p.get("propLabel", {}).get("value", "")
+    for x in ["reference URL", "stated in"]:
+        keywords_to_use = keywords[x]
+        mapping[x] = {}
 
-        score, evidence = score_property(prop_id, prop_label)
+        for p in tqdm(props):
+            prop_uri = p["prop"]["value"]
+            prop_id = prop_uri.split("/")[-1]
+            prop_label = p.get("propLabel", {}).get("value", "")
 
-        if score >= THRESHOLD:
-            mapping[prop_id] = {
-                "label": prop_label,
-                "score": score,
-                "evidence": evidence
-            }
+            score, evidence = score_property(prop_id, prop_label, keywords_to_use)
+
+            if score >= THRESHOLD:
+                mapping[x][prop_id] = {
+                    "label": prop_label,
+                    "score": score,
+                    "evidence": evidence
+                }
 
     with open(constants.MAPPING_FILE, "w+") as f:
         json.dump(mapping, f, indent=2)
@@ -202,12 +218,14 @@ def main():
         lines_str = str(f.readlines())
 
     with open("constants.py", "a+") as f:
-        if "WIKIBASE_WIKIDATA_ID_PROPERTY=" not in lines_str:
-            f.write('\nWIKIBASE_WIKIDATA_ID_PROPERTY="%s"' % list(mapping.keys())[0])
+        if "WIKIBASE_REFERENCE_URL_PROPERTY=" not in lines_str:
+            f.write('\nWIKIBASE_REFERENCE_URL_PROPERTY="%s"' % list(mapping["reference URL"].keys())[0])
+        if "WIKIBASE_STATED_IN_PROPERTY=" not in lines_str:
+            f.write('\nWIKIBASE_STATED_IN_PROPERTY="%s"' % list(mapping["stated in"].keys())[0])
 
     print(f"Saved {len(mapping)} candidate mappings to {constants.MAPPING_FILE}")
 
-    return list(mapping.keys())[0]
+    return list(mapping.keys())[0], list(mapping.keys())[1] 
 
 if __name__ == "__main__":
     main()

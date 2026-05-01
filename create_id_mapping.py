@@ -12,11 +12,11 @@ from wikibaseintegrator.wbi_helpers import execute_sparql_query
 
 # Provide your detected mapping properties here
 try:
-    MAPPING_PROPERTIES = constants.WIKIBASE_WIKIDATA_ID_PROPERTY
+    MAPPING_PROPERTIES = [constants.WIKIBASE_WIKIDATA_ID_PROPERTY]
 except (AttributeError, UnboundLocalError):
-    MAPPING_PROPERTIES = determine_wikidata_id_properties.main()
+    MAPPING_PROPERTIES = [determine_wikidata_id_properties.main()]
 
-OUTPUT_FILE = "wikibase_to_wikidata_map.json"
+OUTPUT_FILE = constants.WIKIBASE_TO_WIKIDATA_MAPPING_FILE
 
 HEADERS = {
     "Accept": "application/sparql-results+json"

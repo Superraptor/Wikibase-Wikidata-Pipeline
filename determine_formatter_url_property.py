@@ -3,6 +3,9 @@ import re
 import json
 import requests
 from tqdm import tqdm
+from wikibaseintegrator import wbi_login, WikibaseIntegrator
+from wikibaseintegrator.wbi_config import config as wbi_config
+from wikibaseintegrator.wbi_helpers import execute_sparql_query
 
 # ---------------- CONFIG ---------------- #
 
@@ -24,10 +27,20 @@ THRESHOLD = 6
 URL_PATTERN = re.compile(r"https?://")
 PLACEHOLDER_PATTERN = re.compile(r"(\$1|\{.+?\}|%s)")
 
+# Configuration for WikibaseIntegrator
+wbi_config['MEDIAWIKI_API_URL'] = constants.WIKIBASE_MEDIAWIKI_API_URL
+wbi_config['SPARQL_ENDPOINT_URL'] = constants.WIKIBASE_SPARQL_ENDPOINT
+wbi_config['USER_AGENT'] = constants.WIKIBASE_USER_AGENT
+wbi_config['WIKIBASE_URL'] = constants.WIKIBASE_URL
+
+# Initial login
+login = wbi_login.Login(user=constants.WIKIBASE_CREDENTIAL_USERNAME, password=constants.WIKIBASE_CREDENTIAL_PASSWORD)
+wbi = WikibaseIntegrator(login=login)
+
 # ---------------- UTIL ---------------- #
 
 def run_sparql(query):
-    r = requests.get(constants.SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
+    r = requests.get(constants.WIKIBASE_SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
     r.raise_for_status()
     return r.json()["results"]["bindings"]
 
@@ -44,6 +57,9 @@ def get_all_properties():
 
 def sample_property_values(prop, limit=20):
     query = f"""
+    PREFIX wd: <{constants.WIKIBASE_WD_PREFIX}>
+    PREFIX wdt: <{constants.WIKIBASE_WDT_PREFIX}>
+
     SELECT ?val WHERE {{
       ?entity wdt:{prop} ?val .
     }} LIMIT {limit}
@@ -53,12 +69,15 @@ def sample_property_values(prop, limit=20):
 
 def is_used_on_properties(prop):
     query = f"""
+    PREFIX wd: <{constants.WIKIBASE_WD_PREFIX}>
+    PREFIX wdt: <{constants.WIKIBASE_WDT_PREFIX}>
+
     ASK {{
       ?p a wikibase:Property .
       ?p wdt:{prop} ?val .
     }}
     """
-    r = requests.get(constants.SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
+    r = requests.get(constants.WIKIBASE_SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
     return r.json()["boolean"]
 
 
@@ -139,16 +158,18 @@ def main():
         prop_id = prop_uri.split("/")[-1]
         prop_label = p.get("propLabel", {}).get("value", "")
 
-        score, evidence = score_property(prop_id, prop_label)
+        if "url" in prop_label.lower():
 
-        if score >= THRESHOLD:
-            results[prop_id] = {
-                "label": prop_label,
-                "score": score,
-                "evidence": evidence
-            }
+            score, evidence = score_property(prop_id, prop_label)
 
-    with open(constants.MAPPING_FILE, "w") as f:
+            if score >= THRESHOLD:
+                results[prop_id] = {
+                    "label": prop_label,
+                    "score": score,
+                    "evidence": evidence
+                }
+
+    with open(constants.MAPPING_FILE, "w+") as f:
         json.dump(results, f, indent=2)
 
     print(f"Saved {len(results)} formatter candidates to {constants.MAPPING_FILE}")

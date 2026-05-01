@@ -40,9 +40,8 @@ wbi = WikibaseIntegrator(login=login)
 # ---------------- UTIL ---------------- #
 
 def run_sparql(query):
-    r = requests.get(constants.WIKIBASE_SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
-    r.raise_for_status()
-    return r.json()["results"]["bindings"]
+    r = execute_sparql_query(query)
+    return r["results"]["bindings"]
 
 
 def get_all_properties():
@@ -172,7 +171,17 @@ def main():
     with open(constants.MAPPING_FILE, "w+") as f:
         json.dump(results, f, indent=2)
 
+    lines_str = ""
+    with open("constants.py", "r") as f:
+        lines_str = str(f.readlines())
+
+    with open("constants.py", "a+") as f:
+        if "WIKIBASE_FORMATTER_URL_PROPERTY=" not in lines_str:
+            f.write('\nWIKIBASE_FORMATTER_URL_PROPERTY="%s"' % list(results.keys())[0])
+
     print(f"Saved {len(results)} formatter candidates to {constants.MAPPING_FILE}")
+
+    return list(results.keys())[0]
 
 
 if __name__ == "__main__":

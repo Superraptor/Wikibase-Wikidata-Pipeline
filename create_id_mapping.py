@@ -1,14 +1,20 @@
-import re
+import constants
+import determine_wikidata_id_properties
 import json
+import re
 import requests
 from tqdm import tqdm
+from wikibaseintegrator import wbi_login, WikibaseIntegrator
+from wikibaseintegrator.wbi_config import config as wbi_config
+from wikibaseintegrator.wbi_helpers import execute_sparql_query
 
 # ---------------- CONFIG ---------------- #
-WB_URL = "https://your-wikibase.org"
-SPARQL_ENDPOINT = f"{WB_URL}/query/sparql"
 
 # Provide your detected mapping properties here
-MAPPING_PROPERTIES = ["P123", "P456"]
+try:
+    MAPPING_PROPERTIES = constants.WIKIBASE_WIKIDATA_ID_PROPERTY
+except (AttributeError, UnboundLocalError):
+    MAPPING_PROPERTIES = determine_wikidata_id_properties.main()
 
 OUTPUT_FILE = "wikibase_to_wikidata_map.json"
 
@@ -16,28 +22,37 @@ HEADERS = {
     "Accept": "application/sparql-results+json"
 }
 
-QID_PATTERN = re.compile(r"Q\d+")
+WIKIDATA_ID_PATTERN = re.compile(r"^[QPL]\d+$")
+
+# Configuration for WikibaseIntegrator
+wbi_config['MEDIAWIKI_API_URL'] = constants.WIKIBASE_MEDIAWIKI_API_URL
+wbi_config['SPARQL_ENDPOINT_URL'] = constants.WIKIBASE_SPARQL_ENDPOINT
+wbi_config['USER_AGENT'] = constants.WIKIBASE_USER_AGENT
+wbi_config['WIKIBASE_URL'] = constants.WIKIBASE_URL
+
+# Initial login
+login = wbi_login.Login(user=constants.WIKIBASE_CREDENTIAL_USERNAME, password=constants.WIKIBASE_CREDENTIAL_PASSWORD)
+wbi = WikibaseIntegrator(login=login)
 
 # ---------------- UTIL ---------------- #
 
 def run_sparql(query):
-    r = requests.get(SPARQL_ENDPOINT, params={"query": query}, headers=HEADERS)
-    r.raise_for_status()
-    return r.json()["results"]["bindings"]
+    r = execute_sparql_query(query)
+    return r["results"]["bindings"]
 
 
-def extract_qid(value):
-    """Extract QID from raw value (URL or string)"""
-    match = QID_PATTERN.search(value)
+def extract_wikidata_id(value):
+    """Extract Wikidata ID from raw value (URL or string)"""
+    match = WIKIDATA_ID_PATTERN.search(value)
     return match.group(0) if match else None
 
 
-def fetch_wikidata_entity(qid):
-    url = f"https://www.wikidata.org/wiki/Special:EntityData/{qid}.json"
+def fetch_wikidata_entity(wikidata_id):
+    url = f"https://www.wikidata.org/wiki/Special:EntityData/{wikidata_id}.json"
     try:
         r = requests.get(url)
         data = r.json()
-        entity = data["entities"][qid]
+        entity = data["entities"][wikidata_id]
 
         label = entity["labels"].get("en", {}).get("value")
         aliases = [
@@ -56,6 +71,9 @@ def fetch_wikidata_entity(qid):
 
 def get_mapped_items(prop):
     query = f"""
+    PREFIX wd: <{constants.WIKIBASE_WD_PREFIX}>
+    PREFIX wdt: <{constants.WIKIBASE_WDT_PREFIX}>
+
     SELECT ?item ?itemLabel ?val WHERE {{
       ?item wdt:{prop} ?val .
       SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
@@ -77,9 +95,9 @@ def build_mapping():
             item_label = r.get("itemLabel", {}).get("value")
 
             raw_val = r["val"]["value"]
-            qid = extract_qid(raw_val)
+            wikidata_id = extract_wikidata_id(raw_val)
 
-            if not qid:
+            if not wikidata_id:
                 continue
 
             if item_id not in mapping:
@@ -89,7 +107,7 @@ def build_mapping():
                 }
 
             mapping[item_id]["wikidata"].append({
-                "qid": qid,
+                "wikidata_id": wikidata_id,
                 "source_property": prop
             })
 
@@ -103,8 +121,8 @@ def validate_mapping(mapping):
         item_label = data["label"]
 
         for wd in data["wikidata"]:
-            qid = wd["qid"]
-            wd_data = fetch_wikidata_entity(qid)
+            wikidata_id = wd["wikidata_id"]
+            wd_data = fetch_wikidata_entity(wikidata_id)
 
             if not wd_data:
                 continue
@@ -128,7 +146,7 @@ def validate_mapping(mapping):
                 }
 
             validated[item_id]["matches"].append({
-                "qid": qid,
+                "wikidata_id": wikidata_id,
                 "wd_label": wd_label,
                 "aliases": wd_data["aliases"],
                 "source_property": wd["source_property"],
@@ -142,10 +160,16 @@ def validate_mapping(mapping):
 
 def main():
     raw_mapping = build_mapping()
-    validated_mapping = validate_mapping(raw_mapping)
+    simple_mapping = True
+    if not simple_mapping:
+        validated_mapping = validate_mapping(raw_mapping)
 
-    with open(OUTPUT_FILE, "w") as f:
-        json.dump(validated_mapping, f, indent=2)
+    if simple_mapping:
+        with open(OUTPUT_FILE, "w") as f:
+           json.dump(raw_mapping, f, indent=2)
+    else:
+        with open(OUTPUT_FILE, "w") as f:
+           json.dump(validated_mapping, f, indent=2)
 
     print(f"Saved mapping to {OUTPUT_FILE}")
 

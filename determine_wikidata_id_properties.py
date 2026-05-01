@@ -1,4 +1,5 @@
 import constants
+import determine_formatter_url_property
 import re
 import json
 import requests
@@ -77,12 +78,17 @@ def sample_property_values(prop, limit=50):
 
 
 def get_url_formatter(prop):
+    try:
+        wikibase_formatter_url_property = constants.WIKIBASE_FORMATTER_URL_PROPERTY
+    except (AttributeError, UnboundLocalError):
+        wikibase_formatter_url_property = determine_formatter_url_property.main()
+
     query = f"""
     PREFIX wd: <{constants.WIKIBASE_WD_PREFIX}>
     PREFIX wdt: <{constants.WIKIBASE_WDT_PREFIX}>
 
     SELECT ?formatter WHERE {{
-      wd:{prop} wdt:P1630 ?formatter .
+      wd:{prop} wdt:{wikibase_formatter_url_property} ?formatter .
     }}
     """
     results = run_sparql(query)
@@ -126,11 +132,8 @@ def score_property(prop_id, prop_label):
     if "label_match" in evidence:
 
         aliases = get_property_aliases(prop_id)
-        print(aliases)
         if any(any(k in a["alias"]["value"].lower() for k in keywords) for a in aliases):
             score += WEIGHTS["label_match"]
-            print("alias")
-            print(score)
             evidence["alias_match"] = True
 
         # (b) Value pattern match
@@ -166,9 +169,6 @@ def score_property(prop_id, prop_label):
             score += WEIGHTS["semantic_match"]
             evidence["semantic_match"] = matches
 
-        print(score)
-        print(evidence)
-
     return score, evidence
 
 
@@ -197,8 +197,17 @@ def main():
     with open(constants.MAPPING_FILE, "w+") as f:
         json.dump(mapping, f, indent=2)
 
+    lines_str = ""
+    with open("constants.py", "r") as f:
+        lines_str = str(f.readlines())
+
+    with open("constants.py", "a+") as f:
+        if "WIKIBASE_WIKIDATA_ID_PROPERTY=" not in lines_str:
+            f.write('\nWIKIBASE_WIKIDATA_ID_PROPERTY="%s"' % list(mapping.keys())[0])
+
     print(f"Saved {len(mapping)} candidate mappings to {constants.MAPPING_FILE}")
 
+    return list(mapping.keys())[0]
 
 if __name__ == "__main__":
     main()

@@ -53,7 +53,7 @@ def save_item(wikidata_id, formatted_claims_to_add):
 
     if wikidata_item is not None:
         wikidata_item.write()
-    exit()
+        print("Saved claims for %s to Wikidata." % wikidata_id)
 
 
 # =========================
@@ -403,7 +403,7 @@ def main():
             pass
 
         # Be polite.
-        time.sleep(2)
+        time.sleep(0.5)
 
 if __name__ == "__main__":
     main()

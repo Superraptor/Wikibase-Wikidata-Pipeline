@@ -1,0 +1,7152 @@
+{
+  "Q6": {
+    "wikidata_id": "Q19798645",
+    "timestamp": "2026-08-04T19:54:06Z",
+    "status": "success"
+  },
+  "Q7": {
+    "wikidata_id": "Q29934218",
+    "timestamp": "2026-08-04T19:54:09Z",
+    "status": "success"
+  },
+  "Q9": {
+    "wikidata_id": "Q21502402",
+    "timestamp": "2026-08-04T19:54:13Z",
+    "status": "success"
+  },
+  "Q8": {
+    "wikidata_id": "Q21502408",
+    "timestamp": "2026-08-04T19:54:16Z",
+    "status": "success"
+  },
+  "Q11": {
+    "wikidata_id": "Q21510860",
+    "timestamp": "2026-08-04T19:54:19Z",
+    "status": "success"
+  },
+  "Q10": {
+    "wikidata_id": "Q62026391",
+    "timestamp": "2026-08-04T19:54:22Z",
+    "status": "success"
+  },
+  "Q20239": {
+    "wikidata_id": "Q21503250",
+    "timestamp": "2026-08-04T19:54:26Z",
+    "status": "success"
+  },
+  "Q13": {
+    "wikidata_id": "Q21510859",
+    "timestamp": "2026-08-04T19:54:29Z",
+    "status": "success"
+  },
+  "Q14": {
+    "wikidata_id": "Q21502410",
+    "timestamp": "2026-08-04T19:54:32Z",
+    "status": "success"
+  },
+  "Q15": {
+    "wikidata_id": "Q21510851",
+    "timestamp": "2026-08-04T19:54:36Z",
+    "status": "success"
+  },
+  "Q16": {
+    "wikidata_id": "Q21528959",
+    "timestamp": "2026-08-04T19:54:39Z",
+    "status": "success"
+  },
+  "Q17": {
+    "wikidata_id": "Q19474404",
+    "timestamp": "2026-08-04T19:54:42Z",
+    "status": "success"
+  },
+  "Q18": {
+    "wikidata_id": "Q21528958",
+    "timestamp": "2026-08-04T19:54:45Z",
+    "status": "success"
+  },
+  "Q19": {
+    "wikidata_id": "Q21510857",
+    "timestamp": "2026-08-04T19:54:48Z",
+    "status": "success"
+  },
+  "Q20": {
+    "wikidata_id": "Q21510865",
+    "timestamp": "2026-08-04T19:54:52Z",
+    "status": "success"
+  },
+  "Q21": {
+    "wikidata_id": "Q52004125",
+    "timestamp": "2026-08-04T19:54:55Z",
+    "status": "success"
+  },
+  "Q22": {
+    "wikidata_id": "Q52060874",
+    "timestamp": "2026-08-04T19:54:58Z",
+    "status": "success"
+  },
+  "Q23": {
+    "wikidata_id": "Q52558054",
+    "timestamp": "2026-08-04T19:55:01Z",
+    "status": "success"
+  },
+  "Q24": {
+    "wikidata_id": "Q21502838",
+    "timestamp": "2026-08-04T19:55:04Z",
+    "status": "success"
+  },
+  "Q25": {
+    "wikidata_id": "Q53869507",
+    "timestamp": "2026-08-04T19:55:08Z",
+    "status": "success"
+  },
+  "Q26": {
+    "wikidata_id": "Q21510852",
+    "timestamp": "2026-08-04T19:55:11Z",
+    "status": "success"
+  },
+  "Q27": {
+    "wikidata_id": "Q21510863",
+    "timestamp": "2026-08-04T19:55:14Z",
+    "status": "success"
+  },
+  "Q28": {
+    "wikidata_id": "Q51723761",
+    "timestamp": "2026-08-04T19:55:18Z",
+    "status": "success"
+  },
+  "Q29": {
+    "wikidata_id": "Q21510864",
+    "timestamp": "2026-08-04T19:55:21Z",
+    "status": "success"
+  },
+  "Q30": {
+    "wikidata_id": "Q55819106",
+    "timestamp": "2026-08-04T19:55:24Z",
+    "status": "success"
+  },
+  "Q31": {
+    "wikidata_id": "Q25796498",
+    "timestamp": "2026-08-04T19:55:27Z",
+    "status": "success"
+  },
+  "Q32": {
+    "wikidata_id": "Q21510855",
+    "timestamp": "2026-08-04T19:55:31Z",
+    "status": "success"
+  },
+  "Q33": {
+    "wikidata_id": "Q21510854",
+    "timestamp": "2026-08-04T19:55:34Z",
+    "status": "success"
+  },
+  "Q35": {
+    "wikidata_id": "Q21502404",
+    "timestamp": "2026-08-04T19:55:37Z",
+    "status": "success"
+  },
+  "Q34": {
+    "wikidata_id": "Q21510862",
+    "timestamp": "2026-08-04T19:55:41Z",
+    "status": "success"
+  },
+  "Q36": {
+    "wikidata_id": "Q52848401",
+    "timestamp": "2026-08-04T19:55:44Z",
+    "status": "success"
+  },
+  "Q38": {
+    "wikidata_id": "Q21514353",
+    "timestamp": "2026-08-04T19:55:47Z",
+    "status": "success"
+  },
+  "Q37": {
+    "wikidata_id": "Q54554025",
+    "timestamp": "2026-08-04T19:55:50Z",
+    "status": "success"
+  },
+  "Q39": {
+    "wikidata_id": "Q108139345",
+    "timestamp": "2026-08-04T19:55:53Z",
+    "status": "success"
+  },
+  "Q40": {
+    "wikidata_id": "Q21503247",
+    "timestamp": "2026-08-04T19:55:56Z",
+    "status": "success"
+  },
+  "Q41": {
+    "wikidata_id": "Q46466787",
+    "timestamp": "2026-08-04T19:55:59Z",
+    "status": "success"
+  },
+  "Q42": {
+    "wikidata_id": "Q54828449",
+    "timestamp": "2026-08-04T19:56:02Z",
+    "status": "success"
+  },
+  "Q44": {
+    "wikidata_id": "Q46466783",
+    "timestamp": "2026-08-04T19:56:06Z",
+    "status": "success"
+  },
+  "Q45": {
+    "wikidata_id": "Q46466805",
+    "timestamp": "2026-08-04T19:56:09Z",
+    "status": "success"
+  },
+  "Q46": {
+    "wikidata_id": "Q54828448",
+    "timestamp": "2026-08-04T19:56:12Z",
+    "status": "success"
+  },
+  "Q47": {
+    "wikidata_id": "Q54828450",
+    "timestamp": "2026-08-04T19:56:15Z",
+    "status": "success"
+  },
+  "Q50": {
+    "wikidata_id": "Q21503252",
+    "timestamp": "2026-08-04T19:56:23Z",
+    "status": "success"
+  },
+  "Q51": {
+    "wikidata_id": "Q21514624",
+    "timestamp": "2026-08-04T19:56:26Z",
+    "status": "success"
+  },
+  "Q53": {
+    "wikidata_id": "Q29934200",
+    "timestamp": "2026-08-04T19:56:29Z",
+    "status": "success"
+  },
+  "Q52": {
+    "wikidata_id": "Q30208840",
+    "timestamp": "2026-08-04T19:56:32Z",
+    "status": "success"
+  },
+  "Q54": {
+    "wikidata_id": "Q51885771",
+    "timestamp": "2026-08-04T19:56:36Z",
+    "status": "success"
+  },
+  "Q55": {
+    "wikidata_id": "Q54285143",
+    "timestamp": "2026-08-04T19:56:40Z",
+    "status": "success"
+  },
+  "Q56": {
+    "wikidata_id": "Q54285715",
+    "timestamp": "2026-08-04T19:56:44Z",
+    "status": "success"
+  },
+  "Q57": {
+    "wikidata_id": "Q215627",
+    "timestamp": "2026-08-04T19:56:48Z",
+    "status": "success"
+  },
+  "Q19205": {
+    "wikidata_id": "Q15978631",
+    "timestamp": "2026-08-04T19:56:51Z",
+    "status": "success"
+  },
+  "Q59": {
+    "wikidata_id": "Q42298422",
+    "timestamp": "2026-08-04T19:56:54Z",
+    "status": "success"
+  },
+  "Q64772": {
+    "wikidata_id": "Q8102",
+    "timestamp": "2026-08-04T19:56:58Z",
+    "status": "success"
+  },
+  "Q21489": {
+    "wikidata_id": "Q1084",
+    "timestamp": "2026-08-04T19:57:06Z",
+    "status": "success"
+  },
+  "Q64": {
+    "wikidata_id": "Q110786",
+    "timestamp": "2026-08-04T19:57:10Z",
+    "status": "success"
+  },
+  "Q65": {
+    "wikidata_id": "Q146786",
+    "timestamp": "2026-08-04T19:57:13Z",
+    "status": "success"
+  },
+  "Q21491": {
+    "wikidata_id": "Q24905",
+    "timestamp": "2026-08-04T19:57:16Z",
+    "status": "success"
+  },
+  "Q64788": {
+    "wikidata_id": "Q1527589",
+    "timestamp": "2026-08-04T19:57:23Z",
+    "status": "success"
+  },
+  "Q69": {
+    "wikidata_id": "Q286576",
+    "timestamp": "2026-08-04T19:57:31Z",
+    "status": "success"
+  },
+  "Q70": {
+    "wikidata_id": "Q17376908",
+    "timestamp": "2026-08-04T19:57:35Z",
+    "status": "success"
+  },
+  "Q73": {
+    "wikidata_id": "Q2861048",
+    "timestamp": "2026-08-04T19:57:38Z",
+    "status": "success"
+  },
+  "Q64769": {
+    "wikidata_id": "Q1401131",
+    "timestamp": "2026-08-04T19:57:49Z",
+    "status": "success"
+  },
+  "Q64794": {
+    "wikidata_id": "Q1923028",
+    "timestamp": "2026-08-04T19:57:58Z",
+    "status": "success"
+  },
+  "Q21488": {
+    "wikidata_id": "Q380057",
+    "timestamp": "2026-08-04T19:58:11Z",
+    "status": "success"
+  },
+  "Q90": {
+    "wikidata_id": "Q1063239",
+    "timestamp": "2026-08-04T19:58:15Z",
+    "status": "success"
+  },
+  "Q91": {
+    "wikidata_id": "Q7275",
+    "timestamp": "2026-08-04T19:58:19Z",
+    "status": "success"
+  },
+  "Q92": {
+    "wikidata_id": "Q3624078",
+    "timestamp": "2026-08-04T19:58:22Z",
+    "status": "success"
+  },
+  "Q95": {
+    "wikidata_id": "Q6256",
+    "timestamp": "2026-08-04T19:58:25Z",
+    "status": "success"
+  },
+  "Q9907": {
+    "wikidata_id": "Q889",
+    "timestamp": "2026-08-04T19:58:53Z",
+    "status": "success"
+  },
+  "Q99": {
+    "wikidata_id": "Q15634554",
+    "timestamp": "2026-08-04T19:58:56Z",
+    "status": "success"
+  },
+  "Q101": {
+    "wikidata_id": "Q19829914",
+    "timestamp": "2026-08-04T19:59:01Z",
+    "status": "success"
+  },
+  "Q104": {
+    "wikidata_id": "Q1140229",
+    "timestamp": "2026-08-04T19:59:04Z",
+    "status": "success"
+  },
+  "Q63416": {
+    "wikidata_id": "Q315",
+    "timestamp": "2026-08-04T19:59:33Z",
+    "status": "success"
+  },
+  "Q107": {
+    "wikidata_id": "Q397",
+    "timestamp": "2026-08-04T20:04:41Z",
+    "status": "success"
+  },
+  "Q109": {
+    "wikidata_id": "Q9129",
+    "timestamp": "2026-08-04T20:05:00Z",
+    "status": "success"
+  },
+  "Q110": {
+    "wikidata_id": "Q36510",
+    "timestamp": "2026-08-04T20:05:09Z",
+    "status": "success"
+  },
+  "Q111": {
+    "wikidata_id": "Q2966838",
+    "timestamp": "2026-08-04T20:05:13Z",
+    "status": "success"
+  },
+  "Q21118": {
+    "wikidata_id": "Q35497",
+    "timestamp": "2026-08-04T20:05:17Z",
+    "status": "success"
+  },
+  "Q64802": {
+    "wikidata_id": "Q147276",
+    "timestamp": "2026-08-04T20:05:21Z",
+    "status": "success"
+  },
+  "Q64804": {
+    "wikidata_id": "Q102047",
+    "timestamp": "2026-08-04T20:05:25Z",
+    "status": "success"
+  },
+  "Q116": {
+    "wikidata_id": "Q150",
+    "timestamp": "2026-08-04T20:05:48Z",
+    "status": "success"
+  },
+  "Q2": {
+    "wikidata_id": "Q1860",
+    "timestamp": "2026-08-04T20:06:14Z",
+    "status": "success"
+  },
+  "Q64806": {
+    "wikidata_id": "Q134830",
+    "timestamp": "2026-08-04T20:14:06Z",
+    "status": "success"
+  },
+  "Q118": {
+    "wikidata_id": "Q188",
+    "timestamp": "2026-08-04T20:14:34Z",
+    "status": "success"
+  },
+  "Q21494": {
+    "wikidata_id": "Q4833830",
+    "timestamp": "2026-08-04T20:14:57Z",
+    "status": "success"
+  },
+  "Q64809": {
+    "wikidata_id": "Q56042915",
+    "timestamp": "2026-08-04T20:15:04Z",
+    "status": "success"
+  },
+  "Q121": {
+    "wikidata_id": "Q23111",
+    "timestamp": "2026-08-04T20:15:10Z",
+    "status": "success"
+  },
+  "Q122": {
+    "wikidata_id": "Q23077",
+    "timestamp": "2026-08-04T20:15:14Z",
+    "status": "success"
+  },
+  "Q123": {
+    "wikidata_id": "Q23220",
+    "timestamp": "2026-08-04T20:15:19Z",
+    "status": "success"
+  },
+  "Q129": {
+    "wikidata_id": "Q47134",
+    "timestamp": "2026-08-04T20:15:22Z",
+    "status": "success"
+  },
+  "Q130": {
+    "wikidata_id": "Q100166",
+    "timestamp": "2026-08-04T20:15:26Z",
+    "status": "success"
+  },
+  "Q132": {
+    "wikidata_id": "Q163",
+    "timestamp": "2026-08-04T20:15:29Z",
+    "status": "success"
+  },
+  "Q134": {
+    "wikidata_id": "Q5327701",
+    "timestamp": "2026-08-04T20:15:33Z",
+    "status": "success"
+  },
+  "Q135": {
+    "wikidata_id": "Q23105",
+    "timestamp": "2026-08-04T20:15:37Z",
+    "status": "success"
+  },
+  "Q136": {
+    "wikidata_id": "Q1649537",
+    "timestamp": "2026-08-04T20:15:41Z",
+    "status": "success"
+  },
+  "Q137": {
+    "wikidata_id": "Q36395",
+    "timestamp": "2026-08-04T20:15:50Z",
+    "status": "success"
+  },
+  "Q138": {
+    "wikidata_id": "Q1321",
+    "timestamp": "2026-08-04T20:16:29Z",
+    "status": "success"
+  },
+  "Q21495": {
+    "wikidata_id": "Q83034",
+    "timestamp": "2026-08-04T20:16:43Z",
+    "status": "success"
+  },
+  "Q146": {
+    "wikidata_id": "Q386724",
+    "timestamp": "2026-08-04T20:16:53Z",
+    "status": "success"
+  },
+  "Q145": {
+    "wikidata_id": "Q49848",
+    "timestamp": "2026-08-04T20:16:56Z",
+    "status": "success"
+  },
+  "Q78714": {
+    "wikidata_id": "Q732577",
+    "timestamp": "2026-08-04T20:17:01Z",
+    "status": "success"
+  },
+  "Q148": {
+    "wikidata_id": "Q17537576",
+    "timestamp": "2026-08-04T20:17:06Z",
+    "status": "success"
+  },
+  "Q152": {
+    "wikidata_id": "Q110861089",
+    "timestamp": "2026-08-04T20:17:10Z",
+    "status": "success"
+  },
+  "Q154": {
+    "wikidata_id": "Q1193907",
+    "timestamp": "2026-08-04T20:17:14Z",
+    "status": "success"
+  },
+  "Q164": {
+    "wikidata_id": "Q657881",
+    "timestamp": "2026-08-04T20:17:18Z",
+    "status": "success"
+  },
+  "Q169": {
+    "wikidata_id": "Q7216866",
+    "timestamp": "2026-08-04T20:17:23Z",
+    "status": "success"
+  },
+  "Q170": {
+    "wikidata_id": "Q1962297",
+    "timestamp": "2026-08-04T20:17:28Z",
+    "status": "success"
+  },
+  "Q173": {
+    "wikidata_id": "Q7976",
+    "timestamp": "2026-08-04T20:17:32Z",
+    "status": "success"
+  },
+  "Q175": {
+    "wikidata_id": "Q859161",
+    "timestamp": "2026-08-04T20:17:36Z",
+    "status": "success"
+  },
+  "Q177": {
+    "wikidata_id": "Q36774",
+    "timestamp": "2026-08-04T20:17:40Z",
+    "status": "success"
+  },
+  "Q179": {
+    "wikidata_id": "Q35127",
+    "timestamp": "2026-08-04T20:17:55Z",
+    "status": "success"
+  },
+  "Q178": {
+    "wikidata_id": "Q44679",
+    "timestamp": "2026-08-04T20:27:53Z",
+    "status": "success"
+  },
+  "Q64818": {
+    "wikidata_id": "Q4370501",
+    "timestamp": "2026-08-04T20:27:57Z",
+    "status": "success"
+  },
+  "Q64819": {
+    "wikidata_id": "Q12586068",
+    "timestamp": "2026-08-04T20:28:02Z",
+    "status": "success"
+  },
+  "Q22721": {
+    "wikidata_id": "Q111942851",
+    "timestamp": "2026-08-04T20:28:06Z",
+    "status": "success"
+  },
+  "Q64999": {
+    "wikidata_id": "Q192989",
+    "timestamp": "2026-08-04T20:28:10Z",
+    "status": "success"
+  },
+  "Q22728": {
+    "wikidata_id": "Q17001099",
+    "timestamp": "2026-08-04T20:28:13Z",
+    "status": "success"
+  },
+  "Q203": {
+    "wikidata_id": "Q203764",
+    "timestamp": "2026-08-04T20:28:18Z",
+    "status": "success"
+  },
+  "Q65006": {
+    "wikidata_id": "Q203764",
+    "timestamp": "2026-08-04T20:28:22Z",
+    "status": "success"
+  },
+  "Q22738": {
+    "wikidata_id": "Q15253558",
+    "timestamp": "2026-08-04T20:28:27Z",
+    "status": "success"
+  },
+  "Q65017": {
+    "wikidata_id": "Q15253558",
+    "timestamp": "2026-08-04T20:28:31Z",
+    "status": "success"
+  },
+  "Q65024": {
+    "wikidata_id": "Q12029",
+    "timestamp": "2026-08-04T20:28:36Z",
+    "status": "success"
+  },
+  "Q65034": {
+    "wikidata_id": "Q12579933",
+    "timestamp": "2026-08-04T20:28:39Z",
+    "status": "success"
+  },
+  "Q65076": {
+    "wikidata_id": "Q180472",
+    "timestamp": "2026-08-04T20:28:43Z",
+    "status": "success"
+  },
+  "Q65078": {
+    "wikidata_id": "Q4685912",
+    "timestamp": "2026-08-04T20:28:47Z",
+    "status": "success"
+  },
+  "Q65079": {
+    "wikidata_id": "Q4685912",
+    "timestamp": "2026-08-04T20:28:51Z",
+    "status": "success"
+  },
+  "Q217": {
+    "wikidata_id": "Q488111",
+    "timestamp": "2026-08-04T20:28:55Z",
+    "status": "success"
+  },
+  "Q65084": {
+    "wikidata_id": "Q488111",
+    "timestamp": "2026-08-04T20:28:59Z",
+    "status": "success"
+  },
+  "Q218": {
+    "wikidata_id": "Q52815",
+    "timestamp": "2026-08-04T20:29:03Z",
+    "status": "success"
+  },
+  "Q65087": {
+    "wikidata_id": "Q234213",
+    "timestamp": "2026-08-04T20:45:20Z",
+    "status": "success"
+  },
+  "Q221": {
+    "wikidata_id": "Q105821669",
+    "timestamp": "2026-08-04T20:45:24Z",
+    "status": "success"
+  },
+  "Q65092": {
+    "wikidata_id": "Q37038",
+    "timestamp": "2026-08-04T20:45:28Z",
+    "status": "success"
+  },
+  "Q65099": {
+    "wikidata_id": "Q35986",
+    "timestamp": "2026-08-04T20:58:31Z",
+    "status": "success"
+  },
+  "Q226": {
+    "wikidata_id": "Q4688879",
+    "timestamp": "2026-08-04T20:58:35Z",
+    "status": "success"
+  },
+  "Q245": {
+    "wikidata_id": "Q42401304",
+    "timestamp": "2026-08-04T20:58:38Z",
+    "status": "success"
+  },
+  "Q65127": {
+    "wikidata_id": "Q327538",
+    "timestamp": "2026-08-04T20:58:42Z",
+    "status": "success"
+  },
+  "Q65128": {
+    "wikidata_id": "Q438946",
+    "timestamp": "2026-08-04T20:58:45Z",
+    "status": "success"
+  },
+  "Q65129": {
+    "wikidata_id": "Q191797",
+    "timestamp": "2026-08-04T20:58:48Z",
+    "status": "success"
+  },
+  "Q65130": {
+    "wikidata_id": "Q332154",
+    "timestamp": "2026-08-04T20:58:51Z",
+    "status": "success"
+  },
+  "Q65157": {
+    "wikidata_id": "Q4651855",
+    "timestamp": "2026-08-04T20:58:55Z",
+    "status": "success"
+  },
+  "Q65161": {
+    "wikidata_id": "Q9148481",
+    "timestamp": "2026-08-04T20:58:58Z",
+    "status": "success"
+  },
+  "Q65183": {
+    "wikidata_id": "Q15326",
+    "timestamp": "2026-08-04T20:59:01Z",
+    "status": "success"
+  },
+  "Q65187": {
+    "wikidata_id": "Q188504",
+    "timestamp": "2026-08-04T20:59:04Z",
+    "status": "success"
+  },
+  "Q65189": {
+    "wikidata_id": "Q63781172",
+    "timestamp": "2026-08-04T20:59:08Z",
+    "status": "success"
+  },
+  "Q65191": {
+    "wikidata_id": "Q211380",
+    "timestamp": "2026-08-04T20:59:11Z",
+    "status": "success"
+  },
+  "Q65192": {
+    "wikidata_id": "Q6199",
+    "timestamp": "2026-08-04T20:59:32Z",
+    "status": "success"
+  },
+  "Q65193": {
+    "wikidata_id": "Q62614",
+    "timestamp": "2026-08-04T20:59:36Z",
+    "status": "success"
+  },
+  "Q95055": {
+    "wikidata_id": "Q4770046",
+    "timestamp": "2026-08-04T20:59:39Z",
+    "status": "success"
+  },
+  "Q76687": {
+    "wikidata_id": "Q131749",
+    "timestamp": "2026-08-04T20:59:48Z",
+    "status": "success"
+  },
+  "Q65202": {
+    "wikidata_id": "Q23404",
+    "timestamp": "2026-08-04T21:00:04Z",
+    "status": "success"
+  },
+  "Q65209": {
+    "wikidata_id": "Q575220",
+    "timestamp": "2026-08-04T21:00:11Z",
+    "status": "success"
+  },
+  "Q330": {
+    "wikidata_id": "Q50377208",
+    "timestamp": "2026-08-04T21:11:05Z",
+    "status": "success"
+  },
+  "Q331": {
+    "wikidata_id": "Q50377176",
+    "timestamp": "2026-08-04T21:11:08Z",
+    "status": "success"
+  },
+  "Q65214": {
+    "wikidata_id": "Q4774943",
+    "timestamp": "2026-08-04T21:11:12Z",
+    "status": "success"
+  },
+  "Q5667": {
+    "wikidata_id": "Q3273263",
+    "timestamp": "2026-08-04T21:11:15Z",
+    "status": "success"
+  },
+  "Q2062": {
+    "wikidata_id": "Q11042",
+    "timestamp": "2026-08-04T21:11:19Z",
+    "status": "success"
+  },
+  "Q66710": {
+    "wikidata_id": "Q5193269",
+    "timestamp": "2026-08-04T21:11:23Z",
+    "status": "success"
+  },
+  "Q66713": {
+    "wikidata_id": "Q638532",
+    "timestamp": "2026-08-04T21:11:26Z",
+    "status": "success"
+  },
+  "Q66714": {
+    "wikidata_id": "Q494348",
+    "timestamp": "2026-08-04T21:11:29Z",
+    "status": "success"
+  },
+  "Q66715": {
+    "wikidata_id": "Q11639",
+    "timestamp": "2026-08-04T21:11:45Z",
+    "status": "success"
+  },
+  "Q66717": {
+    "wikidata_id": "Q5215299",
+    "timestamp": "2026-08-04T21:11:51Z",
+    "status": "success"
+  },
+  "Q66718": {
+    "wikidata_id": "Q654810",
+    "timestamp": "2026-08-04T21:11:54Z",
+    "status": "success"
+  },
+  "Q66719": {
+    "wikidata_id": "Q16302720",
+    "timestamp": "2026-08-04T21:11:58Z",
+    "status": "success"
+  },
+  "Q66720": {
+    "wikidata_id": "Q4386352",
+    "timestamp": "2026-08-04T21:12:01Z",
+    "status": "success"
+  },
+  "Q66723": {
+    "wikidata_id": "Q4",
+    "timestamp": "2026-08-04T21:12:04Z",
+    "status": "success"
+  },
+  "Q66724": {
+    "wikidata_id": "Q180348",
+    "timestamp": "2026-08-04T21:12:07Z",
+    "status": "success"
+  },
+  "Q66728": {
+    "wikidata_id": "Q775842",
+    "timestamp": "2026-08-04T21:12:10Z",
+    "status": "success"
+  },
+  "Q66730": {
+    "wikidata_id": "Q175002",
+    "timestamp": "2026-08-04T21:12:18Z",
+    "status": "success"
+  },
+  "Q66734": {
+    "wikidata_id": "Q10801",
+    "timestamp": "2026-08-04T21:12:29Z",
+    "status": "success"
+  },
+  "Q66736": {
+    "wikidata_id": "Q506259",
+    "timestamp": "2026-08-04T21:12:38Z",
+    "status": "success"
+  },
+  "Q66737": {
+    "wikidata_id": "Q58339",
+    "timestamp": "2026-08-04T21:16:22Z",
+    "status": "success"
+  },
+  "Q66739": {
+    "wikidata_id": "Q169207",
+    "timestamp": "2026-08-04T21:16:25Z",
+    "status": "success"
+  },
+  "Q146398": {
+    "wikidata_id": "Q12136",
+    "timestamp": "2026-08-04T21:16:29Z",
+    "status": "success"
+  },
+  "Q26104": {
+    "wikidata_id": "Q93190",
+    "timestamp": "2026-08-04T21:16:32Z",
+    "status": "success"
+  },
+  "Q66744": {
+    "wikidata_id": "Q93204",
+    "timestamp": "2026-08-04T21:16:36Z",
+    "status": "success"
+  },
+  "Q66748": {
+    "wikidata_id": "Q3449014",
+    "timestamp": "2026-08-04T21:16:40Z",
+    "status": "success"
+  },
+  "Q66750": {
+    "wikidata_id": "Q156537",
+    "timestamp": "2026-08-04T21:16:43Z",
+    "status": "success"
+  },
+  "Q66749": {
+    "wikidata_id": "Q5290204",
+    "timestamp": "2026-08-04T21:16:47Z",
+    "status": "success"
+  },
+  "Q66964": {
+    "wikidata_id": "Q135475",
+    "timestamp": "2026-08-04T21:16:51Z",
+    "status": "success"
+  },
+  "Q66973": {
+    "wikidata_id": "Q1638401",
+    "timestamp": "2026-08-04T21:16:54Z",
+    "status": "success"
+  },
+  "Q66978": {
+    "wikidata_id": "Q1254525",
+    "timestamp": "2026-08-04T21:17:02Z",
+    "status": "success"
+  },
+  "Q66981": {
+    "wikidata_id": "Q337084",
+    "timestamp": "2026-08-04T21:17:09Z",
+    "status": "success"
+  },
+  "Q66983": {
+    "wikidata_id": "Q3446221",
+    "timestamp": "2026-08-04T21:17:13Z",
+    "status": "success"
+  },
+  "Q66988": {
+    "wikidata_id": "Q5308931",
+    "timestamp": "2026-08-04T21:17:18Z",
+    "status": "success"
+  },
+  "Q67014": {
+    "wikidata_id": "Q3505252",
+    "timestamp": "2026-08-04T21:17:21Z",
+    "status": "success"
+  },
+  "Q845": {
+    "wikidata_id": "Q701216",
+    "timestamp": "2026-08-04T21:17:25Z",
+    "status": "success"
+  },
+  "Q847": {
+    "wikidata_id": "Q8386",
+    "timestamp": "2026-08-04T21:17:35Z",
+    "status": "success"
+  },
+  "Q67092": {
+    "wikidata_id": "Q7458471",
+    "timestamp": "2026-08-04T21:17:38Z",
+    "status": "success"
+  },
+  "Q67098": {
+    "wikidata_id": "Q4154060",
+    "timestamp": "2026-08-04T21:17:42Z",
+    "status": "success"
+  },
+  "Q855": {
+    "wikidata_id": "Q21484295",
+    "timestamp": "2026-08-04T21:17:45Z",
+    "status": "success"
+  },
+  "Q67133": {
+    "wikidata_id": "Q294949",
+    "timestamp": "2026-08-04T21:17:49Z",
+    "status": "success"
+  },
+  "Q67135": {
+    "wikidata_id": "Q8434",
+    "timestamp": "2026-08-04T21:18:05Z",
+    "status": "success"
+  },
+  "Q67145": {
+    "wikidata_id": "Q437458",
+    "timestamp": "2026-08-04T21:23:31Z",
+    "status": "success"
+  },
+  "Q67155": {
+    "wikidata_id": "Q484847",
+    "timestamp": "2026-08-04T21:23:35Z",
+    "status": "success"
+  },
+  "Q67162": {
+    "wikidata_id": "Q9415",
+    "timestamp": "2026-08-04T21:23:49Z",
+    "status": "success"
+  },
+  "Q67166": {
+    "wikidata_id": "Q678774",
+    "timestamp": "2026-08-04T21:23:53Z",
+    "status": "success"
+  },
+  "Q67169": {
+    "wikidata_id": "Q2915476",
+    "timestamp": "2026-08-04T21:23:56Z",
+    "status": "success"
+  },
+  "Q67170": {
+    "wikidata_id": "Q656365",
+    "timestamp": "2026-08-04T21:23:59Z",
+    "status": "success"
+  },
+  "Q67172": {
+    "wikidata_id": "Q2606784",
+    "timestamp": "2026-08-04T21:24:03Z",
+    "status": "success"
+  },
+  "Q67183": {
+    "wikidata_id": "Q194517",
+    "timestamp": "2026-08-04T21:24:07Z",
+    "status": "success"
+  },
+  "Q887": {
+    "wikidata_id": "Q138858",
+    "timestamp": "2026-08-04T21:24:11Z",
+    "status": "success"
+  },
+  "Q67192": {
+    "wikidata_id": "Q427492",
+    "timestamp": "2026-08-04T21:24:14Z",
+    "status": "success"
+  },
+  "Q67193": {
+    "wikidata_id": "Q595012",
+    "timestamp": "2026-08-04T21:24:18Z",
+    "status": "success"
+  },
+  "Q67198": {
+    "wikidata_id": "Q429923",
+    "timestamp": "2026-08-04T21:24:21Z",
+    "status": "success"
+  },
+  "Q67199": {
+    "wikidata_id": "Q13416790",
+    "timestamp": "2026-08-04T21:24:26Z",
+    "status": "success"
+  },
+  "Q902": {
+    "wikidata_id": "Q1168168",
+    "timestamp": "2026-08-04T21:24:30Z",
+    "status": "success"
+  },
+  "Q67206": {
+    "wikidata_id": "Q1361392",
+    "timestamp": "2026-08-04T21:24:34Z",
+    "status": "success"
+  },
+  "Q66432": {
+    "wikidata_id": "Q181001",
+    "timestamp": "2026-08-04T21:24:38Z",
+    "status": "success"
+  },
+  "Q915": {
+    "wikidata_id": "Q2602871",
+    "timestamp": "2026-08-04T21:24:41Z",
+    "status": "success"
+  },
+  "Q20031": {
+    "wikidata_id": "Q277954",
+    "timestamp": "2026-08-04T21:24:44Z",
+    "status": "success"
+  },
+  "Q67217": {
+    "wikidata_id": "Q9465",
+    "timestamp": "2026-08-04T21:24:47Z",
+    "status": "success"
+  },
+  "Q921": {
+    "wikidata_id": "Q41710",
+    "timestamp": "2026-08-04T21:24:52Z",
+    "status": "success"
+  },
+  "Q923": {
+    "wikidata_id": "Q4533081",
+    "timestamp": "2026-08-04T21:24:55Z",
+    "status": "success"
+  },
+  "Q927": {
+    "wikidata_id": "Q11197007",
+    "timestamp": "2026-08-04T21:24:58Z",
+    "status": "success"
+  },
+  "Q21516": {
+    "wikidata_id": "Q110952373",
+    "timestamp": "2026-08-04T21:25:02Z",
+    "status": "success"
+  },
+  "Q67221": {
+    "wikidata_id": "Q43455",
+    "timestamp": "2026-08-04T21:25:05Z",
+    "status": "success"
+  },
+  "Q67223": {
+    "wikidata_id": "Q170480",
+    "timestamp": "2026-08-04T21:25:09Z",
+    "status": "success"
+  },
+  "Q67235": {
+    "wikidata_id": "Q194253",
+    "timestamp": "2026-08-04T21:25:12Z",
+    "status": "success"
+  },
+  "Q67236": {
+    "wikidata_id": "Q849216",
+    "timestamp": "2026-08-04T21:25:16Z",
+    "status": "success"
+  },
+  "Q942": {
+    "wikidata_id": "Q43405",
+    "timestamp": "2026-08-04T21:25:25Z",
+    "status": "success"
+  },
+  "Q67243": {
+    "wikidata_id": "Q771773",
+    "timestamp": "2026-08-04T21:25:28Z",
+    "status": "success"
+  },
+  "Q67244": {
+    "wikidata_id": "Q1233836",
+    "timestamp": "2026-08-04T21:25:32Z",
+    "status": "success"
+  },
+  "Q67245": {
+    "wikidata_id": "Q1395327",
+    "timestamp": "2026-08-04T21:25:35Z",
+    "status": "success"
+  },
+  "Q67246": {
+    "wikidata_id": "Q8436",
+    "timestamp": "2026-08-04T21:25:39Z",
+    "status": "success"
+  },
+  "Q952": {
+    "wikidata_id": "Q96377694",
+    "timestamp": "2026-08-04T21:25:43Z",
+    "status": "success"
+  },
+  "Q67305": {
+    "wikidata_id": "Q1280670",
+    "timestamp": "2026-08-04T21:25:46Z",
+    "status": "success"
+  },
+  "Q67358": {
+    "wikidata_id": "Q69901743",
+    "timestamp": "2026-08-04T21:25:49Z",
+    "status": "success"
+  },
+  "Q67361": {
+    "wikidata_id": "Q25451035",
+    "timestamp": "2026-08-04T21:25:55Z",
+    "status": "success"
+  },
+  "Q67365": {
+    "wikidata_id": "Q30032110",
+    "timestamp": "2026-08-04T21:25:58Z",
+    "status": "success"
+  },
+  "Q67373": {
+    "wikidata_id": "Q1811480",
+    "timestamp": "2026-08-04T21:26:02Z",
+    "status": "success"
+  },
+  "Q67376": {
+    "wikidata_id": "Q1153401",
+    "timestamp": "2026-08-04T21:26:06Z",
+    "status": "success"
+  },
+  "Q67375": {
+    "wikidata_id": "Q12684",
+    "timestamp": "2026-08-04T21:26:09Z",
+    "status": "success"
+  },
+  "Q67444": {
+    "wikidata_id": "Q212379",
+    "timestamp": "2026-08-04T21:26:13Z",
+    "status": "success"
+  },
+  "Q971": {
+    "wikidata_id": "Q2822683",
+    "timestamp": "2026-08-04T21:26:16Z",
+    "status": "success"
+  },
+  "Q67436": {
+    "wikidata_id": "Q44619",
+    "timestamp": "2026-08-04T21:26:19Z",
+    "status": "success"
+  },
+  "Q67374": {
+    "wikidata_id": "Q6223",
+    "timestamp": "2026-08-04T21:26:23Z",
+    "status": "success"
+  },
+  "Q977": {
+    "wikidata_id": "Q864088",
+    "timestamp": "2026-08-04T21:26:27Z",
+    "status": "success"
+  },
+  "Q67452": {
+    "wikidata_id": "Q208373",
+    "timestamp": "2026-08-04T21:26:30Z",
+    "status": "success"
+  },
+  "Q67455": {
+    "wikidata_id": "Q61041511",
+    "timestamp": "2026-08-04T21:26:33Z",
+    "status": "success"
+  },
+  "Q984": {
+    "wikidata_id": "Q66747768",
+    "timestamp": "2026-08-04T21:26:37Z",
+    "status": "success"
+  },
+  "Q985": {
+    "wikidata_id": "Q61520979",
+    "timestamp": "2026-08-04T21:26:40Z",
+    "status": "success"
+  },
+  "Q989": {
+    "wikidata_id": "Q7458532",
+    "timestamp": "2026-08-04T21:26:44Z",
+    "status": "success"
+  },
+  "Q67479": {
+    "wikidata_id": "Q866081",
+    "timestamp": "2026-08-04T21:26:47Z",
+    "status": "success"
+  },
+  "Q67480": {
+    "wikidata_id": "Q7252",
+    "timestamp": "2026-08-04T21:27:03Z",
+    "status": "success"
+  },
+  "Q67485": {
+    "wikidata_id": "Q1246516",
+    "timestamp": "2026-08-04T21:27:07Z",
+    "status": "success"
+  },
+  "Q67484": {
+    "wikidata_id": "Q5442878",
+    "timestamp": "2026-08-04T21:27:10Z",
+    "status": "success"
+  },
+  "Q67486": {
+    "wikidata_id": "Q17002050",
+    "timestamp": "2026-08-04T21:27:13Z",
+    "status": "success"
+  },
+  "Q67492": {
+    "wikidata_id": "Q3302930",
+    "timestamp": "2026-08-04T21:27:17Z",
+    "status": "success"
+  },
+  "Q67493": {
+    "wikidata_id": "Q10494601",
+    "timestamp": "2026-08-04T21:27:20Z",
+    "status": "success"
+  },
+  "Q67496": {
+    "wikidata_id": "Q2627057",
+    "timestamp": "2026-08-04T21:27:23Z",
+    "status": "success"
+  },
+  "Q67499": {
+    "wikidata_id": "Q3495027",
+    "timestamp": "2026-08-04T21:27:26Z",
+    "status": "success"
+  },
+  "Q67500": {
+    "wikidata_id": "Q26987750",
+    "timestamp": "2026-08-04T21:27:30Z",
+    "status": "success"
+  },
+  "Q67502": {
+    "wikidata_id": "Q56697502",
+    "timestamp": "2026-08-04T21:27:33Z",
+    "status": "success"
+  },
+  "Q67504": {
+    "wikidata_id": "Q5442885",
+    "timestamp": "2026-08-04T21:27:37Z",
+    "status": "success"
+  },
+  "Q65213": {
+    "wikidata_id": "Q574820",
+    "timestamp": "2026-08-04T21:27:40Z",
+    "status": "success"
+  },
+  "Q65255": {
+    "wikidata_id": "Q50430310",
+    "timestamp": "2026-08-04T21:27:44Z",
+    "status": "success"
+  },
+  "Q65262": {
+    "wikidata_id": "Q22649",
+    "timestamp": "2026-08-04T21:27:48Z",
+    "status": "success"
+  },
+  "Q65266": {
+    "wikidata_id": "Q40207875",
+    "timestamp": "2026-08-04T21:27:53Z",
+    "status": "success"
+  },
+  "Q65285": {
+    "wikidata_id": "Q154430",
+    "timestamp": "2026-08-04T21:37:51Z",
+    "status": "success"
+  },
+  "Q65373": {
+    "wikidata_id": "Q538904",
+    "timestamp": "2026-08-04T21:37:55Z",
+    "status": "success"
+  },
+  "Q348": {
+    "wikidata_id": "Q838948",
+    "timestamp": "2026-08-04T21:37:58Z",
+    "status": "success"
+  },
+  "Q65731": {
+    "wikidata_id": "Q735",
+    "timestamp": "2026-08-04T21:38:02Z",
+    "status": "success"
+  },
+  "Q65737": {
+    "wikidata_id": "Q968159",
+    "timestamp": "2026-08-04T21:38:05Z",
+    "status": "success"
+  },
+  "Q65740": {
+    "wikidata_id": "Q483501",
+    "timestamp": "2026-08-04T21:38:09Z",
+    "status": "success"
+  },
+  "Q65749": {
+    "wikidata_id": "Q2018526",
+    "timestamp": "2026-08-04T21:38:13Z",
+    "status": "success"
+  },
+  "Q65754": {
+    "wikidata_id": "Q109501952",
+    "timestamp": "2026-08-04T21:38:16Z",
+    "status": "success"
+  },
+  "Q65771": {
+    "wikidata_id": "Q193579",
+    "timestamp": "2026-08-04T21:38:20Z",
+    "status": "success"
+  },
+  "Q65773": {
+    "wikidata_id": "Q7066",
+    "timestamp": "2026-08-04T21:38:24Z",
+    "status": "success"
+  },
+  "Q65774": {
+    "wikidata_id": "Q3518184",
+    "timestamp": "2026-08-04T21:38:28Z",
+    "status": "success"
+  },
+  "Q65775": {
+    "wikidata_id": "Q622645",
+    "timestamp": "2026-08-04T21:38:32Z",
+    "status": "success"
+  },
+  "Q65788": {
+    "wikidata_id": "Q4184",
+    "timestamp": "2026-08-04T21:38:36Z",
+    "status": "success"
+  },
+  "Q65827": {
+    "wikidata_id": "Q790640",
+    "timestamp": "2026-08-04T21:38:40Z",
+    "status": "success"
+  },
+  "Q65835": {
+    "wikidata_id": "Q198504",
+    "timestamp": "2026-08-04T21:38:43Z",
+    "status": "success"
+  },
+  "Q65850": {
+    "wikidata_id": "Q21027639",
+    "timestamp": "2026-08-04T21:38:47Z",
+    "status": "success"
+  },
+  "Q65853": {
+    "wikidata_id": "Q41425",
+    "timestamp": "2026-08-04T21:38:50Z",
+    "status": "success"
+  },
+  "Q65908": {
+    "wikidata_id": "Q6406075",
+    "timestamp": "2026-08-04T21:38:54Z",
+    "status": "success"
+  },
+  "Q65909": {
+    "wikidata_id": "Q190845",
+    "timestamp": "2026-08-04T21:38:58Z",
+    "status": "success"
+  },
+  "Q65914": {
+    "wikidata_id": "Q618804",
+    "timestamp": "2026-08-04T21:39:06Z",
+    "status": "success"
+  },
+  "Q65915": {
+    "wikidata_id": "Q213457",
+    "timestamp": "2026-08-04T21:39:10Z",
+    "status": "success"
+  },
+  "Q65954": {
+    "wikidata_id": "Q3919817",
+    "timestamp": "2026-08-04T21:39:14Z",
+    "status": "success"
+  },
+  "Q65957": {
+    "wikidata_id": "Q211557",
+    "timestamp": "2026-08-04T21:39:19Z",
+    "status": "success"
+  },
+  "Q65958": {
+    "wikidata_id": "Q64700236",
+    "timestamp": "2026-08-04T21:39:24Z",
+    "status": "success"
+  },
+  "Q65961": {
+    "wikidata_id": "Q5530970",
+    "timestamp": "2026-08-04T21:39:33Z",
+    "status": "success"
+  },
+  "Q65968": {
+    "wikidata_id": "Q747592",
+    "timestamp": "2026-08-04T21:39:37Z",
+    "status": "success"
+  },
+  "Q65971": {
+    "wikidata_id": "Q83900",
+    "timestamp": "2026-08-04T21:39:42Z",
+    "status": "success"
+  },
+  "Q65972": {
+    "wikidata_id": "Q122224",
+    "timestamp": "2026-08-04T21:39:46Z",
+    "status": "success"
+  },
+  "Q10126": {
+    "wikidata_id": "Q351403",
+    "timestamp": "2026-08-04T21:39:50Z",
+    "status": "success"
+  },
+  "Q66157": {
+    "wikidata_id": "Q689435",
+    "timestamp": "2026-08-04T21:39:55Z",
+    "status": "success"
+  },
+  "Q555": {
+    "wikidata_id": "Q571",
+    "timestamp": "2026-08-04T21:39:59Z",
+    "status": "success"
+  },
+  "Q558": {
+    "wikidata_id": "Q19084397",
+    "timestamp": "2026-08-04T21:40:02Z",
+    "status": "success"
+  },
+  "Q10882": {
+    "wikidata_id": "Q427173",
+    "timestamp": "2026-08-04T21:40:11Z",
+    "status": "success"
+  },
+  "Q559": {
+    "wikidata_id": "Q2907274",
+    "timestamp": "2026-08-04T21:40:17Z",
+    "status": "success"
+  },
+  "Q66169": {
+    "wikidata_id": "Q179366",
+    "timestamp": "2026-08-04T21:40:30Z",
+    "status": "success"
+  },
+  "Q567": {
+    "wikidata_id": "Q749053",
+    "timestamp": "2026-08-04T21:42:11Z",
+    "status": "success"
+  },
+  "Q66176": {
+    "wikidata_id": "Q131295",
+    "timestamp": "2026-08-04T21:42:15Z",
+    "status": "success"
+  },
+  "Q66145": {
+    "wikidata_id": "Q43200",
+    "timestamp": "2026-08-04T21:42:20Z",
+    "status": "success"
+  },
+  "Q581": {
+    "wikidata_id": "Q158008",
+    "timestamp": "2026-08-04T21:42:23Z",
+    "status": "success"
+  },
+  "Q66185": {
+    "wikidata_id": "Q857784",
+    "timestamp": "2026-08-04T21:42:27Z",
+    "status": "success"
+  },
+  "Q66476": {
+    "wikidata_id": "Q12078",
+    "timestamp": "2026-08-04T21:42:50Z",
+    "status": "success"
+  },
+  "Q66483": {
+    "wikidata_id": "Q2421951",
+    "timestamp": "2026-08-04T21:42:54Z",
+    "status": "success"
+  },
+  "Q586": {
+    "wikidata_id": "Q210970",
+    "timestamp": "2026-08-04T21:42:57Z",
+    "status": "success"
+  },
+  "Q66503": {
+    "wikidata_id": "Q250867",
+    "timestamp": "2026-08-04T21:43:01Z",
+    "status": "success"
+  },
+  "Q66506": {
+    "wikidata_id": "Q191778",
+    "timestamp": "2026-08-04T21:43:05Z",
+    "status": "success"
+  },
+  "Q66514": {
+    "wikidata_id": "Q666412",
+    "timestamp": "2026-08-04T21:43:09Z",
+    "status": "success"
+  },
+  "Q66517": {
+    "wikidata_id": "Q207894",
+    "timestamp": "2026-08-04T21:43:12Z",
+    "status": "success"
+  },
+  "Q66520": {
+    "wikidata_id": "Q407784",
+    "timestamp": "2026-08-04T21:43:16Z",
+    "status": "success"
+  },
+  "Q66532": {
+    "wikidata_id": "Q660567",
+    "timestamp": "2026-08-04T21:43:20Z",
+    "status": "success"
+  },
+  "Q66538": {
+    "wikidata_id": "Q1029421",
+    "timestamp": "2026-08-04T21:43:23Z",
+    "status": "success"
+  },
+  "Q66541": {
+    "wikidata_id": "Q3411686",
+    "timestamp": "2026-08-04T21:43:29Z",
+    "status": "success"
+  },
+  "Q66562": {
+    "wikidata_id": "Q26553",
+    "timestamp": "2026-08-04T21:43:33Z",
+    "status": "success"
+  },
+  "Q66574": {
+    "wikidata_id": "Q17005008",
+    "timestamp": "2026-08-04T21:43:37Z",
+    "status": "success"
+  },
+  "Q66577": {
+    "wikidata_id": "Q66305973",
+    "timestamp": "2026-08-04T21:43:41Z",
+    "status": "success"
+  },
+  "Q651": {
+    "wikidata_id": "Q5043",
+    "timestamp": "2026-08-04T21:44:02Z",
+    "status": "success"
+  },
+  "Q66612": {
+    "wikidata_id": "Q19809",
+    "timestamp": "2026-08-04T21:54:54Z",
+    "status": "success"
+  },
+  "Q66615": {
+    "wikidata_id": "Q209733",
+    "timestamp": "2026-08-04T21:54:57Z",
+    "status": "success"
+  },
+  "Q66617": {
+    "wikidata_id": "Q55779873",
+    "timestamp": "2026-08-04T21:55:01Z",
+    "status": "success"
+  },
+  "Q66616": {
+    "wikidata_id": "Q55779876",
+    "timestamp": "2026-08-04T21:55:04Z",
+    "status": "success"
+  },
+  "Q668": {
+    "wikidata_id": "Q83345",
+    "timestamp": "2026-08-04T21:55:08Z",
+    "status": "success"
+  },
+  "Q66621": {
+    "wikidata_id": "Q47217",
+    "timestamp": "2026-08-04T21:55:11Z",
+    "status": "success"
+  },
+  "Q66623": {
+    "wikidata_id": "Q205572",
+    "timestamp": "2026-08-04T21:55:15Z",
+    "status": "success"
+  },
+  "Q66624": {
+    "wikidata_id": "Q25536339",
+    "timestamp": "2026-08-04T21:55:19Z",
+    "status": "success"
+  },
+  "Q66629": {
+    "wikidata_id": "Q41075",
+    "timestamp": "2026-08-04T21:55:23Z",
+    "status": "success"
+  },
+  "Q66631": {
+    "wikidata_id": "Q603557",
+    "timestamp": "2026-08-04T21:55:27Z",
+    "status": "success"
+  },
+  "Q679": {
+    "wikidata_id": "Q30612",
+    "timestamp": "2026-08-04T21:55:30Z",
+    "status": "success"
+  },
+  "Q680": {
+    "wikidata_id": "Q873072",
+    "timestamp": "2026-08-04T21:55:33Z",
+    "status": "success"
+  },
+  "Q690": {
+    "wikidata_id": "Q124964",
+    "timestamp": "2026-08-04T21:55:37Z",
+    "status": "success"
+  },
+  "Q66643": {
+    "wikidata_id": "Q30022",
+    "timestamp": "2026-08-04T21:55:39Z",
+    "status": "success"
+  },
+  "Q66645": {
+    "wikidata_id": "Q5146583",
+    "timestamp": "2026-08-04T21:55:42Z",
+    "status": "success"
+  },
+  "Q12471": {
+    "wikidata_id": "Q1377445",
+    "timestamp": "2026-08-04T21:55:45Z",
+    "status": "success"
+  },
+  "Q65094": {
+    "wikidata_id": "Q11024",
+    "timestamp": "2026-08-04T21:55:58Z",
+    "status": "success"
+  },
+  "Q719": {
+    "wikidata_id": "Q210499",
+    "timestamp": "2026-08-04T21:56:01Z",
+    "status": "success"
+  },
+  "Q66662": {
+    "wikidata_id": "Q152081",
+    "timestamp": "2026-08-04T21:56:04Z",
+    "status": "success"
+  },
+  "Q4646": {
+    "wikidata_id": "Q14076",
+    "timestamp": "2026-08-04T21:56:14Z",
+    "status": "success"
+  },
+  "Q66664": {
+    "wikidata_id": "Q14076",
+    "timestamp": "2026-08-04T21:56:17Z",
+    "status": "success"
+  },
+  "Q66665": {
+    "wikidata_id": "Q1810941",
+    "timestamp": "2026-08-04T21:56:20Z",
+    "status": "success"
+  },
+  "Q66666": {
+    "wikidata_id": "Q7169",
+    "timestamp": "2026-08-04T21:56:35Z",
+    "status": "success"
+  },
+  "Q66668": {
+    "wikidata_id": "Q22855",
+    "timestamp": "2026-08-04T21:56:38Z",
+    "status": "success"
+  },
+  "Q66669": {
+    "wikidata_id": "Q192270",
+    "timestamp": "2026-08-04T21:56:40Z",
+    "status": "success"
+  },
+  "Q734": {
+    "wikidata_id": "Q2995702",
+    "timestamp": "2026-08-04T21:56:43Z",
+    "status": "success"
+  },
+  "Q66672": {
+    "wikidata_id": "Q25473183",
+    "timestamp": "2026-08-04T21:56:46Z",
+    "status": "success"
+  },
+  "Q735": {
+    "wikidata_id": "Q73400539",
+    "timestamp": "2026-08-04T21:56:48Z",
+    "status": "success"
+  },
+  "Q66674": {
+    "wikidata_id": "Q4390239",
+    "timestamp": "2026-08-04T21:56:54Z",
+    "status": "success"
+  },
+  "Q66675": {
+    "wikidata_id": "Q188976",
+    "timestamp": "2026-08-04T22:00:02Z",
+    "status": "success"
+  },
+  "Q66678": {
+    "wikidata_id": "Q376596",
+    "timestamp": "2026-08-04T22:00:04Z",
+    "status": "success"
+  },
+  "Q741": {
+    "wikidata_id": "Q22294697",
+    "timestamp": "2026-08-04T22:00:08Z",
+    "status": "success"
+  },
+  "Q66683": {
+    "wikidata_id": "Q10436169",
+    "timestamp": "2026-08-04T22:00:11Z",
+    "status": "success"
+  },
+  "Q66686": {
+    "wikidata_id": "Q173462",
+    "timestamp": "2026-08-04T22:00:14Z",
+    "status": "success"
+  },
+  "Q66689": {
+    "wikidata_id": "Q1964968",
+    "timestamp": "2026-08-04T22:00:17Z",
+    "status": "success"
+  },
+  "Q66692": {
+    "wikidata_id": "Q146491",
+    "timestamp": "2026-08-04T22:00:19Z",
+    "status": "success"
+  },
+  "Q66694": {
+    "wikidata_id": "Q146071",
+    "timestamp": "2026-08-04T22:00:22Z",
+    "status": "success"
+  },
+  "Q758": {
+    "wikidata_id": "Q112918934",
+    "timestamp": "2026-08-04T22:00:25Z",
+    "status": "success"
+  },
+  "Q66701": {
+    "wikidata_id": "Q1141983",
+    "timestamp": "2026-08-04T22:00:27Z",
+    "status": "success"
+  },
+  "Q66707": {
+    "wikidata_id": "Q1782584",
+    "timestamp": "2026-08-04T22:00:29Z",
+    "status": "success"
+  },
+  "Q771": {
+    "wikidata_id": "Q2198855",
+    "timestamp": "2026-08-04T22:00:32Z",
+    "status": "success"
+  },
+  "Q1042": {
+    "wikidata_id": "Q2435402",
+    "timestamp": "2026-08-04T22:00:35Z",
+    "status": "success"
+  },
+  "Q67506": {
+    "wikidata_id": "Q85760748",
+    "timestamp": "2026-08-04T22:00:38Z",
+    "status": "success"
+  },
+  "Q67507": {
+    "wikidata_id": "Q1330520",
+    "timestamp": "2026-08-04T22:00:40Z",
+    "status": "success"
+  },
+  "Q67482": {
+    "wikidata_id": "Q4810748",
+    "timestamp": "2026-08-04T22:00:43Z",
+    "status": "success"
+  },
+  "Q67508": {
+    "wikidata_id": "Q1404521",
+    "timestamp": "2026-08-04T22:00:45Z",
+    "status": "success"
+  },
+  "Q1050": {
+    "wikidata_id": "Q34074720",
+    "timestamp": "2026-08-04T22:00:48Z",
+    "status": "success"
+  },
+  "Q1053": {
+    "wikidata_id": "Q207791",
+    "timestamp": "2026-08-04T22:00:51Z",
+    "status": "success"
+  },
+  "Q5057": {
+    "wikidata_id": "Q43015",
+    "timestamp": "2026-08-04T22:01:05Z",
+    "status": "success"
+  },
+  "Q67511": {
+    "wikidata_id": "Q43015",
+    "timestamp": "2026-08-04T22:01:08Z",
+    "status": "success"
+  },
+  "Q67513": {
+    "wikidata_id": "Q235757",
+    "timestamp": "2026-08-04T22:01:11Z",
+    "status": "success"
+  },
+  "Q67514": {
+    "wikidata_id": "Q208704",
+    "timestamp": "2026-08-04T22:01:13Z",
+    "status": "success"
+  },
+  "Q67516": {
+    "wikidata_id": "Q36192",
+    "timestamp": "2026-08-04T22:01:16Z",
+    "status": "success"
+  },
+  "Q67517": {
+    "wikidata_id": "Q463859",
+    "timestamp": "2026-08-04T22:01:18Z",
+    "status": "success"
+  },
+  "Q67518": {
+    "wikidata_id": "Q673203",
+    "timestamp": "2026-08-04T22:01:21Z",
+    "status": "success"
+  },
+  "Q1065": {
+    "wikidata_id": "Q629129",
+    "timestamp": "2026-08-04T22:01:23Z",
+    "status": "success"
+  },
+  "Q1066": {
+    "wikidata_id": "Q927079",
+    "timestamp": "2026-08-04T22:01:26Z",
+    "status": "success"
+  },
+  "Q1067": {
+    "wikidata_id": "Q168210",
+    "timestamp": "2026-08-04T22:01:29Z",
+    "status": "success"
+  },
+  "Q67541": {
+    "wikidata_id": "Q1430789",
+    "timestamp": "2026-08-04T22:01:31Z",
+    "status": "success"
+  },
+  "Q67544": {
+    "wikidata_id": "Q2427941",
+    "timestamp": "2026-08-04T22:01:34Z",
+    "status": "success"
+  },
+  "Q1072": {
+    "wikidata_id": "Q867081",
+    "timestamp": "2026-08-04T22:01:36Z",
+    "status": "success"
+  },
+  "Q67547": {
+    "wikidata_id": "Q3831748",
+    "timestamp": "2026-08-04T22:01:39Z",
+    "status": "success"
+  },
+  "Q67549": {
+    "wikidata_id": "Q26084",
+    "timestamp": "2026-08-04T22:01:41Z",
+    "status": "success"
+  },
+  "Q67554": {
+    "wikidata_id": "Q22692",
+    "timestamp": "2026-08-04T22:01:44Z",
+    "status": "success"
+  },
+  "Q67558": {
+    "wikidata_id": "Q491",
+    "timestamp": "2026-08-04T22:01:47Z",
+    "status": "success"
+  },
+  "Q67566": {
+    "wikidata_id": "Q1098028",
+    "timestamp": "2026-08-04T22:01:50Z",
+    "status": "success"
+  },
+  "Q67569": {
+    "wikidata_id": "Q1161355",
+    "timestamp": "2026-08-04T22:01:52Z",
+    "status": "success"
+  },
+  "Q11022": {
+    "wikidata_id": "Q517807",
+    "timestamp": "2026-08-04T22:01:55Z",
+    "status": "success"
+  },
+  "Q67575": {
+    "wikidata_id": "Q8192354",
+    "timestamp": "2026-08-04T22:01:58Z",
+    "status": "success"
+  },
+  "Q67594": {
+    "wikidata_id": "Q112134922",
+    "timestamp": "2026-08-04T22:02:00Z",
+    "status": "success"
+  },
+  "Q1101": {
+    "wikidata_id": "Q109291072",
+    "timestamp": "2026-08-04T22:02:03Z",
+    "status": "success"
+  },
+  "Q1106": {
+    "wikidata_id": "Q1043639",
+    "timestamp": "2026-08-04T22:02:06Z",
+    "status": "success"
+  },
+  "Q1108": {
+    "wikidata_id": "Q1531507",
+    "timestamp": "2026-08-04T22:02:09Z",
+    "status": "success"
+  },
+  "Q1109": {
+    "wikidata_id": "Q5528678",
+    "timestamp": "2026-08-04T22:02:11Z",
+    "status": "success"
+  },
+  "Q1148": {
+    "wikidata_id": "Q1228895",
+    "timestamp": "2026-08-04T22:02:14Z",
+    "status": "success"
+  },
+  "Q67959": {
+    "wikidata_id": "Q1130199",
+    "timestamp": "2026-08-04T22:02:17Z",
+    "status": "success"
+  },
+  "Q1411": {
+    "wikidata_id": "Q109482902",
+    "timestamp": "2026-08-04T22:02:21Z",
+    "status": "success"
+  },
+  "Q1448": {
+    "wikidata_id": "Q2631766",
+    "timestamp": "2026-08-04T22:04:01Z",
+    "status": "success"
+  },
+  "Q68436": {
+    "wikidata_id": "Q40246",
+    "timestamp": "2026-08-04T22:04:04Z",
+    "status": "success"
+  },
+  "Q68437": {
+    "wikidata_id": "Q48277",
+    "timestamp": "2026-08-04T22:04:06Z",
+    "status": "success"
+  },
+  "Q68441": {
+    "wikidata_id": "Q1049021",
+    "timestamp": "2026-08-04T22:04:14Z",
+    "status": "success"
+  },
+  "Q68444": {
+    "wikidata_id": "Q15404978",
+    "timestamp": "2026-08-04T22:04:16Z",
+    "status": "success"
+  },
+  "Q10639": {
+    "wikidata_id": "Q48264",
+    "timestamp": "2026-08-04T22:04:23Z",
+    "status": "success"
+  },
+  "Q1486": {
+    "wikidata_id": "Q2672163",
+    "timestamp": "2026-08-04T22:04:33Z",
+    "status": "success"
+  },
+  "Q68448": {
+    "wikidata_id": "Q2891097",
+    "timestamp": "2026-08-04T22:04:36Z",
+    "status": "success"
+  },
+  "Q68450": {
+    "wikidata_id": "Q4135211",
+    "timestamp": "2026-08-04T22:04:39Z",
+    "status": "success"
+  },
+  "Q68449": {
+    "wikidata_id": "Q598711",
+    "timestamp": "2026-08-04T22:04:41Z",
+    "status": "success"
+  },
+  "Q68471": {
+    "wikidata_id": "Q1662673",
+    "timestamp": "2026-08-04T22:04:44Z",
+    "status": "success"
+  },
+  "Q1507": {
+    "wikidata_id": "Q1189745",
+    "timestamp": "2026-08-04T22:04:50Z",
+    "status": "success"
+  },
+  "Q1526": {
+    "wikidata_id": "Q3031",
+    "timestamp": "2026-08-04T22:08:29Z",
+    "status": "success"
+  },
+  "Q68516": {
+    "wikidata_id": "Q1434843",
+    "timestamp": "2026-08-04T22:08:34Z",
+    "status": "success"
+  },
+  "Q68572": {
+    "wikidata_id": "Q430711",
+    "timestamp": "2026-08-04T22:08:37Z",
+    "status": "success"
+  },
+  "Q68601": {
+    "wikidata_id": "Q829895",
+    "timestamp": "2026-08-04T22:08:44Z",
+    "status": "success"
+  },
+  "Q68652": {
+    "wikidata_id": "Q2794113",
+    "timestamp": "2026-08-04T22:08:46Z",
+    "status": "success"
+  },
+  "Q68656": {
+    "wikidata_id": "Q1581290",
+    "timestamp": "2026-08-04T22:08:49Z",
+    "status": "success"
+  },
+  "Q66290": {
+    "wikidata_id": "Q12147",
+    "timestamp": "2026-08-04T22:08:51Z",
+    "status": "success"
+  },
+  "Q68657": {
+    "wikidata_id": "Q60589779",
+    "timestamp": "2026-08-04T22:08:54Z",
+    "status": "success"
+  },
+  "Q68658": {
+    "wikidata_id": "Q19374090",
+    "timestamp": "2026-08-04T22:08:56Z",
+    "status": "success"
+  },
+  "Q68659": {
+    "wikidata_id": "Q67075251",
+    "timestamp": "2026-08-04T22:08:59Z",
+    "status": "success"
+  },
+  "Q1578": {
+    "wikidata_id": "Q1357612",
+    "timestamp": "2026-08-04T22:09:02Z",
+    "status": "success"
+  },
+  "Q68666": {
+    "wikidata_id": "Q605088",
+    "timestamp": "2026-08-04T22:09:05Z",
+    "status": "success"
+  },
+  "Q68667": {
+    "wikidata_id": "Q49809",
+    "timestamp": "2026-08-04T22:09:07Z",
+    "status": "success"
+  },
+  "Q68672": {
+    "wikidata_id": "Q1035954",
+    "timestamp": "2026-08-04T22:09:10Z",
+    "status": "success"
+  },
+  "Q1609": {
+    "wikidata_id": "Q660882",
+    "timestamp": "2026-08-04T22:09:13Z",
+    "status": "success"
+  },
+  "Q68689": {
+    "wikidata_id": "Q17166092",
+    "timestamp": "2026-08-04T22:09:15Z",
+    "status": "success"
+  },
+  "Q1632": {
+    "wikidata_id": "Q15787",
+    "timestamp": "2026-08-04T22:09:18Z",
+    "status": "success"
+  },
+  "Q68702": {
+    "wikidata_id": "Q112207467",
+    "timestamp": "2026-08-04T22:09:21Z",
+    "status": "success"
+  },
+  "Q68706": {
+    "wikidata_id": "Q33487",
+    "timestamp": "2026-08-04T22:09:23Z",
+    "status": "success"
+  },
+  "Q23644": {
+    "wikidata_id": "Q6636",
+    "timestamp": "2026-08-04T22:09:26Z",
+    "status": "success"
+  },
+  "Q68714": {
+    "wikidata_id": "Q1628266",
+    "timestamp": "2026-08-04T22:09:28Z",
+    "status": "success"
+  },
+  "Q1732": {
+    "wikidata_id": "Q11364",
+    "timestamp": "2026-08-04T22:09:37Z",
+    "status": "success"
+  },
+  "Q68741": {
+    "wikidata_id": "Q66559285",
+    "timestamp": "2026-08-04T22:09:40Z",
+    "status": "success"
+  },
+  "Q1808": {
+    "wikidata_id": "Q103817",
+    "timestamp": "2026-08-04T22:09:43Z",
+    "status": "success"
+  },
+  "Q68897": {
+    "wikidata_id": "Q12964976",
+    "timestamp": "2026-08-04T22:09:45Z",
+    "status": "success"
+  },
+  "Q68898": {
+    "wikidata_id": "Q2914621",
+    "timestamp": "2026-08-04T22:09:48Z",
+    "status": "success"
+  },
+  "Q1807": {
+    "wikidata_id": "Q459290",
+    "timestamp": "2026-08-04T22:09:50Z",
+    "status": "success"
+  },
+  "Q68909": {
+    "wikidata_id": "Q10298025",
+    "timestamp": "2026-08-04T22:09:53Z",
+    "status": "success"
+  },
+  "Q68907": {
+    "wikidata_id": "Q3424268",
+    "timestamp": "2026-08-04T22:09:55Z",
+    "status": "success"
+  },
+  "Q68919": {
+    "wikidata_id": "Q1376252",
+    "timestamp": "2026-08-04T22:09:58Z",
+    "status": "success"
+  },
+  "Q68920": {
+    "wikidata_id": "Q2632514",
+    "timestamp": "2026-08-04T22:10:01Z",
+    "status": "success"
+  },
+  "Q68912": {
+    "wikidata_id": "Q2737457",
+    "timestamp": "2026-08-04T22:10:03Z",
+    "status": "success"
+  },
+  "Q76762": {
+    "wikidata_id": "Q75",
+    "timestamp": "2026-08-04T22:10:31Z",
+    "status": "success"
+  },
+  "Q1840": {
+    "wikidata_id": "Q104717073",
+    "timestamp": "2026-08-04T22:10:34Z",
+    "status": "success"
+  },
+  "Q68933": {
+    "wikidata_id": "Q16358629",
+    "timestamp": "2026-08-04T22:10:39Z",
+    "status": "success"
+  },
+  "Q68935": {
+    "wikidata_id": "Q5153528",
+    "timestamp": "2026-08-05T06:37:45Z",
+    "status": "success"
+  },
+  "Q1855": {
+    "wikidata_id": "Q934938",
+    "timestamp": "2026-08-05T06:37:48Z",
+    "status": "success"
+  },
+  "Q68953": {
+    "wikidata_id": "Q13189320",
+    "timestamp": "2026-08-05T06:37:50Z",
+    "status": "success"
+  },
+  "Q68954": {
+    "wikidata_id": "Q725345",
+    "timestamp": "2026-08-05T06:37:53Z",
+    "status": "success"
+  },
+  "Q1865": {
+    "wikidata_id": "Q9268",
+    "timestamp": "2026-08-05T06:38:23Z",
+    "status": "success"
+  },
+  "Q1870": {
+    "wikidata_id": "Q1746268",
+    "timestamp": "2026-08-05T06:38:26Z",
+    "status": "success"
+  },
+  "Q1868": {
+    "wikidata_id": "Q221890",
+    "timestamp": "2026-08-05T06:38:34Z",
+    "status": "success"
+  },
+  "Q20109": {
+    "wikidata_id": "Q207133",
+    "timestamp": "2026-08-05T06:38:36Z",
+    "status": "success"
+  },
+  "Q1874": {
+    "wikidata_id": "Q837381",
+    "timestamp": "2026-08-05T06:38:39Z",
+    "status": "success"
+  },
+  "Q1876": {
+    "wikidata_id": "Q10897",
+    "timestamp": "2026-08-05T06:38:41Z",
+    "status": "success"
+  },
+  "Q1878": {
+    "wikidata_id": "Q110297576",
+    "timestamp": "2026-08-05T06:38:44Z",
+    "status": "success"
+  },
+  "Q1880": {
+    "wikidata_id": "Q594550",
+    "timestamp": "2026-08-05T06:38:47Z",
+    "status": "success"
+  },
+  "Q1885": {
+    "wikidata_id": "Q12310021",
+    "timestamp": "2026-08-05T06:38:49Z",
+    "status": "success"
+  },
+  "Q1884": {
+    "wikidata_id": "Q5156929",
+    "timestamp": "2026-08-05T06:38:52Z",
+    "status": "success"
+  },
+  "Q1892": {
+    "wikidata_id": "Q2468392",
+    "timestamp": "2026-08-05T06:38:54Z",
+    "status": "success"
+  },
+  "Q68960": {
+    "wikidata_id": "Q7748",
+    "timestamp": "2026-08-05T06:39:10Z",
+    "status": "success"
+  },
+  "Q1905": {
+    "wikidata_id": "Q1470206",
+    "timestamp": "2026-08-05T06:39:15Z",
+    "status": "success"
+  },
+  "Q77139": {
+    "wikidata_id": "Q771035",
+    "timestamp": "2026-08-05T06:39:17Z",
+    "status": "success"
+  },
+  "Q4225": {
+    "wikidata_id": "Q1371416",
+    "timestamp": "2026-08-05T06:39:20Z",
+    "status": "success"
+  },
+  "Q4228": {
+    "wikidata_id": "Q25312655",
+    "timestamp": "2026-08-05T06:39:22Z",
+    "status": "success"
+  },
+  "Q4230": {
+    "wikidata_id": "Q22935154",
+    "timestamp": "2026-08-05T06:39:26Z",
+    "status": "success"
+  },
+  "Q80209": {
+    "wikidata_id": "Q388768",
+    "timestamp": "2026-08-05T06:40:08Z",
+    "status": "success"
+  },
+  "Q80588": {
+    "wikidata_id": "Q484827",
+    "timestamp": "2026-08-05T06:40:10Z",
+    "status": "success"
+  },
+  "Q76326": {
+    "wikidata_id": "Q207959",
+    "timestamp": "2026-08-05T06:40:13Z",
+    "status": "success"
+  },
+  "Q76560": {
+    "wikidata_id": "Q6423963",
+    "timestamp": "2026-08-05T06:40:16Z",
+    "status": "success"
+  },
+  "Q4246": {
+    "wikidata_id": "Q105420",
+    "timestamp": "2026-08-05T06:40:19Z",
+    "status": "success"
+  },
+  "Q76559": {
+    "wikidata_id": "Q184719",
+    "timestamp": "2026-08-05T06:40:21Z",
+    "status": "success"
+  },
+  "Q26741": {
+    "wikidata_id": "Q202866",
+    "timestamp": "2026-08-05T06:40:24Z",
+    "status": "success"
+  },
+  "Q78029": {
+    "wikidata_id": "Q2431958",
+    "timestamp": "2026-08-05T06:40:27Z",
+    "status": "success"
+  },
+  "Q4243": {
+    "wikidata_id": "Q729",
+    "timestamp": "2026-08-05T06:40:30Z",
+    "status": "success"
+  },
+  "Q80617": {
+    "wikidata_id": "Q210189",
+    "timestamp": "2026-08-05T06:40:32Z",
+    "status": "success"
+  },
+  "Q78032": {
+    "wikidata_id": "Q582965",
+    "timestamp": "2026-08-05T06:40:35Z",
+    "status": "success"
+  },
+  "Q4254": {
+    "wikidata_id": "Q11409",
+    "timestamp": "2026-08-05T06:40:45Z",
+    "status": "success"
+  },
+  "Q4255": {
+    "wikidata_id": "Q3620816",
+    "timestamp": "2026-08-05T06:40:48Z",
+    "status": "success"
+  },
+  "Q4256": {
+    "wikidata_id": "Q109769583",
+    "timestamp": "2026-08-05T06:40:50Z",
+    "status": "success"
+  },
+  "Q4258": {
+    "wikidata_id": "Q620615",
+    "timestamp": "2026-08-05T06:40:53Z",
+    "status": "success"
+  },
+  "Q4260": {
+    "wikidata_id": "Q11320567",
+    "timestamp": "2026-08-05T06:40:56Z",
+    "status": "success"
+  },
+  "Q78036": {
+    "wikidata_id": "Q12271",
+    "timestamp": "2026-08-05T06:41:51Z",
+    "status": "success"
+  },
+  "Q4265": {
+    "wikidata_id": "Q166118",
+    "timestamp": "2026-08-05T06:41:54Z",
+    "status": "success"
+  },
+  "Q4259": {
+    "wikidata_id": "Q166142",
+    "timestamp": "2026-08-05T06:42:04Z",
+    "status": "success"
+  },
+  "Q4261": {
+    "wikidata_id": "Q189210",
+    "timestamp": "2026-08-05T06:43:30Z",
+    "status": "success"
+  },
+  "Q80620": {
+    "wikidata_id": "Q23498",
+    "timestamp": "2026-08-05T06:43:33Z",
+    "status": "success"
+  },
+  "Q4262": {
+    "wikidata_id": "Q63862928",
+    "timestamp": "2026-08-05T06:43:44Z",
+    "status": "success"
+  },
+  "Q80632": {
+    "wikidata_id": "Q1923231",
+    "timestamp": "2026-08-05T06:43:46Z",
+    "status": "success"
+  },
+  "Q21531": {
+    "wikidata_id": "Q37726",
+    "timestamp": "2026-08-05T06:43:49Z",
+    "status": "success"
+  },
+  "Q4266": {
+    "wikidata_id": "Q635734",
+    "timestamp": "2026-08-05T06:43:52Z",
+    "status": "success"
+  },
+  "Q4269": {
+    "wikidata_id": "Q1403016",
+    "timestamp": "2026-08-05T06:43:55Z",
+    "status": "success"
+  },
+  "Q21532": {
+    "wikidata_id": "Q327541",
+    "timestamp": "2026-08-05T06:44:01Z",
+    "status": "success"
+  },
+  "Q4271": {
+    "wikidata_id": "Q1007870",
+    "timestamp": "2026-08-05T06:44:08Z",
+    "status": "success"
+  },
+  "Q74864": {
+    "wikidata_id": "Q179807",
+    "timestamp": "2026-08-05T06:44:10Z",
+    "status": "success"
+  },
+  "Q75638": {
+    "wikidata_id": "Q50637",
+    "timestamp": "2026-08-05T06:44:13Z",
+    "status": "success"
+  },
+  "Q4277": {
+    "wikidata_id": "Q4806809",
+    "timestamp": "2026-08-05T06:44:17Z",
+    "status": "success"
+  },
+  "Q4278": {
+    "wikidata_id": "Q55983771",
+    "timestamp": "2026-08-05T06:44:20Z",
+    "status": "success"
+  },
+  "Q4279": {
+    "wikidata_id": "Q920550",
+    "timestamp": "2026-08-05T06:44:23Z",
+    "status": "success"
+  },
+  "Q74217": {
+    "wikidata_id": "Q34362",
+    "timestamp": "2026-08-05T06:44:25Z",
+    "status": "success"
+  },
+  "Q4285": {
+    "wikidata_id": "Q1436063",
+    "timestamp": "2026-08-05T06:44:36Z",
+    "status": "success"
+  },
+  "Q4284": {
+    "wikidata_id": "Q758901",
+    "timestamp": "2026-08-05T06:44:39Z",
+    "status": "success"
+  },
+  "Q81431": {
+    "wikidata_id": "Q484105",
+    "timestamp": "2026-08-05T06:44:41Z",
+    "status": "success"
+  },
+  "Q4287": {
+    "wikidata_id": "Q765633",
+    "timestamp": "2026-08-05T06:44:51Z",
+    "status": "success"
+  },
+  "Q4288": {
+    "wikidata_id": "Q618779",
+    "timestamp": "2026-08-05T06:46:29Z",
+    "status": "success"
+  },
+  "Q66653": {
+    "wikidata_id": "Q18123741",
+    "timestamp": "2026-08-05T06:46:32Z",
+    "status": "success"
+  },
+  "Q4289": {
+    "wikidata_id": "Q29025223",
+    "timestamp": "2026-08-05T06:46:35Z",
+    "status": "success"
+  },
+  "Q4299": {
+    "wikidata_id": "Q29855634",
+    "timestamp": "2026-08-05T06:46:37Z",
+    "status": "success"
+  },
+  "Q4297": {
+    "wikidata_id": "Q40369420",
+    "timestamp": "2026-08-05T06:46:42Z",
+    "status": "success"
+  },
+  "Q4303": {
+    "wikidata_id": "Q2285224",
+    "timestamp": "2026-08-05T06:46:45Z",
+    "status": "success"
+  },
+  "Q4308": {
+    "wikidata_id": "Q377402",
+    "timestamp": "2026-08-05T06:46:50Z",
+    "status": "success"
+  },
+  "Q95402": {
+    "wikidata_id": "Q2500638",
+    "timestamp": "2026-08-05T06:46:52Z",
+    "status": "success"
+  },
+  "Q386": {
+    "wikidata_id": "Q15079786",
+    "timestamp": "2026-08-05T06:46:55Z",
+    "status": "success"
+  },
+  "Q4343": {
+    "wikidata_id": "Q27927857",
+    "timestamp": "2026-08-05T06:46:57Z",
+    "status": "success"
+  },
+  "Q4338": {
+    "wikidata_id": "Q36180",
+    "timestamp": "2026-08-05T06:47:00Z",
+    "status": "success"
+  },
+  "Q4340": {
+    "wikidata_id": "Q5084448",
+    "timestamp": "2026-08-05T06:47:03Z",
+    "status": "success"
+  },
+  "Q81438": {
+    "wikidata_id": "Q7291",
+    "timestamp": "2026-08-05T06:47:06Z",
+    "status": "success"
+  },
+  "Q4342": {
+    "wikidata_id": "Q877517",
+    "timestamp": "2026-08-05T06:47:13Z",
+    "status": "success"
+  },
+  "Q4347": {
+    "wikidata_id": "Q1085001",
+    "timestamp": "2026-08-05T06:51:47Z",
+    "status": "success"
+  },
+  "Q4348": {
+    "wikidata_id": "Q152074",
+    "timestamp": "2026-08-05T06:51:50Z",
+    "status": "success"
+  },
+  "Q36503": {
+    "wikidata_id": "Q22687",
+    "timestamp": "2026-08-05T06:51:53Z",
+    "status": "success"
+  },
+  "Q4351": {
+    "wikidata_id": "Q692942",
+    "timestamp": "2026-08-05T06:51:55Z",
+    "status": "success"
+  },
+  "Q4357": {
+    "wikidata_id": "Q187456",
+    "timestamp": "2026-08-05T06:51:58Z",
+    "status": "success"
+  },
+  "Q4358": {
+    "wikidata_id": "Q5369",
+    "timestamp": "2026-08-05T06:52:09Z",
+    "status": "success"
+  },
+  "Q4359": {
+    "wikidata_id": "Q791187",
+    "timestamp": "2026-08-05T06:52:12Z",
+    "status": "success"
+  },
+  "Q4356": {
+    "wikidata_id": "Q808074",
+    "timestamp": "2026-08-05T06:52:14Z",
+    "status": "success"
+  },
+  "Q4363": {
+    "wikidata_id": "Q105103095",
+    "timestamp": "2026-08-05T06:52:17Z",
+    "status": "success"
+  },
+  "Q4365": {
+    "wikidata_id": "Q40080",
+    "timestamp": "2026-08-05T06:52:27Z",
+    "status": "success"
+  },
+  "Q78605": {
+    "wikidata_id": "Q1483649",
+    "timestamp": "2026-08-05T06:52:30Z",
+    "status": "success"
+  },
+  "Q81443": {
+    "wikidata_id": "Q1063",
+    "timestamp": "2026-08-05T06:52:33Z",
+    "status": "success"
+  },
+  "Q4374": {
+    "wikidata_id": "Q134995",
+    "timestamp": "2026-08-05T06:52:45Z",
+    "status": "success"
+  },
+  "Q9772": {
+    "wikidata_id": "Q134995",
+    "timestamp": "2026-08-05T06:52:48Z",
+    "status": "success"
+  },
+  "Q4371": {
+    "wikidata_id": "Q1845",
+    "timestamp": "2026-08-05T06:53:15Z",
+    "status": "success"
+  },
+  "Q78037": {
+    "wikidata_id": "Q420",
+    "timestamp": "2026-08-05T06:58:06Z",
+    "status": "success"
+  },
+  "Q74870": {
+    "wikidata_id": "Q732870",
+    "timestamp": "2026-08-05T11:42:30Z",
+    "status": "success"
+  },
+  "Q4377": {
+    "wikidata_id": "Q864503",
+    "timestamp": "2026-08-05T11:42:38Z",
+    "status": "success"
+  },
+  "Q4380": {
+    "wikidata_id": "Q131755",
+    "timestamp": "2026-08-05T11:42:51Z",
+    "status": "success"
+  },
+  "Q4379": {
+    "wikidata_id": "Q7108",
+    "timestamp": "2026-08-05T11:43:01Z",
+    "status": "success"
+  },
+  "Q4390": {
+    "wikidata_id": "Q29182",
+    "timestamp": "2026-08-05T11:43:03Z",
+    "status": "success"
+  },
+  "Q4391": {
+    "wikidata_id": "Q4918888",
+    "timestamp": "2026-08-05T11:48:30Z",
+    "status": "success"
+  },
+  "Q4393": {
+    "wikidata_id": "Q817393",
+    "timestamp": "2026-08-05T11:48:33Z",
+    "status": "success"
+  },
+  "Q4396": {
+    "wikidata_id": "Q37542",
+    "timestamp": "2026-08-05T11:48:37Z",
+    "status": "success"
+  },
+  "Q4395": {
+    "wikidata_id": "Q383968",
+    "timestamp": "2026-08-05T12:06:42Z",
+    "status": "success"
+  },
+  "Q81460": {
+    "wikidata_id": "Q10874",
+    "timestamp": "2026-08-05T12:06:44Z",
+    "status": "success"
+  },
+  "Q76562": {
+    "wikidata_id": "Q34284",
+    "timestamp": "2026-08-05T12:06:47Z",
+    "status": "success"
+  },
+  "Q4397": {
+    "wikidata_id": "Q38157",
+    "timestamp": "2026-08-05T12:06:53Z",
+    "status": "success"
+  },
+  "Q4399": {
+    "wikidata_id": "Q8193177",
+    "timestamp": "2026-08-05T12:06:56Z",
+    "status": "success"
+  },
+  "Q4402": {
+    "wikidata_id": "Q30849",
+    "timestamp": "2026-08-05T12:07:11Z",
+    "status": "success"
+  },
+  "Q4403": {
+    "wikidata_id": "Q763244",
+    "timestamp": "2026-08-05T12:07:14Z",
+    "status": "success"
+  },
+  "Q4401": {
+    "wikidata_id": "Q8246794",
+    "timestamp": "2026-08-05T12:07:17Z",
+    "status": "success"
+  },
+  "Q81465": {
+    "wikidata_id": "Q183605",
+    "timestamp": "2026-08-05T12:07:25Z",
+    "status": "success"
+  },
+  "Q4404": {
+    "wikidata_id": "Q41311803",
+    "timestamp": "2026-08-05T12:07:28Z",
+    "status": "success"
+  },
+  "Q81466": {
+    "wikidata_id": "Q9759",
+    "timestamp": "2026-08-05T12:07:48Z",
+    "status": "success"
+  },
+  "Q4407": {
+    "wikidata_id": "Q269770",
+    "timestamp": "2026-08-05T12:09:13Z",
+    "status": "success"
+  },
+  "Q74214": {
+    "wikidata_id": "Q23852",
+    "timestamp": "2026-08-05T12:09:15Z",
+    "status": "success"
+  },
+  "Q4409": {
+    "wikidata_id": "Q11637212",
+    "timestamp": "2026-08-05T12:09:18Z",
+    "status": "success"
+  },
+  "Q4410": {
+    "wikidata_id": "Q157943",
+    "timestamp": "2026-08-05T12:09:21Z",
+    "status": "success"
+  },
+  "Q66161": {
+    "wikidata_id": "Q28845733",
+    "timestamp": "2026-08-05T12:09:23Z",
+    "status": "success"
+  },
+  "Q78728": {
+    "wikidata_id": "Q107196743",
+    "timestamp": "2026-08-05T12:09:26Z",
+    "status": "success"
+  },
+  "Q66160": {
+    "wikidata_id": "Q15733239",
+    "timestamp": "2026-08-05T12:09:29Z",
+    "status": "success"
+  },
+  "Q81476": {
+    "wikidata_id": "Q477298",
+    "timestamp": "2026-08-05T12:09:31Z",
+    "status": "success"
+  },
+  "Q72468": {
+    "wikidata_id": "Q4936908",
+    "timestamp": "2026-08-05T12:09:34Z",
+    "status": "success"
+  },
+  "Q7810": {
+    "wikidata_id": "Q5549757",
+    "timestamp": "2026-08-05T12:09:37Z",
+    "status": "success"
+  },
+  "Q7812": {
+    "wikidata_id": "Q1688989",
+    "timestamp": "2026-08-05T12:09:40Z",
+    "status": "success"
+  },
+  "Q7811": {
+    "wikidata_id": "Q7226",
+    "timestamp": "2026-08-05T12:09:42Z",
+    "status": "success"
+  },
+  "Q74208": {
+    "wikidata_id": "Q11030",
+    "timestamp": "2026-08-05T12:09:45Z",
+    "status": "success"
+  },
+  "Q7820": {
+    "wikidata_id": "Q131725",
+    "timestamp": "2026-08-05T12:09:48Z",
+    "status": "success"
+  },
+  "Q7822": {
+    "wikidata_id": "Q151972",
+    "timestamp": "2026-08-05T12:09:51Z",
+    "status": "success"
+  },
+  "Q7819": {
+    "wikidata_id": "Q154340",
+    "timestamp": "2026-08-05T12:09:54Z",
+    "status": "success"
+  },
+  "Q7814": {
+    "wikidata_id": "Q183074",
+    "timestamp": "2026-08-05T12:09:57Z",
+    "status": "success"
+  },
+  "Q7818": {
+    "wikidata_id": "Q277103",
+    "timestamp": "2026-08-05T12:09:59Z",
+    "status": "success"
+  },
+  "Q7821": {
+    "wikidata_id": "Q3183230",
+    "timestamp": "2026-08-05T12:10:02Z",
+    "status": "success"
+  },
+  "Q7824": {
+    "wikidata_id": "Q381088",
+    "timestamp": "2026-08-05T12:13:20Z",
+    "status": "success"
+  },
+  "Q7815": {
+    "wikidata_id": "Q5588",
+    "timestamp": "2026-08-05T12:13:22Z",
+    "status": "success"
+  },
+  "Q7816": {
+    "wikidata_id": "Q950309",
+    "timestamp": "2026-08-05T12:13:24Z",
+    "status": "success"
+  },
+  "Q7827": {
+    "wikidata_id": "Q1222730",
+    "timestamp": "2026-08-05T12:13:27Z",
+    "status": "success"
+  },
+  "Q7831": {
+    "wikidata_id": "Q2146201",
+    "timestamp": "2026-08-05T12:13:29Z",
+    "status": "success"
+  },
+  "Q7830": {
+    "wikidata_id": "Q3523415",
+    "timestamp": "2026-08-05T12:13:33Z",
+    "status": "success"
+  },
+  "Q80839": {
+    "wikidata_id": "Q8031205",
+    "timestamp": "2026-08-05T12:13:35Z",
+    "status": "success"
+  },
+  "Q7832": {
+    "wikidata_id": "Q86339",
+    "timestamp": "2026-08-05T12:13:38Z",
+    "status": "success"
+  },
+  "Q7835": {
+    "wikidata_id": "Q50328150",
+    "timestamp": "2026-08-05T12:13:40Z",
+    "status": "success"
+  },
+  "Q7833": {
+    "wikidata_id": "Q771738",
+    "timestamp": "2026-08-05T12:13:43Z",
+    "status": "success"
+  },
+  "Q7834": {
+    "wikidata_id": "Q9391",
+    "timestamp": "2026-08-05T12:13:45Z",
+    "status": "success"
+  },
+  "Q7839": {
+    "wikidata_id": "Q129987",
+    "timestamp": "2026-08-05T12:13:48Z",
+    "status": "success"
+  },
+  "Q7840": {
+    "wikidata_id": "Q15378739",
+    "timestamp": "2026-08-05T12:13:50Z",
+    "status": "success"
+  },
+  "Q7843": {
+    "wikidata_id": "Q1680811",
+    "timestamp": "2026-08-05T12:13:53Z",
+    "status": "success"
+  },
+  "Q7845": {
+    "wikidata_id": "Q5271601",
+    "timestamp": "2026-08-05T12:13:55Z",
+    "status": "success"
+  },
+  "Q7837": {
+    "wikidata_id": "Q5302110",
+    "timestamp": "2026-08-05T12:13:58Z",
+    "status": "success"
+  },
+  "Q7841": {
+    "wikidata_id": "Q59774",
+    "timestamp": "2026-08-05T12:14:08Z",
+    "status": "success"
+  },
+  "Q7850": {
+    "wikidata_id": "Q112521328",
+    "timestamp": "2026-08-05T12:15:04Z",
+    "status": "success"
+  },
+  "Q7848": {
+    "wikidata_id": "Q268510",
+    "timestamp": "2026-08-05T12:15:07Z",
+    "status": "success"
+  },
+  "Q7849": {
+    "wikidata_id": "Q3600282",
+    "timestamp": "2026-08-05T12:15:09Z",
+    "status": "success"
+  },
+  "Q7846": {
+    "wikidata_id": "Q722835",
+    "timestamp": "2026-08-05T12:15:11Z",
+    "status": "success"
+  },
+  "Q7851": {
+    "wikidata_id": "Q515387",
+    "timestamp": "2026-08-05T12:15:14Z",
+    "status": "success"
+  },
+  "Q7860": {
+    "wikidata_id": "Q18245166",
+    "timestamp": "2026-08-05T12:15:17Z",
+    "status": "success"
+  },
+  "Q23177": {
+    "wikidata_id": "Q42138",
+    "timestamp": "2026-08-05T12:15:19Z",
+    "status": "success"
+  },
+  "Q7863": {
+    "wikidata_id": "Q2539788",
+    "timestamp": "2026-08-05T12:15:24Z",
+    "status": "success"
+  },
+  "Q131462": {
+    "wikidata_id": "Q110515686",
+    "timestamp": "2026-08-05T12:15:26Z",
+    "status": "success"
+  },
+  "Q7867": {
+    "wikidata_id": "Q117488",
+    "timestamp": "2026-08-05T12:15:29Z",
+    "status": "success"
+  },
+  "Q7865": {
+    "wikidata_id": "Q39086083",
+    "timestamp": "2026-08-05T12:15:31Z",
+    "status": "success"
+  },
+  "Q7866": {
+    "wikidata_id": "Q6502596",
+    "timestamp": "2026-08-05T12:15:34Z",
+    "status": "success"
+  },
+  "Q89648": {
+    "wikidata_id": "Q106597211",
+    "timestamp": "2026-08-05T12:15:36Z",
+    "status": "success"
+  },
+  "Q7869": {
+    "wikidata_id": "Q5867696",
+    "timestamp": "2026-08-05T12:15:38Z",
+    "status": "success"
+  },
+  "Q7874": {
+    "wikidata_id": "Q16000225",
+    "timestamp": "2026-08-05T12:15:41Z",
+    "status": "success"
+  },
+  "Q89647": {
+    "wikidata_id": "Q25396757",
+    "timestamp": "2026-08-05T12:15:43Z",
+    "status": "success"
+  },
+  "Q7878": {
+    "wikidata_id": "Q1140735",
+    "timestamp": "2026-08-05T12:15:46Z",
+    "status": "success"
+  },
+  "Q7880": {
+    "wikidata_id": "Q330072",
+    "timestamp": "2026-08-05T12:15:48Z",
+    "status": "success"
+  },
+  "Q7881": {
+    "wikidata_id": "Q5640721",
+    "timestamp": "2026-08-05T12:15:50Z",
+    "status": "success"
+  },
+  "Q7879": {
+    "wikidata_id": "Q86423123",
+    "timestamp": "2026-08-05T12:15:53Z",
+    "status": "success"
+  },
+  "Q7886": {
+    "wikidata_id": "Q16120410",
+    "timestamp": "2026-08-05T12:15:55Z",
+    "status": "success"
+  },
+  "Q7884": {
+    "wikidata_id": "Q17612192",
+    "timestamp": "2026-08-05T12:15:58Z",
+    "status": "success"
+  },
+  "Q7882": {
+    "wikidata_id": "Q450719",
+    "timestamp": "2026-08-05T12:16:00Z",
+    "status": "success"
+  },
+  "Q7887": {
+    "wikidata_id": "Q5058141",
+    "timestamp": "2026-08-05T12:16:03Z",
+    "status": "success"
+  },
+  "Q7883": {
+    "wikidata_id": "Q65053739",
+    "timestamp": "2026-08-05T12:16:06Z",
+    "status": "success"
+  },
+  "Q7885": {
+    "wikidata_id": "Q984217",
+    "timestamp": "2026-08-05T12:16:08Z",
+    "status": "success"
+  },
+  "Q7895": {
+    "wikidata_id": "Q2901004",
+    "timestamp": "2026-08-05T12:16:11Z",
+    "status": "success"
+  },
+  "Q7888": {
+    "wikidata_id": "Q45135021",
+    "timestamp": "2026-08-05T12:16:17Z",
+    "status": "success"
+  },
+  "Q7890": {
+    "wikidata_id": "Q5092358",
+    "timestamp": "2026-08-05T12:16:20Z",
+    "status": "success"
+  },
+  "Q7892": {
+    "wikidata_id": "Q5098454",
+    "timestamp": "2026-08-05T12:16:23Z",
+    "status": "success"
+  },
+  "Q7898": {
+    "wikidata_id": "Q2592977",
+    "timestamp": "2026-08-05T12:16:25Z",
+    "status": "success"
+  },
+  "Q7897": {
+    "wikidata_id": "Q5115014",
+    "timestamp": "2026-08-05T12:16:28Z",
+    "status": "success"
+  },
+  "Q7899": {
+    "wikidata_id": "Q5092712",
+    "timestamp": "2026-08-05T12:16:31Z",
+    "status": "success"
+  },
+  "Q7900": {
+    "wikidata_id": "Q1098925",
+    "timestamp": "2026-08-05T12:16:39Z",
+    "status": "success"
+  },
+  "Q7901": {
+    "wikidata_id": "Q1735680",
+    "timestamp": "2026-08-05T12:17:53Z",
+    "status": "success"
+  },
+  "Q7904": {
+    "wikidata_id": "Q4890362",
+    "timestamp": "2026-08-05T12:17:56Z",
+    "status": "success"
+  },
+  "Q7906": {
+    "wikidata_id": "Q151060",
+    "timestamp": "2026-08-05T12:18:01Z",
+    "status": "success"
+  },
+  "Q7907": {
+    "wikidata_id": "Q735763",
+    "timestamp": "2026-08-05T12:18:04Z",
+    "status": "success"
+  },
+  "Q7912": {
+    "wikidata_id": "Q1092510",
+    "timestamp": "2026-08-05T12:18:06Z",
+    "status": "success"
+  },
+  "Q7910": {
+    "wikidata_id": "Q207066",
+    "timestamp": "2026-08-05T12:18:09Z",
+    "status": "success"
+  },
+  "Q7913": {
+    "wikidata_id": "Q622454",
+    "timestamp": "2026-08-05T12:18:11Z",
+    "status": "success"
+  },
+  "Q7908": {
+    "wikidata_id": "Q942923",
+    "timestamp": "2026-08-05T12:18:14Z",
+    "status": "success"
+  },
+  "Q7916": {
+    "wikidata_id": "Q265425",
+    "timestamp": "2026-08-05T12:18:16Z",
+    "status": "success"
+  },
+  "Q7917": {
+    "wikidata_id": "Q2985318",
+    "timestamp": "2026-08-05T12:18:19Z",
+    "status": "success"
+  },
+  "Q7918": {
+    "wikidata_id": "Q1189608",
+    "timestamp": "2026-08-05T12:18:23Z",
+    "status": "success"
+  },
+  "Q7919": {
+    "wikidata_id": "Q1123858",
+    "timestamp": "2026-08-05T12:18:26Z",
+    "status": "success"
+  },
+  "Q7924": {
+    "wikidata_id": "Q4924893",
+    "timestamp": "2026-08-05T12:18:29Z",
+    "status": "success"
+  },
+  "Q7925": {
+    "wikidata_id": "Q107304919",
+    "timestamp": "2026-08-05T12:18:32Z",
+    "status": "success"
+  },
+  "Q7927": {
+    "wikidata_id": "Q1293447",
+    "timestamp": "2026-08-05T12:18:35Z",
+    "status": "success"
+  },
+  "Q7928": {
+    "wikidata_id": "Q5176572",
+    "timestamp": "2026-08-05T12:18:38Z",
+    "status": "success"
+  },
+  "Q7932": {
+    "wikidata_id": "Q15122243",
+    "timestamp": "2026-08-05T12:18:40Z",
+    "status": "success"
+  },
+  "Q7933": {
+    "wikidata_id": "Q5185237",
+    "timestamp": "2026-08-05T12:18:43Z",
+    "status": "success"
+  },
+  "Q7935": {
+    "wikidata_id": "Q7356892",
+    "timestamp": "2026-08-05T12:18:45Z",
+    "status": "success"
+  },
+  "Q7937": {
+    "wikidata_id": "Q12907945",
+    "timestamp": "2026-08-05T12:18:48Z",
+    "status": "success"
+  },
+  "Q7938": {
+    "wikidata_id": "Q3480226",
+    "timestamp": "2026-08-05T12:18:50Z",
+    "status": "success"
+  },
+  "Q7940": {
+    "wikidata_id": "Q781379",
+    "timestamp": "2026-08-05T12:18:57Z",
+    "status": "success"
+  },
+  "Q7942": {
+    "wikidata_id": "Q797848",
+    "timestamp": "2026-08-05T12:19:00Z",
+    "status": "success"
+  },
+  "Q7945": {
+    "wikidata_id": "Q62",
+    "timestamp": "2026-08-05T12:19:17Z",
+    "status": "success"
+  },
+  "Q7946": {
+    "wikidata_id": "Q803672",
+    "timestamp": "2026-08-05T12:19:20Z",
+    "status": "success"
+  },
+  "Q7947": {
+    "wikidata_id": "Q273210",
+    "timestamp": "2026-08-05T12:19:23Z",
+    "status": "success"
+  },
+  "Q7948": {
+    "wikidata_id": "Q1484896",
+    "timestamp": "2026-08-05T12:19:26Z",
+    "status": "success"
+  },
+  "Q7949": {
+    "wikidata_id": "Q180617",
+    "timestamp": "2026-08-05T12:19:29Z",
+    "status": "success"
+  },
+  "Q7950": {
+    "wikidata_id": "Q255815",
+    "timestamp": "2026-08-05T12:19:33Z",
+    "status": "success"
+  },
+  "Q7952": {
+    "wikidata_id": "Q807829",
+    "timestamp": "2026-08-05T12:19:36Z",
+    "status": "success"
+  },
+  "Q7953": {
+    "wikidata_id": "Q128358",
+    "timestamp": "2026-08-05T12:19:39Z",
+    "status": "success"
+  },
+  "Q7955": {
+    "wikidata_id": "Q1564479",
+    "timestamp": "2026-08-05T12:19:42Z",
+    "status": "success"
+  },
+  "Q7956": {
+    "wikidata_id": "Q3180027",
+    "timestamp": "2026-08-05T12:19:45Z",
+    "status": "success"
+  },
+  "Q7957": {
+    "wikidata_id": "Q978202",
+    "timestamp": "2026-08-05T12:19:48Z",
+    "status": "success"
+  },
+  "Q7958": {
+    "wikidata_id": "Q64",
+    "timestamp": "2026-08-05T12:19:50Z",
+    "status": "success"
+  },
+  "Q7960": {
+    "wikidata_id": "Q4898433",
+    "timestamp": "2026-08-05T12:19:53Z",
+    "status": "success"
+  },
+  "Q7962": {
+    "wikidata_id": "Q2893004",
+    "timestamp": "2026-08-05T12:19:55Z",
+    "status": "success"
+  },
+  "Q7966": {
+    "wikidata_id": "Q4920507",
+    "timestamp": "2026-08-05T12:19:58Z",
+    "status": "success"
+  },
+  "Q5049": {
+    "wikidata_id": "Q795160",
+    "timestamp": "2026-08-05T12:20:01Z",
+    "status": "success"
+  },
+  "Q5050": {
+    "wikidata_id": "Q6293",
+    "timestamp": "2026-08-05T12:21:30Z",
+    "status": "success"
+  },
+  "Q5051": {
+    "wikidata_id": "Q220505",
+    "timestamp": "2026-08-05T12:21:39Z",
+    "status": "success"
+  },
+  "Q5053": {
+    "wikidata_id": "Q4220878",
+    "timestamp": "2026-08-05T12:42:03Z",
+    "status": "success"
+  },
+  "Q5054": {
+    "wikidata_id": "Q860594",
+    "timestamp": "2026-08-05T12:42:06Z",
+    "status": "success"
+  },
+  "Q111061": {
+    "wikidata_id": "Q1415395",
+    "timestamp": "2026-08-05T12:42:09Z",
+    "status": "success"
+  },
+  "Q5059": {
+    "wikidata_id": "Q650241",
+    "timestamp": "2026-08-05T12:42:12Z",
+    "status": "success"
+  },
+  "Q5060": {
+    "wikidata_id": "Q6498663",
+    "timestamp": "2026-08-05T12:42:19Z",
+    "status": "success"
+  },
+  "Q5062": {
+    "wikidata_id": "Q107711",
+    "timestamp": "2026-08-05T12:42:22Z",
+    "status": "success"
+  },
+  "Q5065": {
+    "wikidata_id": "Q113468588",
+    "timestamp": "2026-08-05T12:42:24Z",
+    "status": "success"
+  },
+  "Q5066": {
+    "wikidata_id": "Q11559510",
+    "timestamp": "2026-08-05T12:42:27Z",
+    "status": "success"
+  },
+  "Q5067": {
+    "wikidata_id": "Q285852",
+    "timestamp": "2026-08-05T12:42:29Z",
+    "status": "success"
+  },
+  "Q5068": {
+    "wikidata_id": "Q673079",
+    "timestamp": "2026-08-05T12:42:32Z",
+    "status": "success"
+  },
+  "Q22812": {
+    "wikidata_id": "Q3517986",
+    "timestamp": "2026-08-05T12:42:35Z",
+    "status": "success"
+  },
+  "Q5074": {
+    "wikidata_id": "Q779753",
+    "timestamp": "2026-08-05T12:42:38Z",
+    "status": "success"
+  },
+  "Q5072": {
+    "wikidata_id": "Q810668",
+    "timestamp": "2026-08-05T12:42:41Z",
+    "status": "success"
+  },
+  "Q5078": {
+    "wikidata_id": "Q9764",
+    "timestamp": "2026-08-05T12:42:43Z",
+    "status": "success"
+  },
+  "Q119591": {
+    "wikidata_id": "Q4384751",
+    "timestamp": "2026-08-05T12:42:46Z",
+    "status": "success"
+  },
+  "Q123915": {
+    "wikidata_id": "Q43343",
+    "timestamp": "2026-08-05T12:42:54Z",
+    "status": "success"
+  },
+  "Q119592": {
+    "wikidata_id": "Q540912",
+    "timestamp": "2026-08-05T12:43:01Z",
+    "status": "success"
+  },
+  "Q5089": {
+    "wikidata_id": "Q6085295",
+    "timestamp": "2026-08-05T12:43:04Z",
+    "status": "success"
+  },
+  "Q119593": {
+    "wikidata_id": "Q20729778",
+    "timestamp": "2026-08-05T12:43:09Z",
+    "status": "success"
+  },
+  "Q93359": {
+    "wikidata_id": "Q28813",
+    "timestamp": "2026-08-05T12:43:13Z",
+    "status": "success"
+  },
+  "Q123918": {
+    "wikidata_id": "Q41726",
+    "timestamp": "2026-08-05T12:43:16Z",
+    "status": "success"
+  },
+  "Q74866": {
+    "wikidata_id": "Q210115",
+    "timestamp": "2026-08-05T12:43:19Z",
+    "status": "success"
+  },
+  "Q119597": {
+    "wikidata_id": "Q6534",
+    "timestamp": "2026-08-05T12:43:22Z",
+    "status": "success"
+  },
+  "Q5097": {
+    "wikidata_id": "Q17297777",
+    "timestamp": "2026-08-05T12:43:26Z",
+    "status": "success"
+  },
+  "Q123919": {
+    "wikidata_id": "Q830431",
+    "timestamp": "2026-08-05T12:43:29Z",
+    "status": "success"
+  },
+  "Q119594": {
+    "wikidata_id": "Q344",
+    "timestamp": "2026-08-05T12:43:32Z",
+    "status": "success"
+  },
+  "Q5108": {
+    "wikidata_id": "Q6031029",
+    "timestamp": "2026-08-05T12:43:35Z",
+    "status": "success"
+  },
+  "Q5109": {
+    "wikidata_id": "Q2945282",
+    "timestamp": "2026-08-05T12:43:38Z",
+    "status": "success"
+  },
+  "Q119320": {
+    "wikidata_id": "Q11076311",
+    "timestamp": "2026-08-05T12:43:43Z",
+    "status": "success"
+  },
+  "Q5117": {
+    "wikidata_id": "Q4922330",
+    "timestamp": "2026-08-05T12:44:19Z",
+    "status": "success"
+  },
+  "Q5121": {
+    "wikidata_id": "Q7196097",
+    "timestamp": "2026-08-05T12:44:21Z",
+    "status": "success"
+  },
+  "Q5122": {
+    "wikidata_id": "Q108353258",
+    "timestamp": "2026-08-05T12:44:26Z",
+    "status": "success"
+  },
+  "Q5130": {
+    "wikidata_id": "Q847017",
+    "timestamp": "2026-08-05T12:44:29Z",
+    "status": "success"
+  },
+  "Q88803": {
+    "wikidata_id": "Q1501335",
+    "timestamp": "2026-08-05T12:44:32Z",
+    "status": "success"
+  },
+  "Q5139": {
+    "wikidata_id": "Q18116794",
+    "timestamp": "2026-08-05T12:44:40Z",
+    "status": "success"
+  },
+  "Q74465": {
+    "wikidata_id": "Q65088268",
+    "timestamp": "2026-08-05T12:44:43Z",
+    "status": "success"
+  },
+  "Q152290": {
+    "wikidata_id": "Q3511024",
+    "timestamp": "2026-08-05T12:44:46Z",
+    "status": "success"
+  },
+  "Q5152": {
+    "wikidata_id": "Q7187",
+    "timestamp": "2026-08-05T12:44:51Z",
+    "status": "success"
+  },
+  "Q119724": {
+    "wikidata_id": "Q4116466",
+    "timestamp": "2026-08-05T12:44:54Z",
+    "status": "success"
+  },
+  "Q5156": {
+    "wikidata_id": "Q208726",
+    "timestamp": "2026-08-05T12:44:57Z",
+    "status": "success"
+  },
+  "Q88796": {
+    "wikidata_id": "Q10387",
+    "timestamp": "2026-08-05T12:45:09Z",
+    "status": "success"
+  },
+  "Q5162": {
+    "wikidata_id": "Q10384",
+    "timestamp": "2026-08-05T12:47:11Z",
+    "status": "success"
+  },
+  "Q86540": {
+    "wikidata_id": "Q347967",
+    "timestamp": "2026-08-05T12:47:13Z",
+    "status": "success"
+  },
+  "Q5164": {
+    "wikidata_id": "Q152018",
+    "timestamp": "2026-08-05T12:47:16Z",
+    "status": "success"
+  },
+  "Q5169": {
+    "wikidata_id": "Q5193359",
+    "timestamp": "2026-08-05T12:47:19Z",
+    "status": "success"
+  },
+  "Q74980": {
+    "wikidata_id": "Q7181",
+    "timestamp": "2026-08-05T12:47:21Z",
+    "status": "success"
+  },
+  "Q5172": {
+    "wikidata_id": "Q178885",
+    "timestamp": "2026-08-05T12:47:24Z",
+    "status": "success"
+  },
+  "Q5174": {
+    "wikidata_id": "Q5377",
+    "timestamp": "2026-08-05T12:47:26Z",
+    "status": "success"
+  },
+  "Q5176": {
+    "wikidata_id": "Q2746192",
+    "timestamp": "2026-08-05T12:47:29Z",
+    "status": "success"
+  },
+  "Q75859": {
+    "wikidata_id": "Q101896",
+    "timestamp": "2026-08-05T12:47:31Z",
+    "status": "success"
+  },
+  "Q5179": {
+    "wikidata_id": "Q18966990",
+    "timestamp": "2026-08-05T12:47:34Z",
+    "status": "success"
+  },
+  "Q5180": {
+    "wikidata_id": "Q18967603",
+    "timestamp": "2026-08-05T12:47:36Z",
+    "status": "success"
+  },
+  "Q5181": {
+    "wikidata_id": "Q192782",
+    "timestamp": "2026-08-05T12:47:39Z",
+    "status": "success"
+  },
+  "Q26593": {
+    "wikidata_id": "Q17514",
+    "timestamp": "2026-08-05T12:47:42Z",
+    "status": "success"
+  },
+  "Q5184": {
+    "wikidata_id": "Q3603531",
+    "timestamp": "2026-08-05T12:47:45Z",
+    "status": "success"
+  },
+  "Q5185": {
+    "wikidata_id": "Q230788",
+    "timestamp": "2026-08-05T12:47:47Z",
+    "status": "success"
+  },
+  "Q5187": {
+    "wikidata_id": "Q911059",
+    "timestamp": "2026-08-05T12:47:50Z",
+    "status": "success"
+  },
+  "Q5188": {
+    "wikidata_id": "Q219625",
+    "timestamp": "2026-08-05T12:47:59Z",
+    "status": "success"
+  },
+  "Q5189": {
+    "wikidata_id": "Q442993",
+    "timestamp": "2026-08-05T12:48:40Z",
+    "status": "success"
+  },
+  "Q5191": {
+    "wikidata_id": "Q743438",
+    "timestamp": "2026-08-05T12:48:44Z",
+    "status": "success"
+  },
+  "Q117429": {
+    "wikidata_id": "Q837393",
+    "timestamp": "2026-08-05T12:48:46Z",
+    "status": "success"
+  },
+  "Q5193": {
+    "wikidata_id": "Q2460422",
+    "timestamp": "2026-08-05T12:48:49Z",
+    "status": "success"
+  },
+  "Q5195": {
+    "wikidata_id": "Q2640827",
+    "timestamp": "2026-08-05T12:48:54Z",
+    "status": "success"
+  },
+  "Q76236": {
+    "wikidata_id": "Q1221899",
+    "timestamp": "2026-08-05T12:48:57Z",
+    "status": "success"
+  },
+  "Q5198": {
+    "wikidata_id": "Q103824",
+    "timestamp": "2026-08-05T12:49:04Z",
+    "status": "success"
+  },
+  "Q5199": {
+    "wikidata_id": "Q55187",
+    "timestamp": "2026-08-05T12:49:07Z",
+    "status": "success"
+  },
+  "Q156280": {
+    "wikidata_id": "Q8418",
+    "timestamp": "2026-08-05T12:49:17Z",
+    "status": "success"
+  },
+  "Q5201": {
+    "wikidata_id": "Q1338914",
+    "timestamp": "2026-08-05T13:12:44Z",
+    "status": "success"
+  },
+  "Q49582": {
+    "wikidata_id": "Q8",
+    "timestamp": "2026-08-05T13:12:47Z",
+    "status": "success"
+  },
+  "Q5203": {
+    "wikidata_id": "Q24892366",
+    "timestamp": "2026-08-05T13:12:49Z",
+    "status": "success"
+  },
+  "Q5205": {
+    "wikidata_id": "Q690342",
+    "timestamp": "2026-08-05T13:12:52Z",
+    "status": "success"
+  },
+  "Q5206": {
+    "wikidata_id": "Q111253933",
+    "timestamp": "2026-08-05T13:12:55Z",
+    "status": "success"
+  },
+  "Q68602": {
+    "wikidata_id": "Q160232",
+    "timestamp": "2026-08-05T13:12:57Z",
+    "status": "success"
+  },
+  "Q5211": {
+    "wikidata_id": "Q48352",
+    "timestamp": "2026-08-05T13:13:00Z",
+    "status": "success"
+  },
+  "Q82844": {
+    "wikidata_id": "Q60894",
+    "timestamp": "2026-08-05T13:13:03Z",
+    "status": "success"
+  },
+  "Q78569": {
+    "wikidata_id": "Q334911",
+    "timestamp": "2026-08-05T13:13:06Z",
+    "status": "success"
+  },
+  "Q115307": {
+    "wikidata_id": "Q843601",
+    "timestamp": "2026-08-05T13:13:08Z",
+    "status": "success"
+  },
+  "Q5219": {
+    "wikidata_id": "Q16035842",
+    "timestamp": "2026-08-05T13:13:12Z",
+    "status": "success"
+  },
+  "Q156724": {
+    "wikidata_id": "Q1191575",
+    "timestamp": "2026-08-05T13:13:14Z",
+    "status": "success"
+  },
+  "Q1579": {
+    "wikidata_id": "Q1482145",
+    "timestamp": "2026-08-05T13:13:17Z",
+    "status": "success"
+  },
+  "Q1734": {
+    "wikidata_id": "Q1414611",
+    "timestamp": "2026-08-05T13:13:20Z",
+    "status": "success"
+  },
+  "Q5221": {
+    "wikidata_id": "Q25052375",
+    "timestamp": "2026-08-05T13:13:22Z",
+    "status": "success"
+  },
+  "Q5223": {
+    "wikidata_id": "Q178694",
+    "timestamp": "2026-08-05T13:13:25Z",
+    "status": "success"
+  },
+  "Q76561": {
+    "wikidata_id": "Q16039034",
+    "timestamp": "2026-08-05T13:13:28Z",
+    "status": "success"
+  },
+  "Q5225": {
+    "wikidata_id": "Q160598",
+    "timestamp": "2026-08-05T13:13:31Z",
+    "status": "success"
+  },
+  "Q5226": {
+    "wikidata_id": "Q200481",
+    "timestamp": "2026-08-05T13:13:34Z",
+    "status": "success"
+  },
+  "Q5227": {
+    "wikidata_id": "Q223681",
+    "timestamp": "2026-08-05T13:13:37Z",
+    "status": "success"
+  },
+  "Q5228": {
+    "wikidata_id": "Q2912496",
+    "timestamp": "2026-08-05T13:13:39Z",
+    "status": "success"
+  },
+  "Q5231": {
+    "wikidata_id": "Q60168",
+    "timestamp": "2026-08-05T13:13:54Z",
+    "status": "success"
+  },
+  "Q5232": {
+    "wikidata_id": "Q907797",
+    "timestamp": "2026-08-05T13:13:57Z",
+    "status": "success"
+  },
+  "Q5233": {
+    "wikidata_id": "Q4922484",
+    "timestamp": "2026-08-05T13:14:00Z",
+    "status": "success"
+  },
+  "Q5234": {
+    "wikidata_id": "Q4922293",
+    "timestamp": "2026-08-05T13:14:02Z",
+    "status": "success"
+  },
+  "Q5235": {
+    "wikidata_id": "Q6424489",
+    "timestamp": "2026-08-05T13:17:12Z",
+    "status": "success"
+  },
+  "Q5236": {
+    "wikidata_id": "Q5457601",
+    "timestamp": "2026-08-05T13:17:15Z",
+    "status": "success"
+  },
+  "Q5237": {
+    "wikidata_id": "Q906050",
+    "timestamp": "2026-08-05T13:17:17Z",
+    "status": "success"
+  },
+  "Q5238": {
+    "wikidata_id": "Q910944",
+    "timestamp": "2026-08-05T13:17:19Z",
+    "status": "success"
+  },
+  "Q6663": {
+    "wikidata_id": "Q59243176",
+    "timestamp": "2026-08-05T13:17:22Z",
+    "status": "success"
+  },
+  "Q6665": {
+    "wikidata_id": "Q861402",
+    "timestamp": "2026-08-05T13:17:24Z",
+    "status": "success"
+  },
+  "Q6666": {
+    "wikidata_id": "Q3914",
+    "timestamp": "2026-08-05T13:17:27Z",
+    "status": "success"
+  },
+  "Q6676": {
+    "wikidata_id": "Q103076",
+    "timestamp": "2026-08-05T13:17:29Z",
+    "status": "success"
+  },
+  "Q156198": {
+    "wikidata_id": "Q131036",
+    "timestamp": "2026-08-05T13:17:43Z",
+    "status": "success"
+  },
+  "Q6669": {
+    "wikidata_id": "Q18159276",
+    "timestamp": "2026-08-05T13:17:46Z",
+    "status": "success"
+  },
+  "Q6673": {
+    "wikidata_id": "Q1820380",
+    "timestamp": "2026-08-05T13:17:48Z",
+    "status": "success"
+  },
+  "Q6671": {
+    "wikidata_id": "Q24925",
+    "timestamp": "2026-08-05T13:17:51Z",
+    "status": "success"
+  },
+  "Q6678": {
+    "wikidata_id": "Q28389",
+    "timestamp": "2026-08-05T13:17:54Z",
+    "status": "success"
+  },
+  "Q6677": {
+    "wikidata_id": "Q3429919",
+    "timestamp": "2026-08-05T13:18:00Z",
+    "status": "success"
+  },
+  "Q6670": {
+    "wikidata_id": "Q60967926",
+    "timestamp": "2026-08-05T13:33:50Z",
+    "status": "success"
+  },
+  "Q119707": {
+    "wikidata_id": "Q11634",
+    "timestamp": "2026-08-05T13:34:12Z",
+    "status": "success"
+  },
+  "Q6680": {
+    "wikidata_id": "Q860861",
+    "timestamp": "2026-08-05T13:34:19Z",
+    "status": "success"
+  },
+  "Q6682": {
+    "wikidata_id": "Q351363",
+    "timestamp": "2026-08-05T13:34:23Z",
+    "status": "success"
+  },
+  "Q22809": {
+    "wikidata_id": "Q1977453",
+    "timestamp": "2026-08-05T13:34:27Z",
+    "status": "success"
+  },
+  "Q92943": {
+    "wikidata_id": "Q14623204",
+    "timestamp": "2026-08-05T13:34:35Z",
+    "status": "success"
+  },
+  "Q6685": {
+    "wikidata_id": "Q694045",
+    "timestamp": "2026-08-05T13:34:39Z",
+    "status": "success"
+  },
+  "Q6688": {
+    "wikidata_id": "Q7243147",
+    "timestamp": "2026-08-05T13:34:42Z",
+    "status": "success"
+  },
+  "Q119604": {
+    "wikidata_id": "Q78908682",
+    "timestamp": "2026-08-05T13:34:46Z",
+    "status": "success"
+  },
+  "Q119706": {
+    "wikidata_id": "Q1527023",
+    "timestamp": "2026-08-05T13:34:50Z",
+    "status": "success"
+  },
+  "Q6696": {
+    "wikidata_id": "Q936820",
+    "timestamp": "2026-08-05T13:34:53Z",
+    "status": "success"
+  },
+  "Q119705": {
+    "wikidata_id": "Q40283",
+    "timestamp": "2026-08-05T13:34:57Z",
+    "status": "success"
+  },
+  "Q94941": {
+    "wikidata_id": "Q473596",
+    "timestamp": "2026-08-05T13:35:01Z",
+    "status": "success"
+  },
+  "Q94943": {
+    "wikidata_id": "Q19357317",
+    "timestamp": "2026-08-05T13:35:04Z",
+    "status": "success"
+  },
+  "Q6702": {
+    "wikidata_id": "Q233324",
+    "timestamp": "2026-08-05T13:35:08Z",
+    "status": "success"
+  },
+  "Q6704": {
+    "wikidata_id": "Q1763090",
+    "timestamp": "2026-08-05T13:35:11Z",
+    "status": "success"
+  },
+  "Q6706": {
+    "wikidata_id": "Q2300749",
+    "timestamp": "2026-08-05T13:35:14Z",
+    "status": "success"
+  },
+  "Q156324": {
+    "wikidata_id": "Q484188",
+    "timestamp": "2026-08-05T13:35:20Z",
+    "status": "success"
+  },
+  "Q6708": {
+    "wikidata_id": "Q16266378",
+    "timestamp": "2026-08-05T13:35:24Z",
+    "status": "success"
+  },
+  "Q82845": {
+    "wikidata_id": "Q2141450",
+    "timestamp": "2026-08-05T13:35:28Z",
+    "status": "success"
+  },
+  "Q6710": {
+    "wikidata_id": "Q7455026",
+    "timestamp": "2026-08-05T13:35:31Z",
+    "status": "success"
+  },
+  "Q6715": {
+    "wikidata_id": "Q1084257",
+    "timestamp": "2026-08-05T13:35:35Z",
+    "status": "success"
+  },
+  "Q6719": {
+    "wikidata_id": "Q1221060",
+    "timestamp": "2026-08-05T13:35:38Z",
+    "status": "success"
+  },
+  "Q6721": {
+    "wikidata_id": "Q1273907",
+    "timestamp": "2026-08-05T13:35:41Z",
+    "status": "success"
+  },
+  "Q6723": {
+    "wikidata_id": "Q3110090",
+    "timestamp": "2026-08-05T13:35:48Z",
+    "status": "success"
+  },
+  "Q89943": {
+    "wikidata_id": "Q43414",
+    "timestamp": "2026-08-05T13:35:51Z",
+    "status": "success"
+  },
+  "Q119708": {
+    "wikidata_id": "Q510866",
+    "timestamp": "2026-08-05T13:35:55Z",
+    "status": "success"
+  },
+  "Q6728": {
+    "wikidata_id": "Q7200896",
+    "timestamp": "2026-08-05T13:35:59Z",
+    "status": "success"
+  },
+  "Q86897": {
+    "wikidata_id": "Q558075",
+    "timestamp": "2026-08-05T13:36:02Z",
+    "status": "success"
+  },
+  "Q6736": {
+    "wikidata_id": "Q4127355",
+    "timestamp": "2026-08-05T13:36:06Z",
+    "status": "success"
+  },
+  "Q119739": {
+    "wikidata_id": "Q2782279",
+    "timestamp": "2026-08-05T13:36:10Z",
+    "status": "success"
+  },
+  "Q6740": {
+    "wikidata_id": "Q6025128",
+    "timestamp": "2026-08-05T13:36:13Z",
+    "status": "success"
+  },
+  "Q6744": {
+    "wikidata_id": "Q2253019",
+    "timestamp": "2026-08-05T13:36:17Z",
+    "status": "success"
+  },
+  "Q85125": {
+    "wikidata_id": "Q4042967",
+    "timestamp": "2026-08-05T13:36:20Z",
+    "status": "success"
+  },
+  "Q74798": {
+    "wikidata_id": "Q42042",
+    "timestamp": "2026-08-05T13:36:24Z",
+    "status": "success"
+  },
+  "Q6750": {
+    "wikidata_id": "Q697405",
+    "timestamp": "2026-08-05T13:36:27Z",
+    "status": "success"
+  },
+  "Q6751": {
+    "wikidata_id": "Q812767",
+    "timestamp": "2026-08-05T13:36:41Z",
+    "status": "success"
+  },
+  "Q6752": {
+    "wikidata_id": "Q2763",
+    "timestamp": "2026-08-05T13:36:45Z",
+    "status": "success"
+  },
+  "Q6754": {
+    "wikidata_id": "Q117571",
+    "timestamp": "2026-08-05T13:36:48Z",
+    "status": "success"
+  },
+  "Q6755": {
+    "wikidata_id": "Q213441",
+    "timestamp": "2026-08-05T13:36:52Z",
+    "status": "success"
+  },
+  "Q6756": {
+    "wikidata_id": "Q30315715",
+    "timestamp": "2026-08-05T13:36:55Z",
+    "status": "success"
+  },
+  "Q6757": {
+    "wikidata_id": "Q31184",
+    "timestamp": "2026-08-05T13:36:59Z",
+    "status": "success"
+  },
+  "Q6768": {
+    "wikidata_id": "Q76557",
+    "timestamp": "2026-08-05T13:37:02Z",
+    "status": "success"
+  },
+  "Q6770": {
+    "wikidata_id": "Q41805477",
+    "timestamp": "2026-08-05T13:37:06Z",
+    "status": "success"
+  },
+  "Q6769": {
+    "wikidata_id": "Q76507",
+    "timestamp": "2026-08-05T13:37:09Z",
+    "status": "success"
+  },
+  "Q6777": {
+    "wikidata_id": "Q15224724",
+    "timestamp": "2026-08-05T13:37:12Z",
+    "status": "success"
+  },
+  "Q6771": {
+    "wikidata_id": "Q41805469",
+    "timestamp": "2026-08-05T13:37:16Z",
+    "status": "success"
+  },
+  "Q6776": {
+    "wikidata_id": "Q76477",
+    "timestamp": "2026-08-05T13:37:19Z",
+    "status": "success"
+  },
+  "Q6778": {
+    "wikidata_id": "Q3403377",
+    "timestamp": "2026-08-05T13:37:23Z",
+    "status": "success"
+  },
+  "Q6784": {
+    "wikidata_id": "Q1057959",
+    "timestamp": "2026-08-05T13:37:26Z",
+    "status": "success"
+  },
+  "Q6786": {
+    "wikidata_id": "Q19276041",
+    "timestamp": "2026-08-05T13:37:29Z",
+    "status": "success"
+  },
+  "Q6785": {
+    "wikidata_id": "Q56707",
+    "timestamp": "2026-08-05T13:37:33Z",
+    "status": "success"
+  },
+  "Q6783": {
+    "wikidata_id": "Q98688601",
+    "timestamp": "2026-08-05T13:37:36Z",
+    "status": "success"
+  },
+  "Q6789": {
+    "wikidata_id": "Q177220",
+    "timestamp": "2026-08-05T13:38:04Z",
+    "status": "success"
+  },
+  "Q75879": {
+    "wikidata_id": "Q2047938",
+    "timestamp": "2026-08-05T17:19:00Z",
+    "status": "success"
+  },
+  "Q6791": {
+    "wikidata_id": "Q20987265",
+    "timestamp": "2026-08-05T17:19:05Z",
+    "status": "success"
+  },
+  "Q75880": {
+    "wikidata_id": "Q3269441",
+    "timestamp": "2026-08-05T17:19:08Z",
+    "status": "success"
+  },
+  "Q119737": {
+    "wikidata_id": "Q66372681",
+    "timestamp": "2026-08-05T17:19:11Z",
+    "status": "success"
+  },
+  "Q6794": {
+    "wikidata_id": "Q15951126",
+    "timestamp": "2026-08-05T17:19:15Z",
+    "status": "success"
+  },
+  "Q6792": {
+    "wikidata_id": "Q42417393",
+    "timestamp": "2026-08-05T17:19:18Z",
+    "status": "success"
+  },
+  "Q80227": {
+    "wikidata_id": "Q169390",
+    "timestamp": "2026-08-05T17:19:21Z",
+    "status": "success"
+  },
+  "Q6799": {
+    "wikidata_id": "Q28464887",
+    "timestamp": "2026-08-05T17:19:24Z",
+    "status": "success"
+  },
+  "Q6797": {
+    "wikidata_id": "Q595094",
+    "timestamp": "2026-08-05T17:19:28Z",
+    "status": "success"
+  },
+  "Q6798": {
+    "wikidata_id": "Q8463",
+    "timestamp": "2026-08-05T17:19:32Z",
+    "status": "success"
+  },
+  "Q110676": {
+    "wikidata_id": "Q2736",
+    "timestamp": "2026-08-05T17:19:35Z",
+    "status": "success"
+  },
+  "Q81365": {
+    "wikidata_id": "Q662860",
+    "timestamp": "2026-08-05T17:19:39Z",
+    "status": "success"
+  },
+  "Q6806": {
+    "wikidata_id": "Q17148672",
+    "timestamp": "2026-08-05T17:19:42Z",
+    "status": "success"
+  },
+  "Q119734": {
+    "wikidata_id": "Q116814838",
+    "timestamp": "2026-08-05T17:19:46Z",
+    "status": "success"
+  },
+  "Q6811": {
+    "wikidata_id": "Q187588",
+    "timestamp": "2026-08-05T17:19:49Z",
+    "status": "success"
+  },
+  "Q73612": {
+    "wikidata_id": "Q2715623",
+    "timestamp": "2026-08-05T17:19:53Z",
+    "status": "success"
+  },
+  "Q6816": {
+    "wikidata_id": "Q3220391",
+    "timestamp": "2026-08-05T17:19:56Z",
+    "status": "success"
+  },
+  "Q89646": {
+    "wikidata_id": "Q5853064",
+    "timestamp": "2026-08-05T17:19:59Z",
+    "status": "success"
+  },
+  "Q6819": {
+    "wikidata_id": "Q2305441",
+    "timestamp": "2026-08-05T17:20:03Z",
+    "status": "success"
+  },
+  "Q92937": {
+    "wikidata_id": "Q1050187",
+    "timestamp": "2026-08-05T17:20:06Z",
+    "status": "success"
+  },
+  "Q6829": {
+    "wikidata_id": "Q10649809",
+    "timestamp": "2026-08-05T17:20:09Z",
+    "status": "success"
+  },
+  "Q6827": {
+    "wikidata_id": "Q1637438",
+    "timestamp": "2026-08-05T17:20:13Z",
+    "status": "success"
+  },
+  "Q6837": {
+    "wikidata_id": "Q1656146",
+    "timestamp": "2026-08-05T17:20:16Z",
+    "status": "success"
+  },
+  "Q156328": {
+    "wikidata_id": "Q171038",
+    "timestamp": "2026-08-05T17:20:24Z",
+    "status": "success"
+  },
+  "Q124142": {
+    "wikidata_id": "Q1902558",
+    "timestamp": "2026-08-05T17:20:29Z",
+    "status": "success"
+  },
+  "Q88800": {
+    "wikidata_id": "Q205398",
+    "timestamp": "2026-08-05T17:20:36Z",
+    "status": "success"
+  },
+  "Q6836": {
+    "wikidata_id": "Q2306091",
+    "timestamp": "2026-08-05T17:20:43Z",
+    "status": "success"
+  },
+  "Q6840": {
+    "wikidata_id": "Q4991371",
+    "timestamp": "2026-08-05T17:20:47Z",
+    "status": "success"
+  },
+  "Q6825": {
+    "wikidata_id": "Q5484714",
+    "timestamp": "2026-08-05T17:20:51Z",
+    "status": "success"
+  },
+  "Q6823": {
+    "wikidata_id": "Q7019111",
+    "timestamp": "2026-08-05T17:20:55Z",
+    "status": "success"
+  },
+  "Q6830": {
+    "wikidata_id": "Q7272",
+    "timestamp": "2026-08-05T17:21:11Z",
+    "status": "success"
+  },
+  "Q6842": {
+    "wikidata_id": "Q7366",
+    "timestamp": "2026-08-05T17:22:02Z",
+    "status": "success"
+  },
+  "Q92935": {
+    "wikidata_id": "Q815726",
+    "timestamp": "2026-08-05T17:22:05Z",
+    "status": "success"
+  },
+  "Q86896": {
+    "wikidata_id": "Q8425",
+    "timestamp": "2026-08-05T17:22:08Z",
+    "status": "success"
+  },
+  "Q6826": {
+    "wikidata_id": "Q96731837",
+    "timestamp": "2026-08-05T17:22:11Z",
+    "status": "success"
+  },
+  "Q7972": {
+    "wikidata_id": "Q6205171",
+    "timestamp": "2026-08-05T17:22:17Z",
+    "status": "success"
+  },
+  "Q7973": {
+    "wikidata_id": "Q4835857",
+    "timestamp": "2026-08-05T17:22:22Z",
+    "status": "success"
+  },
+  "Q7974": {
+    "wikidata_id": "Q4927640",
+    "timestamp": "2026-08-05T17:22:25Z",
+    "status": "success"
+  },
+  "Q7976": {
+    "wikidata_id": "Q603529",
+    "timestamp": "2026-08-05T17:22:28Z",
+    "status": "success"
+  },
+  "Q7977": {
+    "wikidata_id": "Q885594",
+    "timestamp": "2026-08-05T17:22:32Z",
+    "status": "success"
+  },
+  "Q7978": {
+    "wikidata_id": "Q2907269",
+    "timestamp": "2026-08-05T17:22:35Z",
+    "status": "success"
+  },
+  "Q7979": {
+    "wikidata_id": "Q184634",
+    "timestamp": "2026-08-05T17:22:39Z",
+    "status": "success"
+  },
+  "Q7980": {
+    "wikidata_id": "Q2728231",
+    "timestamp": "2026-08-05T17:22:42Z",
+    "status": "success"
+  },
+  "Q7981": {
+    "wikidata_id": "Q724896",
+    "timestamp": "2026-08-05T17:22:45Z",
+    "status": "success"
+  },
+  "Q7983": {
+    "wikidata_id": "Q231549",
+    "timestamp": "2026-08-05T17:22:48Z",
+    "status": "success"
+  },
+  "Q7984": {
+    "wikidata_id": "Q4943264",
+    "timestamp": "2026-08-05T17:22:51Z",
+    "status": "success"
+  },
+  "Q7987": {
+    "wikidata_id": "Q48741880",
+    "timestamp": "2026-08-05T17:22:56Z",
+    "status": "success"
+  },
+  "Q7988": {
+    "wikidata_id": "Q6458264",
+    "timestamp": "2026-08-05T17:22:59Z",
+    "status": "success"
+  },
+  "Q7989": {
+    "wikidata_id": "Q1332427",
+    "timestamp": "2026-08-05T17:23:03Z",
+    "status": "success"
+  },
+  "Q7992": {
+    "wikidata_id": "Q115058347",
+    "timestamp": "2026-08-05T17:23:06Z",
+    "status": "success"
+  },
+  "Q7994": {
+    "wikidata_id": "Q17107675",
+    "timestamp": "2026-08-05T17:23:09Z",
+    "status": "success"
+  },
+  "Q7997": {
+    "wikidata_id": "Q18686095",
+    "timestamp": "2026-08-05T17:23:12Z",
+    "status": "success"
+  },
+  "Q8000": {
+    "wikidata_id": "Q4934235",
+    "timestamp": "2026-08-05T17:23:16Z",
+    "status": "success"
+  },
+  "Q8001": {
+    "wikidata_id": "Q3307811",
+    "timestamp": "2026-08-05T17:23:20Z",
+    "status": "success"
+  },
+  "Q8002": {
+    "wikidata_id": "Q27710576",
+    "timestamp": "2026-08-05T17:23:22Z",
+    "status": "success"
+  },
+  "Q8004": {
+    "wikidata_id": "Q27715949",
+    "timestamp": "2026-08-05T17:23:25Z",
+    "status": "success"
+  },
+  "Q8006": {
+    "wikidata_id": "Q455868",
+    "timestamp": "2026-08-05T17:23:30Z",
+    "status": "success"
+  },
+  "Q8017": {
+    "wikidata_id": "Q7443521",
+    "timestamp": "2026-08-05T17:23:33Z",
+    "status": "success"
+  },
+  "Q8018": {
+    "wikidata_id": "Q113126389",
+    "timestamp": "2026-08-05T17:23:36Z",
+    "status": "success"
+  },
+  "Q5896": {
+    "wikidata_id": "Q3899414",
+    "timestamp": "2026-08-05T17:23:39Z",
+    "status": "success"
+  },
+  "Q8038": {
+    "wikidata_id": "Q57916115",
+    "timestamp": "2026-08-05T17:23:44Z",
+    "status": "success"
+  },
+  "Q8047": {
+    "wikidata_id": "Q112869831",
+    "timestamp": "2026-08-05T17:23:47Z",
+    "status": "success"
+  },
+  "Q8064": {
+    "wikidata_id": "Q2412357",
+    "timestamp": "2026-08-05T17:23:52Z",
+    "status": "success"
+  },
+  "Q8061": {
+    "wikidata_id": "Q241392",
+    "timestamp": "2026-08-05T17:23:55Z",
+    "status": "success"
+  },
+  "Q8057": {
+    "wikidata_id": "Q254431",
+    "timestamp": "2026-08-05T17:23:58Z",
+    "status": "success"
+  },
+  "Q8063": {
+    "wikidata_id": "Q2547820",
+    "timestamp": "2026-08-05T17:24:01Z",
+    "status": "success"
+  },
+  "Q8065": {
+    "wikidata_id": "Q3012704",
+    "timestamp": "2026-08-05T17:24:04Z",
+    "status": "success"
+  },
+  "Q8060": {
+    "wikidata_id": "Q468557",
+    "timestamp": "2026-08-05T17:24:08Z",
+    "status": "success"
+  },
+  "Q8062": {
+    "wikidata_id": "Q54527",
+    "timestamp": "2026-08-05T17:24:11Z",
+    "status": "success"
+  },
+  "Q8069": {
+    "wikidata_id": "Q108887370",
+    "timestamp": "2026-08-05T17:24:14Z",
+    "status": "success"
+  },
+  "Q8067": {
+    "wikidata_id": "Q160257",
+    "timestamp": "2026-08-05T17:24:18Z",
+    "status": "success"
+  },
+  "Q8068": {
+    "wikidata_id": "Q230454",
+    "timestamp": "2026-08-05T17:24:21Z",
+    "status": "success"
+  },
+  "Q8072": {
+    "wikidata_id": "Q2669614",
+    "timestamp": "2026-08-05T17:24:24Z",
+    "status": "success"
+  },
+  "Q8066": {
+    "wikidata_id": "Q44519",
+    "timestamp": "2026-08-05T17:24:27Z",
+    "status": "success"
+  },
+  "Q8073": {
+    "wikidata_id": "Q6530241",
+    "timestamp": "2026-08-05T17:24:31Z",
+    "status": "success"
+  },
+  "Q8074": {
+    "wikidata_id": "Q6530243",
+    "timestamp": "2026-08-05T17:24:36Z",
+    "status": "success"
+  },
+  "Q8075": {
+    "wikidata_id": "Q6530249",
+    "timestamp": "2026-08-05T17:24:43Z",
+    "status": "success"
+  },
+  "Q8071": {
+    "wikidata_id": "Q766716",
+    "timestamp": "2026-08-05T17:24:46Z",
+    "status": "success"
+  },
+  "Q8078": {
+    "wikidata_id": "Q512065",
+    "timestamp": "2026-08-05T17:24:49Z",
+    "status": "success"
+  },
+  "Q8079": {
+    "wikidata_id": "Q18915146",
+    "timestamp": "2026-08-05T17:24:52Z",
+    "status": "success"
+  },
+  "Q8082": {
+    "wikidata_id": "Q2745195",
+    "timestamp": "2026-08-05T17:24:55Z",
+    "status": "success"
+  },
+  "Q8083": {
+    "wikidata_id": "Q463319",
+    "timestamp": "2026-08-05T17:24:58Z",
+    "status": "success"
+  },
+  "Q8084": {
+    "wikidata_id": "Q39073393",
+    "timestamp": "2026-08-05T17:25:01Z",
+    "status": "success"
+  },
+  "Q8085": {
+    "wikidata_id": "Q265841",
+    "timestamp": "2026-08-05T17:25:05Z",
+    "status": "success"
+  },
+  "Q8086": {
+    "wikidata_id": "Q270632",
+    "timestamp": "2026-08-05T17:25:08Z",
+    "status": "success"
+  },
+  "Q8088": {
+    "wikidata_id": "Q15056017",
+    "timestamp": "2026-08-05T17:25:12Z",
+    "status": "success"
+  },
+  "Q8089": {
+    "wikidata_id": "Q445893",
+    "timestamp": "2026-08-05T17:25:16Z",
+    "status": "success"
+  },
+  "Q8090": {
+    "wikidata_id": "Q15056022",
+    "timestamp": "2026-08-05T17:25:19Z",
+    "status": "success"
+  },
+  "Q8092": {
+    "wikidata_id": "Q7073277",
+    "timestamp": "2026-08-05T17:25:22Z",
+    "status": "success"
+  },
+  "Q8093": {
+    "wikidata_id": "Q115474806",
+    "timestamp": "2026-08-05T17:25:25Z",
+    "status": "success"
+  },
+  "Q8095": {
+    "wikidata_id": "Q160456",
+    "timestamp": "2026-08-05T17:25:29Z",
+    "status": "success"
+  },
+  "Q8096": {
+    "wikidata_id": "Q6727005",
+    "timestamp": "2026-08-05T17:25:33Z",
+    "status": "success"
+  },
+  "Q8097": {
+    "wikidata_id": "Q1182626",
+    "timestamp": "2026-08-05T17:25:37Z",
+    "status": "success"
+  },
+  "Q8098": {
+    "wikidata_id": "Q483325",
+    "timestamp": "2026-08-05T17:25:40Z",
+    "status": "success"
+  },
+  "Q8099": {
+    "wikidata_id": "Q7620310",
+    "timestamp": "2026-08-05T17:25:44Z",
+    "status": "success"
+  },
+  "Q8100": {
+    "wikidata_id": "Q351309",
+    "timestamp": "2026-08-05T17:25:47Z",
+    "status": "success"
+  },
+  "Q8101": {
+    "wikidata_id": "Q648296",
+    "timestamp": "2026-08-05T17:25:54Z",
+    "status": "success"
+  },
+  "Q8102": {
+    "wikidata_id": "Q3137558",
+    "timestamp": "2026-08-05T17:25:59Z",
+    "status": "success"
+  },
+  "Q8103": {
+    "wikidata_id": "Q112695273",
+    "timestamp": "2026-08-05T17:26:07Z",
+    "status": "success"
+  },
+  "Q8104": {
+    "wikidata_id": "Q95149025",
+    "timestamp": "2026-08-05T17:48:43Z",
+    "status": "success"
+  },
+  "Q8106": {
+    "wikidata_id": "Q1225127",
+    "timestamp": "2026-08-05T17:48:46Z",
+    "status": "success"
+  },
+  "Q8108": {
+    "wikidata_id": "Q22958993",
+    "timestamp": "2026-08-05T17:48:50Z",
+    "status": "success"
+  },
+  "Q8109": {
+    "wikidata_id": "Q4727506",
+    "timestamp": "2026-08-05T17:48:53Z",
+    "status": "success"
+  },
+  "Q8110": {
+    "wikidata_id": "Q337869",
+    "timestamp": "2026-08-05T17:48:56Z",
+    "status": "success"
+  },
+  "Q8111": {
+    "wikidata_id": "Q5297803",
+    "timestamp": "2026-08-05T17:48:59Z",
+    "status": "success"
+  },
+  "Q8112": {
+    "wikidata_id": "Q460660",
+    "timestamp": "2026-08-05T17:49:02Z",
+    "status": "success"
+  },
+  "Q8113": {
+    "wikidata_id": "Q467378",
+    "timestamp": "2026-08-05T17:49:05Z",
+    "status": "success"
+  },
+  "Q8114": {
+    "wikidata_id": "Q1372878",
+    "timestamp": "2026-08-05T17:49:08Z",
+    "status": "success"
+  },
+  "Q8115": {
+    "wikidata_id": "Q94965475",
+    "timestamp": "2026-08-05T17:49:10Z",
+    "status": "success"
+  },
+  "Q8116": {
+    "wikidata_id": "Q241398",
+    "timestamp": "2026-08-05T17:49:13Z",
+    "status": "success"
+  },
+  "Q8117": {
+    "wikidata_id": "Q1324878",
+    "timestamp": "2026-08-05T17:49:17Z",
+    "status": "success"
+  },
+  "Q8118": {
+    "wikidata_id": "Q4647122",
+    "timestamp": "2026-08-05T17:49:23Z",
+    "status": "success"
+  },
+  "Q8119": {
+    "wikidata_id": "Q5147482",
+    "timestamp": "2026-08-05T17:49:25Z",
+    "status": "success"
+  },
+  "Q8120": {
+    "wikidata_id": "Q18150449",
+    "timestamp": "2026-08-05T17:49:28Z",
+    "status": "success"
+  },
+  "Q83575": {
+    "wikidata_id": "Q27468",
+    "timestamp": "2026-08-05T17:49:31Z",
+    "status": "success"
+  },
+  "Q8122": {
+    "wikidata_id": "Q16012773",
+    "timestamp": "2026-08-05T17:49:35Z",
+    "status": "success"
+  },
+  "Q8123": {
+    "wikidata_id": "Q461851",
+    "timestamp": "2026-08-05T17:49:38Z",
+    "status": "success"
+  },
+  "Q8124": {
+    "wikidata_id": "Q5236",
+    "timestamp": "2026-08-05T17:49:41Z",
+    "status": "success"
+  },
+  "Q8126": {
+    "wikidata_id": "Q113678107",
+    "timestamp": "2026-08-05T17:49:44Z",
+    "status": "success"
+  },
+  "Q8129": {
+    "wikidata_id": "Q18645726",
+    "timestamp": "2026-08-05T17:49:48Z",
+    "status": "success"
+  },
+  "Q8130": {
+    "wikidata_id": "Q3049112",
+    "timestamp": "2026-08-05T17:49:50Z",
+    "status": "success"
+  },
+  "Q8131": {
+    "wikidata_id": "Q111669483",
+    "timestamp": "2026-08-05T17:49:53Z",
+    "status": "success"
+  },
+  "Q8132": {
+    "wikidata_id": "Q422933",
+    "timestamp": "2026-08-05T17:49:58Z",
+    "status": "success"
+  },
+  "Q8133": {
+    "wikidata_id": "Q230591",
+    "timestamp": "2026-08-05T17:50:01Z",
+    "status": "success"
+  },
+  "Q8134": {
+    "wikidata_id": "Q458169",
+    "timestamp": "2026-08-05T17:50:05Z",
+    "status": "success"
+  },
+  "Q8135": {
+    "wikidata_id": "Q216092",
+    "timestamp": "2026-08-05T17:50:09Z",
+    "status": "success"
+  },
+  "Q143882": {
+    "wikidata_id": "Q12554",
+    "timestamp": "2026-08-05T17:50:12Z",
+    "status": "success"
+  },
+  "Q8137": {
+    "wikidata_id": "Q62134",
+    "timestamp": "2026-08-05T17:50:15Z",
+    "status": "success"
+  },
+  "Q8138": {
+    "wikidata_id": "Q292268",
+    "timestamp": "2026-08-05T17:50:19Z",
+    "status": "success"
+  },
+  "Q8139": {
+    "wikidata_id": "Q235509",
+    "timestamp": "2026-08-05T17:50:23Z",
+    "status": "success"
+  },
+  "Q8140": {
+    "wikidata_id": "Q518207",
+    "timestamp": "2026-08-05T17:50:26Z",
+    "status": "success"
+  },
+  "Q8141": {
+    "wikidata_id": "Q55723344",
+    "timestamp": "2026-08-05T17:50:29Z",
+    "status": "success"
+  },
+  "Q8142": {
+    "wikidata_id": "Q2517244",
+    "timestamp": "2026-08-05T17:50:34Z",
+    "status": "success"
+  },
+  "Q8143": {
+    "wikidata_id": "Q2345006",
+    "timestamp": "2026-08-05T17:50:37Z",
+    "status": "success"
+  },
+  "Q8144": {
+    "wikidata_id": "Q956180",
+    "timestamp": "2026-08-05T17:50:41Z",
+    "status": "success"
+  },
+  "Q4418": {
+    "wikidata_id": "Q22759",
+    "timestamp": "2026-08-05T17:50:44Z",
+    "status": "success"
+  },
+  "Q80218": {
+    "wikidata_id": "Q273972",
+    "timestamp": "2026-08-05T17:50:47Z",
+    "status": "success"
+  },
+  "Q4416": {
+    "wikidata_id": "Q4936955",
+    "timestamp": "2026-08-05T17:50:50Z",
+    "status": "success"
+  },
+  "Q4412": {
+    "wikidata_id": "Q640757",
+    "timestamp": "2026-08-05T17:50:53Z",
+    "status": "success"
+  },
+  "Q4419": {
+    "wikidata_id": "Q2980154",
+    "timestamp": "2026-08-05T17:50:56Z",
+    "status": "success"
+  },
+  "Q556": {
+    "wikidata_id": "Q200764",
+    "timestamp": "2026-08-05T17:51:03Z",
+    "status": "success"
+  },
+  "Q77768": {
+    "wikidata_id": "Q128581",
+    "timestamp": "2026-08-05T17:51:07Z",
+    "status": "success"
+  },
+  "Q78041": {
+    "wikidata_id": "Q174876",
+    "timestamp": "2026-08-05T17:51:10Z",
+    "status": "success"
+  },
+  "Q81489": {
+    "wikidata_id": "Q1997731",
+    "timestamp": "2026-08-05T17:51:13Z",
+    "status": "success"
+  },
+  "Q4434": {
+    "wikidata_id": "Q2045234",
+    "timestamp": "2026-08-05T17:51:17Z",
+    "status": "success"
+  },
+  "Q81485": {
+    "wikidata_id": "Q208166",
+    "timestamp": "2026-08-05T17:51:25Z",
+    "status": "success"
+  },
+  "Q4423": {
+    "wikidata_id": "Q216337",
+    "timestamp": "2026-08-05T17:51:28Z",
+    "status": "success"
+  },
+  "Q4422": {
+    "wikidata_id": "Q241588",
+    "timestamp": "2026-08-05T17:51:31Z",
+    "status": "success"
+  },
+  "Q4428": {
+    "wikidata_id": "Q242488",
+    "timestamp": "2026-08-05T17:51:34Z",
+    "status": "success"
+  },
+  "Q81488": {
+    "wikidata_id": "Q52090",
+    "timestamp": "2026-08-05T17:51:38Z",
+    "status": "success"
+  },
+  "Q4436": {
+    "wikidata_id": "Q10861465",
+    "timestamp": "2026-08-05T17:51:41Z",
+    "status": "success"
+  },
+  "Q4445": {
+    "wikidata_id": "Q112682357",
+    "timestamp": "2026-08-05T17:51:44Z",
+    "status": "success"
+  },
+  "Q4435": {
+    "wikidata_id": "Q141683",
+    "timestamp": "2026-08-05T17:51:48Z",
+    "status": "success"
+  },
+  "Q4442": {
+    "wikidata_id": "Q184940",
+    "timestamp": "2026-08-05T17:51:51Z",
+    "status": "success"
+  },
+  "Q4443": {
+    "wikidata_id": "Q331055",
+    "timestamp": "2026-08-05T17:51:54Z",
+    "status": "success"
+  },
+  "Q4446": {
+    "wikidata_id": "Q829020",
+    "timestamp": "2026-08-05T17:51:57Z",
+    "status": "success"
+  },
+  "Q4447": {
+    "wikidata_id": "Q43845",
+    "timestamp": "2026-08-05T17:52:00Z",
+    "status": "success"
+  },
+  "Q4450": {
+    "wikidata_id": "Q42165",
+    "timestamp": "2026-08-05T17:52:03Z",
+    "status": "success"
+  },
+  "Q4448": {
+    "wikidata_id": "Q4830453",
+    "timestamp": "2026-08-05T17:52:13Z",
+    "status": "success"
+  },
+  "Q4451": {
+    "wikidata_id": "Q918319",
+    "timestamp": "2026-08-05T17:52:18Z",
+    "status": "success"
+  },
+  "Q26670": {
+    "wikidata_id": "Q131183",
+    "timestamp": "2026-08-05T17:52:21Z",
+    "status": "success"
+  },
+  "Q93336": {
+    "wikidata_id": "Q131183",
+    "timestamp": "2026-08-05T17:52:25Z",
+    "status": "success"
+  },
+  "Q4453": {
+    "wikidata_id": "Q111535905",
+    "timestamp": "2026-08-05T17:52:28Z",
+    "status": "success"
+  },
+  "Q4454": {
+    "wikidata_id": "Q12027715",
+    "timestamp": "2026-08-05T17:52:31Z",
+    "status": "success"
+  },
+  "Q4455": {
+    "wikidata_id": "Q12132",
+    "timestamp": "2026-08-05T17:52:34Z",
+    "status": "success"
+  },
+  "Q4456": {
+    "wikidata_id": "Q101849",
+    "timestamp": "2026-08-05T17:52:37Z",
+    "status": "success"
+  },
+  "Q4460": {
+    "wikidata_id": "Q131260",
+    "timestamp": "2026-08-05T17:52:40Z",
+    "status": "success"
+  },
+  "Q93337": {
+    "wikidata_id": "Q455550",
+    "timestamp": "2026-08-05T17:52:43Z",
+    "status": "success"
+  },
+  "Q4461": {
+    "wikidata_id": "Q273510",
+    "timestamp": "2026-08-05T17:52:46Z",
+    "status": "success"
+  },
+  "Q90126": {
+    "wikidata_id": "Q2845",
+    "timestamp": "2026-08-05T17:52:49Z",
+    "status": "success"
+  },
+  "Q19682": {
+    "wikidata_id": "Q79817",
+    "timestamp": "2026-08-05T17:52:52Z",
+    "status": "success"
+  },
+  "Q4479": {
+    "wikidata_id": "Q1033379",
+    "timestamp": "2026-08-05T17:52:56Z",
+    "status": "success"
+  },
+  "Q78626": {
+    "wikidata_id": "Q2289565",
+    "timestamp": "2026-08-05T17:52:59Z",
+    "status": "success"
+  },
+  "Q4472": {
+    "wikidata_id": "Q2631671",
+    "timestamp": "2026-08-05T17:53:02Z",
+    "status": "success"
+  },
+  "Q4480": {
+    "wikidata_id": "Q7150699",
+    "timestamp": "2026-08-05T17:53:05Z",
+    "status": "success"
+  },
+  "Q4482": {
+    "wikidata_id": "Q422917",
+    "timestamp": "2026-08-05T17:53:09Z",
+    "status": "success"
+  },
+  "Q4481": {
+    "wikidata_id": "Q422936",
+    "timestamp": "2026-08-05T17:53:16Z",
+    "status": "success"
+  },
+  "Q4483": {
+    "wikidata_id": "Q44595",
+    "timestamp": "2026-08-05T17:53:19Z",
+    "status": "success"
+  },
+  "Q77766": {
+    "wikidata_id": "Q2853058",
+    "timestamp": "2026-08-05T17:53:22Z",
+    "status": "success"
+  },
+  "Q93341": {
+    "wikidata_id": "Q188462",
+    "timestamp": "2026-08-05T17:53:24Z",
+    "status": "success"
+  },
+  "Q4489": {
+    "wikidata_id": "Q6206",
+    "timestamp": "2026-08-05T17:53:27Z",
+    "status": "success"
+  },
+  "Q78628": {
+    "wikidata_id": "Q7341605",
+    "timestamp": "2026-08-05T17:53:30Z",
+    "status": "success"
+  },
+  "Q4490": {
+    "wikidata_id": "Q2061864",
+    "timestamp": "2026-08-05T17:53:33Z",
+    "status": "success"
+  },
+  "Q78624": {
+    "wikidata_id": "Q142714",
+    "timestamp": "2026-08-05T17:53:37Z",
+    "status": "success"
+  },
+  "Q4493": {
+    "wikidata_id": "Q45722",
+    "timestamp": "2026-08-05T17:53:40Z",
+    "status": "success"
+  },
+  "Q93343": {
+    "wikidata_id": "Q829156",
+    "timestamp": "2026-08-05T17:53:43Z",
+    "status": "success"
+  },
+  "Q93344": {
+    "wikidata_id": "Q5038939",
+    "timestamp": "2026-08-05T17:53:46Z",
+    "status": "success"
+  },
+  "Q4496": {
+    "wikidata_id": "Q108174030",
+    "timestamp": "2026-08-05T17:53:49Z",
+    "status": "success"
+  },
+  "Q4498": {
+    "wikidata_id": "Q2596183",
+    "timestamp": "2026-08-05T17:53:52Z",
+    "status": "success"
+  },
+  "Q4499": {
+    "wikidata_id": "Q912666",
+    "timestamp": "2026-08-05T17:53:55Z",
+    "status": "success"
+  },
+  "Q4500": {
+    "wikidata_id": "Q151980",
+    "timestamp": "2026-08-05T17:54:00Z",
+    "status": "success"
+  },
+  "Q4501": {
+    "wikidata_id": "Q2641893",
+    "timestamp": "2026-08-05T17:54:03Z",
+    "status": "success"
+  },
+  "Q4503": {
+    "wikidata_id": "Q26726",
+    "timestamp": "2026-08-05T17:54:06Z",
+    "status": "success"
+  },
+  "Q4502": {
+    "wikidata_id": "Q685071",
+    "timestamp": "2026-08-05T17:54:09Z",
+    "status": "success"
+  },
+  "Q4504": {
+    "wikidata_id": "Q259037",
+    "timestamp": "2026-08-05T17:54:12Z",
+    "status": "success"
+  },
+  "Q4505": {
+    "wikidata_id": "Q259037",
+    "timestamp": "2026-08-05T17:54:17Z",
+    "status": "success"
+  },
+  "Q4506": {
+    "wikidata_id": "Q627603",
+    "timestamp": "2026-08-05T17:54:26Z",
+    "status": "success"
+  },
+  "Q93345": {
+    "wikidata_id": "Q849891",
+    "timestamp": "2026-08-05T17:54:29Z",
+    "status": "success"
+  },
+  "Q92803": {
+    "wikidata_id": "Q442358",
+    "timestamp": "2026-08-05T17:54:32Z",
+    "status": "success"
+  },
+  "Q4509": {
+    "wikidata_id": "Q2352616",
+    "timestamp": "2026-08-05T17:54:36Z",
+    "status": "success"
+  },
+  "Q4512": {
+    "wikidata_id": "Q211236",
+    "timestamp": "2026-08-05T17:54:40Z",
+    "status": "success"
+  },
+  "Q4511": {
+    "wikidata_id": "Q3010205",
+    "timestamp": "2026-08-05T17:54:44Z",
+    "status": "success"
+  },
+  "Q101554": {
+    "wikidata_id": "Q39825",
+    "timestamp": "2026-08-05T17:54:47Z",
+    "status": "success"
+  },
+  "Q4515": {
+    "wikidata_id": "Q68773434",
+    "timestamp": "2026-08-05T17:54:52Z",
+    "status": "success"
+  },
+  "Q156111": {
+    "wikidata_id": "Q68773434",
+    "timestamp": "2026-08-05T17:54:56Z",
+    "status": "success"
+  },
+  "Q22053": {
+    "wikidata_id": "Q160105",
+    "timestamp": "2026-08-05T17:54:59Z",
+    "status": "success"
+  },
+  "Q4518": {
+    "wikidata_id": "Q95074",
+    "timestamp": "2026-08-05T19:09:40Z",
+    "status": "success"
+  },
+  "Q80219": {
+    "wikidata_id": "Q574577",
+    "timestamp": "2026-08-05T19:09:44Z",
+    "status": "success"
+  },
+  "Q78048": {
+    "wikidata_id": "Q167191",
+    "timestamp": "2026-08-05T19:09:47Z",
+    "status": "success"
+  },
+  "Q93346": {
+    "wikidata_id": "Q954957",
+    "timestamp": "2026-08-05T19:09:50Z",
+    "status": "success"
+  },
+  "Q4523": {
+    "wikidata_id": "Q34581",
+    "timestamp": "2026-08-05T19:10:03Z",
+    "status": "success"
+  },
+  "Q78633": {
+    "wikidata_id": "Q34581",
+    "timestamp": "2026-08-05T19:10:06Z",
+    "status": "success"
+  },
+  "Q22788": {
+    "wikidata_id": "Q276258",
+    "timestamp": "2026-08-05T19:10:09Z",
+    "status": "success"
+  },
+  "Q89934": {
+    "wikidata_id": "Q17078133",
+    "timestamp": "2026-08-05T19:10:12Z",
+    "status": "success"
+  },
+  "Q4528": {
+    "wikidata_id": "Q53033847",
+    "timestamp": "2026-08-05T19:10:15Z",
+    "status": "success"
+  },
+  "Q4532": {
+    "wikidata_id": "Q160645",
+    "timestamp": "2026-08-05T19:10:18Z",
+    "status": "success"
+  },
+  "Q75870": {
+    "wikidata_id": "Q153356",
+    "timestamp": "2026-08-05T19:10:22Z",
+    "status": "success"
+  },
+  "Q4539": {
+    "wikidata_id": "Q1776834",
+    "timestamp": "2026-08-05T19:10:25Z",
+    "status": "success"
+  },
+  "Q4540": {
+    "wikidata_id": "Q1753063",
+    "timestamp": "2026-08-05T19:10:28Z",
+    "status": "success"
+  },
+  "Q4541": {
+    "wikidata_id": "Q53869202",
+    "timestamp": "2026-08-05T19:10:31Z",
+    "status": "success"
+  },
+  "Q4543": {
+    "wikidata_id": "Q131186",
+    "timestamp": "2026-08-05T19:10:45Z",
+    "status": "success"
+  },
+  "Q4544": {
+    "wikidata_id": "Q2490358",
+    "timestamp": "2026-08-05T19:10:48Z",
+    "status": "success"
+  },
+  "Q93347": {
+    "wikidata_id": "Q209158",
+    "timestamp": "2026-08-05T19:10:52Z",
+    "status": "success"
+  },
+  "Q64241": {
+    "wikidata_id": "Q37748",
+    "timestamp": "2026-08-05T19:11:02Z",
+    "status": "success"
+  },
+  "Q81478": {
+    "wikidata_id": "Q3624420",
+    "timestamp": "2026-08-05T19:11:08Z",
+    "status": "success"
+  },
+  "Q4554": {
+    "wikidata_id": "Q16970",
+    "timestamp": "2026-08-05T19:11:10Z",
+    "status": "success"
+  },
+  "Q4555": {
+    "wikidata_id": "Q2638480",
+    "timestamp": "2026-08-05T19:11:13Z",
+    "status": "success"
+  },
+  "Q4556": {
+    "wikidata_id": "Q111161",
+    "timestamp": "2026-08-05T19:11:17Z",
+    "status": "success"
+  },
+  "Q4557": {
+    "wikidata_id": "Q51645",
+    "timestamp": "2026-08-05T19:11:21Z",
+    "status": "success"
+  },
+  "Q4558": {
+    "wikidata_id": "Q10551516",
+    "timestamp": "2026-08-05T19:11:25Z",
+    "status": "success"
+  },
+  "Q4559": {
+    "wikidata_id": "Q41253",
+    "timestamp": "2026-08-05T19:11:35Z",
+    "status": "success"
+  },
+  "Q4561": {
+    "wikidata_id": "Q17307272",
+    "timestamp": "2026-08-05T19:11:38Z",
+    "status": "success"
+  },
+  "Q4562": {
+    "wikidata_id": "Q31244",
+    "timestamp": "2026-08-05T19:11:41Z",
+    "status": "success"
+  },
+  "Q4560": {
+    "wikidata_id": "Q47928",
+    "timestamp": "2026-08-05T19:11:43Z",
+    "status": "success"
+  },
+  "Q78053": {
+    "wikidata_id": "Q515",
+    "timestamp": "2026-08-05T19:11:46Z",
+    "status": "success"
+  },
+  "Q8145": {
+    "wikidata_id": "Q12665",
+    "timestamp": "2026-08-05T19:11:49Z",
+    "status": "success"
+  },
+  "Q8146": {
+    "wikidata_id": "Q40628",
+    "timestamp": "2026-08-05T19:11:52Z",
+    "status": "success"
+  },
+  "Q8147": {
+    "wikidata_id": "Q1680415",
+    "timestamp": "2026-08-05T19:11:56Z",
+    "status": "success"
+  },
+  "Q8148": {
+    "wikidata_id": "Q1633246",
+    "timestamp": "2026-08-05T19:11:58Z",
+    "status": "success"
+  },
+  "Q8149": {
+    "wikidata_id": "Q5039875",
+    "timestamp": "2026-08-05T19:12:03Z",
+    "status": "success"
+  },
+  "Q8151": {
+    "wikidata_id": "Q6873281",
+    "timestamp": "2026-08-05T19:12:06Z",
+    "status": "success"
+  },
+  "Q8153": {
+    "wikidata_id": "Q466137",
+    "timestamp": "2026-08-05T19:12:09Z",
+    "status": "success"
+  },
+  "Q8154": {
+    "wikidata_id": "Q112455",
+    "timestamp": "2026-08-05T19:12:12Z",
+    "status": "success"
+  },
+  "Q8155": {
+    "wikidata_id": "Q3849446",
+    "timestamp": "2026-08-05T19:12:16Z",
+    "status": "success"
+  },
+  "Q8156": {
+    "wikidata_id": "Q18379399",
+    "timestamp": "2026-08-05T19:12:18Z",
+    "status": "success"
+  },
+  "Q8157": {
+    "wikidata_id": "Q8448729",
+    "timestamp": "2026-08-05T19:12:21Z",
+    "status": "success"
+  },
+  "Q8158": {
+    "wikidata_id": "Q125057",
+    "timestamp": "2026-08-05T19:12:24Z",
+    "status": "success"
+  },
+  "Q8159": {
+    "wikidata_id": "Q106087",
+    "timestamp": "2026-08-05T19:12:27Z",
+    "status": "success"
+  },
+  "Q8160": {
+    "wikidata_id": "Q468272",
+    "timestamp": "2026-08-05T19:12:31Z",
+    "status": "success"
+  },
+  "Q8161": {
+    "wikidata_id": "Q5669",
+    "timestamp": "2026-08-05T19:12:34Z",
+    "status": "success"
+  },
+  "Q8162": {
+    "wikidata_id": "Q42207",
+    "timestamp": "2026-08-05T19:12:37Z",
+    "status": "success"
+  },
+  "Q8163": {
+    "wikidata_id": "Q190116",
+    "timestamp": "2026-08-05T19:12:40Z",
+    "status": "success"
+  },
+  "Q8164": {
+    "wikidata_id": "Q83158",
+    "timestamp": "2026-08-05T19:12:43Z",
+    "status": "success"
+  },
+  "Q8165": {
+    "wikidata_id": "Q5673",
+    "timestamp": "2026-08-05T19:12:46Z",
+    "status": "success"
+  },
+  "Q8166": {
+    "wikidata_id": "Q40909",
+    "timestamp": "2026-08-05T19:12:50Z",
+    "status": "success"
+  },
+  "Q8167": {
+    "wikidata_id": "Q150767",
+    "timestamp": "2026-08-05T19:12:53Z",
+    "status": "success"
+  },
+  "Q8168": {
+    "wikidata_id": "Q298388",
+    "timestamp": "2026-08-05T19:12:56Z",
+    "status": "success"
+  },
+  "Q8169": {
+    "wikidata_id": "Q184378",
+    "timestamp": "2026-08-05T19:13:00Z",
+    "status": "success"
+  },
+  "Q8170": {
+    "wikidata_id": "Q694813",
+    "timestamp": "2026-08-05T19:13:03Z",
+    "status": "success"
+  },
+  "Q8171": {
+    "wikidata_id": "Q9215",
+    "timestamp": "2026-08-05T19:13:06Z",
+    "status": "success"
+  },
+  "Q8172": {
+    "wikidata_id": "Q68082",
+    "timestamp": "2026-08-05T19:13:09Z",
+    "status": "success"
+  },
+  "Q8173": {
+    "wikidata_id": "Q49614",
+    "timestamp": "2026-08-05T19:13:11Z",
+    "status": "success"
+  },
+  "Q8176": {
+    "wikidata_id": "Q1130279",
+    "timestamp": "2026-08-05T19:13:14Z",
+    "status": "success"
+  },
+  "Q8178": {
+    "wikidata_id": "Q61002",
+    "timestamp": "2026-08-05T19:13:17Z",
+    "status": "success"
+  },
+  "Q8181": {
+    "wikidata_id": "Q109408141",
+    "timestamp": "2026-08-05T19:13:20Z",
+    "status": "success"
+  },
+  "Q8183": {
+    "wikidata_id": "Q6934877",
+    "timestamp": "2026-08-05T19:13:24Z",
+    "status": "success"
+  },
+  "Q8184": {
+    "wikidata_id": "Q15901043",
+    "timestamp": "2026-08-05T19:13:26Z",
+    "status": "success"
+  },
+  "Q8187": {
+    "wikidata_id": "Q464756",
+    "timestamp": "2026-08-05T19:13:29Z",
+    "status": "success"
+  },
+  "Q8186": {
+    "wikidata_id": "Q4726011",
+    "timestamp": "2026-08-05T19:13:32Z",
+    "status": "success"
+  },
+  "Q8185": {
+    "wikidata_id": "Q80871",
+    "timestamp": "2026-08-05T19:13:35Z",
+    "status": "success"
+  },
+  "Q8189": {
+    "wikidata_id": "Q5092562",
+    "timestamp": "2026-08-05T19:13:38Z",
+    "status": "success"
+  },
+  "Q8190": {
+    "wikidata_id": "Q868557",
+    "timestamp": "2026-08-05T19:13:43Z",
+    "status": "success"
+  },
+  "Q8191": {
+    "wikidata_id": "Q1367434",
+    "timestamp": "2026-08-05T19:13:46Z",
+    "status": "success"
+  },
+  "Q8195": {
+    "wikidata_id": "Q1903815",
+    "timestamp": "2026-08-05T19:13:49Z",
+    "status": "success"
+  },
+  "Q8196": {
+    "wikidata_id": "Q1967556",
+    "timestamp": "2026-08-05T19:13:52Z",
+    "status": "success"
+  },
+  "Q8194": {
+    "wikidata_id": "Q4314867",
+    "timestamp": "2026-08-05T19:13:57Z",
+    "status": "success"
+  },
+  "Q22590": {
+    "wikidata_id": "Q543111",
+    "timestamp": "2026-08-05T19:58:41Z",
+    "status": "success"
+  },
+  "Q8197": {
+    "wikidata_id": "Q54545",
+    "timestamp": "2026-08-05T19:58:45Z",
+    "status": "success"
+  },
+  "Q8198": {
+    "wikidata_id": "Q4490015",
+    "timestamp": "2026-08-05T19:58:48Z",
+    "status": "success"
+  },
+  "Q8199": {
+    "wikidata_id": "Q1324866",
+    "timestamp": "2026-08-05T19:58:51Z",
+    "status": "success"
+  },
+  "Q8200": {
+    "wikidata_id": "Q220018",
+    "timestamp": "2026-08-05T19:58:54Z",
+    "status": "success"
+  },
+  "Q8201": {
+    "wikidata_id": "Q535919",
+    "timestamp": "2026-08-05T19:58:57Z",
+    "status": "success"
+  },
+  "Q8203": {
+    "wikidata_id": "Q444315",
+    "timestamp": "2026-08-05T19:59:01Z",
+    "status": "success"
+  },
+  "Q8204": {
+    "wikidata_id": "Q7088092",
+    "timestamp": "2026-08-05T19:59:04Z",
+    "status": "success"
+  },
+  "Q8205": {
+    "wikidata_id": "Q323168",
+    "timestamp": "2026-08-05T19:59:07Z",
+    "status": "success"
+  },
+  "Q8206": {
+    "wikidata_id": "Q7143899",
+    "timestamp": "2026-08-05T19:59:11Z",
+    "status": "success"
+  },
+  "Q8207": {
+    "wikidata_id": "Q177288",
+    "timestamp": "2026-08-05T19:59:15Z",
+    "status": "success"
+  },
+  "Q8208": {
+    "wikidata_id": "Q3518359",
+    "timestamp": "2026-08-05T19:59:18Z",
+    "status": "success"
+  },
+  "Q8210": {
+    "wikidata_id": "Q6306647",
+    "timestamp": "2026-08-05T19:59:21Z",
+    "status": "success"
+  },
+  "Q8211": {
+    "wikidata_id": "Q2172000",
+    "timestamp": "2026-08-05T19:59:24Z",
+    "status": "success"
+  },
+  "Q8212": {
+    "wikidata_id": "Q10501678",
+    "timestamp": "2026-08-05T19:59:27Z",
+    "status": "success"
+  },
+  "Q8213": {
+    "wikidata_id": "Q7306646",
+    "timestamp": "2026-08-05T19:59:31Z",
+    "status": "success"
+  },
+  "Q8215": {
+    "wikidata_id": "Q1399232",
+    "timestamp": "2026-08-05T19:59:36Z",
+    "status": "success"
+  },
+  "Q8216": {
+    "wikidata_id": "Q929268",
+    "timestamp": "2026-08-05T19:59:40Z",
+    "status": "success"
+  },
+  "Q8217": {
+    "wikidata_id": "Q105825670",
+    "timestamp": "2026-08-05T19:59:44Z",
+    "status": "success"
+  },
+  "Q16544": {
+    "wikidata_id": "Q64737634",
+    "timestamp": "2026-08-05T19:59:47Z",
+    "status": "success"
+  },
+  "Q78449": {
+    "wikidata_id": "Q5445580",
+    "timestamp": "2026-08-05T19:59:50Z",
+    "status": "success"
+  },
+  "Q8219": {
+    "wikidata_id": "Q6111232",
+    "timestamp": "2026-08-05T19:59:54Z",
+    "status": "success"
+  },
+  "Q8220": {
+    "wikidata_id": "Q19508445",
+    "timestamp": "2026-08-05T19:59:57Z",
+    "status": "success"
+  },
+  "Q8221": {
+    "wikidata_id": "Q5374344",
+    "timestamp": "2026-08-05T20:00:00Z",
+    "status": "success"
+  },
+  "Q8234": {
+    "wikidata_id": "Q7612492",
+    "timestamp": "2026-08-05T20:00:04Z",
+    "status": "success"
+  },
+  "Q8235": {
+    "wikidata_id": "Q58436755",
+    "timestamp": "2026-08-05T20:00:08Z",
+    "status": "success"
+  },
+  "Q8237": {
+    "wikidata_id": "Q270669",
+    "timestamp": "2026-08-05T20:00:11Z",
+    "status": "success"
+  },
+  "Q121931": {
+    "wikidata_id": "Q313896",
+    "timestamp": "2026-08-05T20:00:15Z",
+    "status": "success"
+  },
+  "Q8239": {
+    "wikidata_id": "Q46",
+    "timestamp": "2026-08-05T20:00:38Z",
+    "status": "success"
+  },
+  "Q8240": {
+    "wikidata_id": "Q4798621",
+    "timestamp": "2026-08-05T20:00:42Z",
+    "status": "success"
+  },
+  "Q8238": {
+    "wikidata_id": "Q64876872",
+    "timestamp": "2026-08-05T20:00:45Z",
+    "status": "success"
+  },
+  "Q8245": {
+    "wikidata_id": "Q65551893",
+    "timestamp": "2026-08-05T20:00:48Z",
+    "status": "success"
+  },
+  "Q8244": {
+    "wikidata_id": "Q841737",
+    "timestamp": "2026-08-05T20:00:52Z",
+    "status": "success"
+  },
+  "Q8246": {
+    "wikidata_id": "Q8333",
+    "timestamp": "2026-08-05T20:00:58Z",
+    "status": "success"
+  },
+  "Q8248": {
+    "wikidata_id": "Q5230968",
+    "timestamp": "2026-08-05T20:06:25Z",
+    "status": "success"
+  },
+  "Q8249": {
+    "wikidata_id": "Q4450650",
+    "timestamp": "2026-08-05T20:06:26Z",
+    "status": "success"
+  },
+  "Q80191": {
+    "wikidata_id": "Q1418789",
+    "timestamp": "2026-08-05T20:06:27Z",
+    "status": "success"
+  },
+  "Q8251": {
+    "wikidata_id": "Q7733668",
+    "timestamp": "2026-08-05T20:06:28Z",
+    "status": "success"
+  },
+  "Q8256": {
+    "wikidata_id": "Q1435085",
+    "timestamp": "2026-08-05T20:06:32Z",
+    "status": "success"
+  },
+  "Q8259": {
+    "wikidata_id": "Q44272",
+    "timestamp": "2026-08-05T20:06:33Z",
+    "status": "success"
+  },
+  "Q8257": {
+    "wikidata_id": "Q4491960",
+    "timestamp": "2026-08-05T20:06:34Z",
+    "status": "success"
+  },
+  "Q8258": {
+    "wikidata_id": "Q6195041",
+    "timestamp": "2026-08-05T20:06:35Z",
+    "status": "success"
+  },
+  "Q8260": {
+    "wikidata_id": "Q6195050",
+    "timestamp": "2026-08-05T20:06:37Z",
+    "status": "success"
+  },
+  "Q8255": {
+    "wikidata_id": "Q8204576",
+    "timestamp": "2026-08-05T20:06:38Z",
+    "status": "success"
+  },
+  "Q8261": {
+    "wikidata_id": "Q537287",
+    "timestamp": "2026-08-05T20:06:39Z",
+    "status": "success"
+  },
+  "Q8262": {
+    "wikidata_id": "Q5499789",
+    "timestamp": "2026-08-05T20:06:40Z",
+    "status": "success"
+  },
+  "Q8263": {
+    "wikidata_id": "Q3088500",
+    "timestamp": "2026-08-05T20:06:41Z",
+    "status": "success"
+  },
+  "Q8264": {
+    "wikidata_id": "Q8962833",
+    "timestamp": "2026-08-05T20:06:42Z",
+    "status": "success"
+  },
+  "Q8265": {
+    "wikidata_id": "Q107297793",
+    "timestamp": "2026-08-05T20:06:44Z",
+    "status": "success"
+  },
+  "Q8270": {
+    "wikidata_id": "Q118641109",
+    "timestamp": "2026-08-05T20:06:44Z",
+    "status": "success"
+  },
+  "Q8268": {
+    "wikidata_id": "Q13562998",
+    "timestamp": "2026-08-05T20:06:46Z",
+    "status": "success"
+  },
+  "Q8267": {
+    "wikidata_id": "Q234604",
+    "timestamp": "2026-08-05T20:06:47Z",
+    "status": "success"
+  },
+  "Q8269": {
+    "wikidata_id": "Q3090509",
+    "timestamp": "2026-08-05T20:06:49Z",
+    "status": "success"
+  },
+  "Q8272": {
+    "wikidata_id": "Q5508034",
+    "timestamp": "2026-08-05T20:06:50Z",
+    "status": "success"
+  },
+  "Q8273": {
+    "wikidata_id": "Q131588",
+    "timestamp": "2026-08-05T20:06:51Z",
+    "status": "success"
+  },
+  "Q8275": {
+    "wikidata_id": "Q5528542",
+    "timestamp": "2026-08-05T20:06:53Z",
+    "status": "success"
+  },
+  "Q8282": {
+    "wikidata_id": "Q65091107",
+    "timestamp": "2026-08-05T20:06:54Z",
+    "status": "success"
+  },
+  "Q8283": {
+    "wikidata_id": "Q16981701",
+    "timestamp": "2026-08-05T20:06:55Z",
+    "status": "success"
+  },
+  "Q8285": {
+    "wikidata_id": "Q4039154",
+    "timestamp": "2026-08-05T20:06:57Z",
+    "status": "success"
+  },
+  "Q1917": {
+    "wikidata_id": "Q1494322",
+    "timestamp": "2026-08-05T20:06:59Z",
+    "status": "success"
+  },
+  "Q1964": {
+    "wikidata_id": "Q6530262",
+    "timestamp": "2026-08-05T20:07:03Z",
+    "status": "success"
+  },
+  "Q2014": {
+    "wikidata_id": "Q18299",
+    "timestamp": "2026-08-05T20:07:58Z",
+    "status": "success"
+  },
+  "Q15877": {
+    "wikidata_id": "Q29641323",
+    "timestamp": "2026-08-05T20:08:01Z",
+    "status": "success"
+  },
+  "Q69093": {
+    "wikidata_id": "Q1965979",
+    "timestamp": "2026-08-05T20:08:02Z",
+    "status": "success"
+  },
+  "Q69092": {
+    "wikidata_id": "Q37732",
+    "timestamp": "2026-08-05T20:13:26Z",
+    "status": "success"
+  },
+  "Q69094": {
+    "wikidata_id": "Q841236",
+    "timestamp": "2026-08-05T20:13:27Z",
+    "status": "success"
+  },
+  "Q69095": {
+    "wikidata_id": "Q853735",
+    "timestamp": "2026-08-05T20:13:28Z",
+    "status": "success"
+  },
+  "Q2069": {
+    "wikidata_id": "Q10268802",
+    "timestamp": "2026-08-05T20:13:31Z",
+    "status": "success"
+  },
+  "Q36633": {
+    "wikidata_id": "Q10268802",
+    "timestamp": "2026-08-05T20:14:35Z",
+    "status": "success"
+  },
+  "Q2071": {
+    "wikidata_id": "Q26791",
+    "timestamp": "2026-08-05T20:14:37Z",
+    "status": "success"
+  },
+  "Q69100": {
+    "wikidata_id": "Q93200",
+    "timestamp": "2026-08-05T20:14:38Z",
+    "status": "success"
+  },
+  "Q2076": {
+    "wikidata_id": "Q2797937",
+    "timestamp": "2026-08-05T20:14:39Z",
+    "status": "success"
+  },
+  "Q68486": {
+    "wikidata_id": "Q7162",
+    "timestamp": "2026-08-05T20:14:49Z",
+    "status": "success"
+  },
+  "Q69102": {
+    "wikidata_id": "Q3866624",
+    "timestamp": "2026-08-05T20:14:50Z",
+    "status": "success"
+  },
+  "Q1659": {
+    "wikidata_id": "Q29325697",
+    "timestamp": "2026-08-05T20:14:51Z",
+    "status": "success"
+  },
+  "Q68704": {
+    "wikidata_id": "Q131327",
+    "timestamp": "2026-08-05T20:14:52Z",
+    "status": "success"
+  },
+  "Q2080": {
+    "wikidata_id": "Q2588141",
+    "timestamp": "2026-08-05T20:14:54Z",
+    "status": "success"
+  },
+  "Q2081": {
+    "wikidata_id": "Q108667313",
+    "timestamp": "2026-08-05T20:14:55Z",
+    "status": "success"
+  },
+  "Q17675": {
+    "wikidata_id": "Q5903802",
+    "timestamp": "2026-08-05T20:14:56Z",
+    "status": "success"
+  },
+  "Q10640": {
+    "wikidata_id": "Q2254571",
+    "timestamp": "2026-08-05T20:14:57Z",
+    "status": "success"
+  },
+  "Q69124": {
+    "wikidata_id": "Q115861877",
+    "timestamp": "2026-08-05T20:14:58Z",
+    "status": "success"
+  },
+  "Q2132": {
+    "wikidata_id": "Q17080819",
+    "timestamp": "2026-08-05T20:15:00Z",
+    "status": "success"
+  },
+  "Q2148": {
+    "wikidata_id": "Q909421",
+    "timestamp": "2026-08-05T20:15:01Z",
+    "status": "success"
+  },
+  "Q2155": {
+    "wikidata_id": "Q46721",
+    "timestamp": "2026-08-05T20:15:02Z",
+    "status": "success"
+  },
+  "Q69142": {
+    "wikidata_id": "Q4103188",
+    "timestamp": "2026-08-05T20:15:04Z",
+    "status": "success"
+  },
+  "Q5": {
+    "wikidata_id": "Q102786",
+    "timestamp": "2026-08-05T20:15:10Z",
+    "status": "success"
+  },
+  "Q63394": {
+    "wikidata_id": "Q34698",
+    "timestamp": "2026-08-05T20:15:19Z",
+    "status": "success"
+  },
+  "Q168": {
+    "wikidata_id": "Q482980",
+    "timestamp": "2026-08-05T20:15:21Z",
+    "status": "success"
+  },
+  "Q2181": {
+    "wikidata_id": "Q108933908",
+    "timestamp": "2026-08-05T20:15:22Z",
+    "status": "success"
+  },
+  "Q2183": {
+    "wikidata_id": "Q57933693",
+    "timestamp": "2026-08-05T20:15:24Z",
+    "status": "success"
+  },
+  "Q2187": {
+    "wikidata_id": "Q990683",
+    "timestamp": "2026-08-05T20:15:25Z",
+    "status": "success"
+  },
+  "Q21252": {
+    "wikidata_id": "Q193955",
+    "timestamp": "2026-08-05T20:15:26Z",
+    "status": "success"
+  },
+  "Q2190": {
+    "wikidata_id": "Q128093",
+    "timestamp": "2026-08-05T20:15:28Z",
+    "status": "success"
+  },
+  "Q2223": {
+    "wikidata_id": "Q2908540",
+    "timestamp": "2026-08-05T20:15:34Z",
+    "status": "success"
+  },
+  "Q2226": {
+    "wikidata_id": "Q23622",
+    "timestamp": "2026-08-05T20:15:49Z",
+    "status": "success"
+  },
+  "Q2230": {
+    "wikidata_id": "Q464928",
+    "timestamp": "2026-08-05T20:15:50Z",
+    "status": "success"
+  },
+  "Q2231": {
+    "wikidata_id": "Q18233",
+    "timestamp": "2026-08-05T20:16:02Z",
+    "status": "success"
+  },
+  "Q2232": {
+    "wikidata_id": "Q332231",
+    "timestamp": "2026-08-05T20:16:03Z",
+    "status": "success"
+  },
+  "Q21853": {
+    "wikidata_id": "Q170210",
+    "timestamp": "2026-08-05T20:16:04Z",
+    "status": "success"
+  },
+  "Q2234": {
+    "wikidata_id": "Q332554",
+    "timestamp": "2026-08-05T20:16:05Z",
+    "status": "success"
+  },
+  "Q2235": {
+    "wikidata_id": "Q5670",
+    "timestamp": "2026-08-05T20:16:07Z",
+    "status": "success"
+  },
+  "Q2236": {
+    "wikidata_id": "Q41746",
+    "timestamp": "2026-08-05T20:16:14Z",
+    "status": "success"
+  },
+  "Q69207": {
+    "wikidata_id": "Q222749",
+    "timestamp": "2026-08-05T20:51:57Z",
+    "status": "success"
+  },
+  "Q2238": {
+    "wikidata_id": "Q343047",
+    "timestamp": "2026-08-05T20:52:03Z",
+    "status": "success"
+  },
+  "Q2237": {
+    "wikidata_id": "Q4650888",
+    "timestamp": "2026-08-05T20:52:05Z",
+    "status": "success"
+  },
+  "Q2242": {
+    "wikidata_id": "Q979368",
+    "timestamp": "2026-08-05T20:52:06Z",
+    "status": "success"
+  },
+  "Q2248": {
+    "wikidata_id": "Q1631150",
+    "timestamp": "2026-08-05T20:52:07Z",
+    "status": "success"
+  },
+  "Q2249": {
+    "wikidata_id": "Q752361",
+    "timestamp": "2026-08-05T20:52:12Z",
+    "status": "success"
+  },
+  "Q69244": {
+    "wikidata_id": "Q256922",
+    "timestamp": "2026-08-05T20:52:13Z",
+    "status": "success"
+  },
+  "Q21861": {
+    "wikidata_id": "Q1643970",
+    "timestamp": "2026-08-05T20:52:14Z",
+    "status": "success"
+  },
+  "Q2253": {
+    "wikidata_id": "Q763184",
+    "timestamp": "2026-08-05T20:52:15Z",
+    "status": "success"
+  },
+  "Q69278": {
+    "wikidata_id": "Q1754990",
+    "timestamp": "2026-08-05T20:52:16Z",
+    "status": "success"
+  },
+  "Q2256": {
+    "wikidata_id": "Q263812",
+    "timestamp": "2026-08-05T20:52:18Z",
+    "status": "success"
+  },
+  "Q2258": {
+    "wikidata_id": "Q3328200",
+    "timestamp": "2026-08-05T20:52:20Z",
+    "status": "success"
+  },
+  "Q2262": {
+    "wikidata_id": "Q96371216",
+    "timestamp": "2026-08-05T20:52:21Z",
+    "status": "success"
+  },
+  "Q69471": {
+    "wikidata_id": "Q3435504",
+    "timestamp": "2026-08-05T20:52:22Z",
+    "status": "success"
+  },
+  "Q2268": {
+    "wikidata_id": "Q4651900",
+    "timestamp": "2026-08-05T20:52:25Z",
+    "status": "success"
+  },
+  "Q2270": {
+    "wikidata_id": "Q27714840",
+    "timestamp": "2026-08-05T20:52:26Z",
+    "status": "success"
+  },
+  "Q2272": {
+    "wikidata_id": "Q389959",
+    "timestamp": "2026-08-05T20:52:28Z",
+    "status": "success"
+  },
+  "Q2273": {
+    "wikidata_id": "Q81794",
+    "timestamp": "2026-08-05T20:52:29Z",
+    "status": "success"
+  },
+  "Q2275": {
+    "wikidata_id": "Q5287",
+    "timestamp": "2026-08-05T20:52:49Z",
+    "status": "success"
+  },
+  "Q2274": {
+    "wikidata_id": "Q11594911",
+    "timestamp": "2026-08-05T20:52:50Z",
+    "status": "success"
+  },
+  "Q2279": {
+    "wikidata_id": "Q4725736",
+    "timestamp": "2026-08-05T20:52:51Z",
+    "status": "success"
+  },
+  "Q2283": {
+    "wikidata_id": "Q108077",
+    "timestamp": "2026-08-05T20:52:53Z",
+    "status": "success"
+  },
+  "Q2285": {
+    "wikidata_id": "Q60763278",
+    "timestamp": "2026-08-05T20:52:55Z",
+    "status": "success"
+  },
+  "Q2287": {
+    "wikidata_id": "Q3783",
+    "timestamp": "2026-08-05T20:52:56Z",
+    "status": "success"
+  },
+  "Q2288": {
+    "wikidata_id": "Q34782",
+    "timestamp": "2026-08-05T20:52:58Z",
+    "status": "success"
+  },
+  "Q2291": {
+    "wikidata_id": "Q727",
+    "timestamp": "2026-08-05T20:53:00Z",
+    "status": "success"
+  },
+  "Q2294": {
+    "wikidata_id": "Q20065092",
+    "timestamp": "2026-08-05T20:53:02Z",
+    "status": "success"
+  },
+  "Q2296": {
+    "wikidata_id": "Q11772",
+    "timestamp": "2026-08-06T06:51:24Z",
+    "status": "success"
+  },
+  "Q2350": {
+    "wikidata_id": "Q622425",
+    "timestamp": "2026-08-06T06:51:28Z",
+    "status": "success"
+  },
+  "Q2482": {
+    "wikidata_id": "Q5146",
+    "timestamp": "2026-08-06T06:51:43Z",
+    "status": "success"
+  },
+  "Q83": {
+    "wikidata_id": "Q106647285",
+    "timestamp": "2026-08-06T06:51:44Z",
+    "status": "success"
+  },
+  "Q2487": {
+    "wikidata_id": "Q210588",
+    "timestamp": "2026-08-06T06:51:45Z",
+    "status": "success"
+  },
+  "Q64791": {
+    "wikidata_id": "Q189125",
+    "timestamp": "2026-08-06T06:51:50Z",
+    "status": "success"
+  },
+  "Q2493": {
+    "wikidata_id": "Q1093205",
+    "timestamp": "2026-08-06T06:51:58Z",
+    "status": "success"
+  },
+  "Q21188": {
+    "wikidata_id": "Q10870555",
+    "timestamp": "2026-08-06T06:51:59Z",
+    "status": "success"
+  },
+  "Q94": {
+    "wikidata_id": "Q30",
+    "timestamp": "2026-08-06T06:52:37Z",
+    "status": "success"
+  },
+  "Q8288": {
+    "wikidata_id": "Q533778",
+    "timestamp": "2026-08-06T06:52:38Z",
+    "status": "success"
+  },
+  "Q8287": {
+    "wikidata_id": "Q85099930",
+    "timestamp": "2026-08-06T06:52:39Z",
+    "status": "success"
+  },
+  "Q68442": {
+    "wikidata_id": "Q11491595",
+    "timestamp": "2026-08-06T06:52:40Z",
+    "status": "success"
+  },
+  "Q8291": {
+    "wikidata_id": "Q16015484",
+    "timestamp": "2026-08-06T06:52:41Z",
+    "status": "success"
+  },
+  "Q8292": {
+    "wikidata_id": "Q5561887",
+    "timestamp": "2026-08-06T06:52:41Z",
+    "status": "success"
+  },
+  "Q8290": {
+    "wikidata_id": "Q5721949",
+    "timestamp": "2026-08-06T06:52:42Z",
+    "status": "success"
+  },
+  "Q8293": {
+    "wikidata_id": "Q6711",
+    "timestamp": "2026-08-06T06:52:43Z",
+    "status": "success"
+  },
+  "Q8294": {
+    "wikidata_id": "Q1423189",
+    "timestamp": "2026-08-06T06:52:44Z",
+    "status": "success"
+  },
+  "Q8295": {
+    "wikidata_id": "Q4160552",
+    "timestamp": "2026-08-06T06:52:45Z",
+    "status": "success"
+  },
+  "Q8296": {
+    "wikidata_id": "Q4339234",
+    "timestamp": "2026-08-06T06:52:46Z",
+    "status": "success"
+  },
+  "Q8299": {
+    "wikidata_id": "Q1688613",
+    "timestamp": "2026-08-06T06:52:47Z",
+    "status": "success"
+  },
+  "Q8300": {
+    "wikidata_id": "Q15432944",
+    "timestamp": "2026-08-06T06:52:47Z",
+    "status": "success"
+  },
+  "Q8301": {
+    "wikidata_id": "Q4777209",
+    "timestamp": "2026-08-06T06:52:49Z",
+    "status": "success"
+  },
+  "Q8302": {
+    "wikidata_id": "Q5066246",
+    "timestamp": "2026-08-06T06:52:49Z",
+    "status": "success"
+  },
+  "Q8303": {
+    "wikidata_id": "Q726247",
+    "timestamp": "2026-08-06T06:52:50Z",
+    "status": "success"
+  },
+  "Q8304": {
+    "wikidata_id": "Q3117732",
+    "timestamp": "2026-08-06T06:52:51Z",
+    "status": "success"
+  },
+  "Q8305": {
+    "wikidata_id": "Q6135031",
+    "timestamp": "2026-08-06T06:52:52Z",
+    "status": "success"
+  },
+  "Q8307": {
+    "wikidata_id": "Q107301874",
+    "timestamp": "2026-08-06T06:52:53Z",
+    "status": "success"
+  },
+  "Q8311": {
+    "wikidata_id": "Q1999543",
+    "timestamp": "2026-08-06T06:52:54Z",
+    "status": "success"
+  },
+  "Q8309": {
+    "wikidata_id": "Q3293094",
+    "timestamp": "2026-08-06T06:52:55Z",
+    "status": "success"
+  },
+  "Q8310": {
+    "wikidata_id": "Q3385414",
+    "timestamp": "2026-08-06T06:52:55Z",
+    "status": "success"
+  },
+  "Q8308": {
+    "wikidata_id": "Q465156",
+    "timestamp": "2026-08-06T06:52:56Z",
+    "status": "success"
+  },
+  "Q8322": {
+    "wikidata_id": "Q1285538",
+    "timestamp": "2026-08-06T06:52:57Z",
+    "status": "success"
+  },
+  "Q8312": {
+    "wikidata_id": "Q15408072",
+    "timestamp": "2026-08-06T06:52:58Z",
+    "status": "success"
+  },
+  "Q8314": {
+    "wikidata_id": "Q16106650",
+    "timestamp": "2026-08-06T06:52:59Z",
+    "status": "success"
+  },
+  "Q8313": {
+    "wikidata_id": "Q456923",
+    "timestamp": "2026-08-06T06:53:00Z",
+    "status": "success"
+  },
+  "Q8316": {
+    "wikidata_id": "Q485635",
+    "timestamp": "2026-08-06T06:53:01Z",
+    "status": "success"
+  },
+  "Q8321": {
+    "wikidata_id": "Q5681185",
+    "timestamp": "2026-08-06T06:53:02Z",
+    "status": "success"
+  },
+  "Q8323": {
+    "wikidata_id": "Q5799282",
+    "timestamp": "2026-08-06T06:53:03Z",
+    "status": "success"
+  },
+  "Q8315": {
+    "wikidata_id": "Q60754678",
+    "timestamp": "2026-08-06T06:53:03Z",
+    "status": "success"
+  },
+  "Q8320": {
+    "wikidata_id": "Q626235",
+    "timestamp": "2026-08-06T06:53:06Z",
+    "status": "success"
+  },
+  "Q8319": {
+    "wikidata_id": "Q7158128",
+    "timestamp": "2026-08-06T06:53:07Z",
+    "status": "success"
+  },
+  "Q8317": {
+    "wikidata_id": "Q827708",
+    "timestamp": "2026-08-06T06:53:07Z",
+    "status": "success"
+  },
+  "Q8327": {
+    "wikidata_id": "Q5747151",
+    "timestamp": "2026-08-06T06:53:08Z",
+    "status": "success"
+  },
+  "Q8330": {
+    "wikidata_id": "Q5748013",
+    "timestamp": "2026-08-06T06:53:09Z",
+    "status": "success"
+  },
+  "Q8334": {
+    "wikidata_id": "Q1309970",
+    "timestamp": "2026-08-06T06:53:10Z",
+    "status": "success"
+  },
+  "Q8332": {
+    "wikidata_id": "Q270635",
+    "timestamp": "2026-08-06T06:53:11Z",
+    "status": "success"
+  },
+  "Q8331": {
+    "wikidata_id": "Q3259432",
+    "timestamp": "2026-08-06T06:53:12Z",
+    "status": "success"
+  },
+  "Q8335": {
+    "wikidata_id": "Q4741264",
+    "timestamp": "2026-08-06T06:53:13Z",
+    "status": "success"
+  },
+  "Q8333": {
+    "wikidata_id": "Q5540633",
+    "timestamp": "2026-08-06T06:53:14Z",
+    "status": "success"
+  },
+  "Q8336": {
+    "wikidata_id": "Q56391918",
+    "timestamp": "2026-08-06T06:53:14Z",
+    "status": "success"
+  },
+  "Q8340": {
+    "wikidata_id": "Q105194148",
+    "timestamp": "2026-08-06T06:53:15Z",
+    "status": "success"
+  },
+  "Q8339": {
+    "wikidata_id": "Q64606627",
+    "timestamp": "2026-08-06T06:53:16Z",
+    "status": "success"
+  },
+  "Q8338": {
+    "wikidata_id": "Q928497",
+    "timestamp": "2026-08-06T06:53:17Z",
+    "status": "success"
+  },
+  "Q8341": {
+    "wikidata_id": "Q259507",
+    "timestamp": "2026-08-06T06:53:18Z",
+    "status": "success"
+  },
+  "Q8343": {
+    "wikidata_id": "Q210435",
+    "timestamp": "2026-08-06T06:53:19Z",
+    "status": "success"
+  },
+  "Q8344": {
+    "wikidata_id": "Q2884308",
+    "timestamp": "2026-08-06T06:53:19Z",
+    "status": "success"
+  },
+  "Q8347": {
+    "wikidata_id": "Q1253380",
+    "timestamp": "2026-08-06T06:53:21Z",
+    "status": "success"
+  },
+  "Q8348": {
+    "wikidata_id": "Q48782465",
+    "timestamp": "2026-08-06T06:53:22Z",
+    "status": "success"
+  },
+  "Q8346": {
+    "wikidata_id": "Q5882082",
+    "timestamp": "2026-08-06T06:53:23Z",
+    "status": "success"
+  },
+  "Q8349": {
+    "wikidata_id": "Q73974",
+    "timestamp": "2026-08-06T06:53:23Z",
+    "status": "success"
+  },
+  "Q8351": {
+    "wikidata_id": "Q1666603",
+    "timestamp": "2026-08-06T06:53:24Z",
+    "status": "success"
+  },
+  "Q8352": {
+    "wikidata_id": "Q3153287",
+    "timestamp": "2026-08-06T06:53:25Z",
+    "status": "success"
+  },
+  "Q8353": {
+    "wikidata_id": "Q38964",
+    "timestamp": "2026-08-06T06:53:26Z",
+    "status": "success"
+  },
+  "Q8354": {
+    "wikidata_id": "Q434996",
+    "timestamp": "2026-08-06T06:53:27Z",
+    "status": "success"
+  },
+  "Q8355": {
+    "wikidata_id": "Q79972",
+    "timestamp": "2026-08-06T06:53:28Z",
+    "status": "success"
+  },
+  "Q8356": {
+    "wikidata_id": "Q6681720",
+    "timestamp": "2026-08-06T06:53:29Z",
+    "status": "success"
+  },
+  "Q8357": {
+    "wikidata_id": "Q4894592",
+    "timestamp": "2026-08-06T06:53:29Z",
+    "status": "success"
+  },
+  "Q8358": {
+    "wikidata_id": "Q5210496",
+    "timestamp": "2026-08-06T06:53:30Z",
+    "status": "success"
+  },
+  "Q8359": {
+    "wikidata_id": "Q459827",
+    "timestamp": "2026-08-06T06:53:31Z",
+    "status": "success"
+  },
+  "Q8360": {
+    "wikidata_id": "Q108739738",
+    "timestamp": "2026-08-06T06:53:32Z",
+    "status": "success"
+  },
+  "Q8361": {
+    "wikidata_id": "Q2335331",
+    "timestamp": "2026-08-06T06:53:33Z",
+    "status": "success"
+  },
+  "Q8362": {
+    "wikidata_id": "Q6312325",
+    "timestamp": "2026-08-06T06:53:33Z",
+    "status": "success"
+  },
+  "Q8363": {
+    "wikidata_id": "Q4209480",
+    "timestamp": "2026-08-06T06:53:34Z",
+    "status": "success"
+  },
+  "Q8364": {
+    "wikidata_id": "Q1396975",
+    "timestamp": "2026-08-06T06:53:35Z",
+    "status": "success"
+  },
+  "Q8365": {
+    "wikidata_id": "Q16105380",
+    "timestamp": "2026-08-06T06:53:36Z",
+    "status": "success"
+  },
+  "Q8366": {
+    "wikidata_id": "Q553089",
+    "timestamp": "2026-08-06T06:53:37Z",
+    "status": "success"
+  },
+  "Q8367": {
+    "wikidata_id": "Q349945",
+    "timestamp": "2026-08-06T06:53:38Z",
+    "status": "success"
+  },
+  "Q8369": {
+    "wikidata_id": "Q18529954",
+    "timestamp": "2026-08-06T06:53:39Z",
+    "status": "success"
+  },
+  "Q8370": {
+    "wikidata_id": "Q18954443",
+    "timestamp": "2026-08-06T06:53:40Z",
+    "status": "success"
+  },
+  "Q8371": {
+    "wikidata_id": "Q9357091",
+    "timestamp": "2026-08-06T06:53:42Z",
+    "status": "success"
+  },
+  "Q20525": {
+    "wikidata_id": "Q9357091",
+    "timestamp": "2026-08-06T06:53:43Z",
+    "status": "success"
+  },
+  "Q8373": {
+    "wikidata_id": "Q49154",
+    "timestamp": "2026-08-06T06:53:46Z",
+    "status": "success"
+  },
+  "Q8375": {
+    "wikidata_id": "Q865585",
+    "timestamp": "2026-08-06T15:49:22Z",
+    "status": "success"
+  },
+  "Q8376": {
+    "wikidata_id": "Q351718",
+    "timestamp": "2026-08-06T15:49:23Z",
+    "status": "success"
+  },
+  "Q8377": {
+    "wikidata_id": "Q5687582",
+    "timestamp": "2026-08-06T15:49:25Z",
+    "status": "success"
+  },
+  "Q8380": {
+    "wikidata_id": "Q85810459",
+    "timestamp": "2026-08-06T15:49:26Z",
+    "status": "success"
+  },
+  "Q8387": {
+    "wikidata_id": "Q239533",
+    "timestamp": "2026-08-06T15:49:27Z",
+    "status": "success"
+  },
+  "Q8388": {
+    "wikidata_id": "Q1964810",
+    "timestamp": "2026-08-06T15:49:28Z",
+    "status": "success"
+  },
+  "Q8389": {
+    "wikidata_id": "Q184872",
+    "timestamp": "2026-08-06T15:49:29Z",
+    "status": "success"
+  },
+  "Q129733": {
+    "wikidata_id": "Q2742167",
+    "timestamp": "2026-08-06T15:49:30Z",
+    "status": "success"
+  },
+  "Q8392": {
+    "wikidata_id": "Q235354",
+    "timestamp": "2026-08-06T15:49:31Z",
+    "status": "success"
+  },
+  "Q8393": {
+    "wikidata_id": "Q270705",
+    "timestamp": "2026-08-06T15:49:32Z",
+    "status": "success"
+  },
+  "Q8394": {
+    "wikidata_id": "Q83396",
+    "timestamp": "2026-08-06T15:49:33Z",
+    "status": "success"
+  },
+  "Q8395": {
+    "wikidata_id": "Q531608",
+    "timestamp": "2026-08-06T15:49:34Z",
+    "status": "success"
+  },
+  "Q8396": {
+    "wikidata_id": "Q735177",
+    "timestamp": "2026-08-06T15:49:34Z",
+    "status": "success"
+  },
+  "Q8397": {
+    "wikidata_id": "Q450923",
+    "timestamp": "2026-08-06T15:49:35Z",
+    "status": "success"
+  },
+  "Q8398": {
+    "wikidata_id": "Q6145724",
+    "timestamp": "2026-08-06T15:49:36Z",
+    "status": "success"
+  },
+  "Q8400": {
+    "wikidata_id": "Q61664932",
+    "timestamp": "2026-08-06T15:49:37Z",
+    "status": "success"
+  },
+  "Q8401": {
+    "wikidata_id": "Q9616240",
+    "timestamp": "2026-08-06T15:49:38Z",
+    "status": "success"
+  },
+  "Q8403": {
+    "wikidata_id": "Q4766823",
+    "timestamp": "2026-08-06T15:49:39Z",
+    "status": "success"
+  },
+  "Q8405": {
+    "wikidata_id": "Q442804",
+    "timestamp": "2026-08-06T15:49:40Z",
+    "status": "success"
+  },
+  "Q8408": {
+    "wikidata_id": "Q26207411",
+    "timestamp": "2026-08-06T15:49:40Z",
+    "status": "success"
+  },
+  "Q8409": {
+    "wikidata_id": "Q21176937",
+    "timestamp": "2026-08-06T15:49:41Z",
+    "status": "success"
+  },
+  "Q8411": {
+    "wikidata_id": "Q12052907",
+    "timestamp": "2026-08-06T15:49:42Z",
+    "status": "success"
+  },
+  "Q8412": {
+    "wikidata_id": "Q235505",
+    "timestamp": "2026-08-06T15:49:43Z",
+    "status": "success"
+  },
+  "Q8414": {
+    "wikidata_id": "Q3816",
+    "timestamp": "2026-08-06T15:49:44Z",
+    "status": "success"
+  },
+  "Q8415": {
+    "wikidata_id": "Q17892",
+    "timestamp": "2026-08-06T15:49:45Z",
+    "status": "success"
+  },
+  "Q8416": {
+    "wikidata_id": "Q2587411",
+    "timestamp": "2026-08-06T15:49:46Z",
+    "status": "success"
+  },
+  "Q21925": {
+    "wikidata_id": "Q336",
+    "timestamp": "2026-08-06T15:49:47Z",
+    "status": "success"
+  },
+  "Q6843": {
+    "wikidata_id": "Q177232",
+    "timestamp": "2026-08-06T15:49:48Z",
+    "status": "success"
+  },
+  "Q6846": {
+    "wikidata_id": "Q1436248",
+    "timestamp": "2026-08-06T15:49:49Z",
+    "status": "success"
+  },
+  "Q154929": {
+    "wikidata_id": "Q1462538",
+    "timestamp": "2026-08-06T15:49:49Z",
+    "status": "success"
+  },
+  "Q123968": {
+    "wikidata_id": "Q212105",
+    "timestamp": "2026-08-06T15:49:50Z",
+    "status": "success"
+  },
+  "Q6852": {
+    "wikidata_id": "Q10332857",
+    "timestamp": "2026-08-06T15:49:51Z",
+    "status": "success"
+  },
+  "Q123967": {
+    "wikidata_id": "Q10346136",
+    "timestamp": "2026-08-06T15:49:52Z",
+    "status": "success"
+  },
+  "Q6861": {
+    "wikidata_id": "Q16510064",
+    "timestamp": "2026-08-06T15:49:53Z",
+    "status": "success"
+  },
+  "Q6850": {
+    "wikidata_id": "Q17145",
+    "timestamp": "2026-08-06T15:49:54Z",
+    "status": "success"
+  },
+  "Q6855": {
+    "wikidata_id": "Q214255",
+    "timestamp": "2026-08-06T15:49:57Z",
+    "status": "success"
+  },
+  "Q6849": {
+    "wikidata_id": "Q74560",
+    "timestamp": "2026-08-06T15:49:58Z",
+    "status": "success"
+  },
+  "Q6859": {
+    "wikidata_id": "Q829348",
+    "timestamp": "2026-08-06T15:49:59Z",
+    "status": "success"
+  },
+  "Q6851": {
+    "wikidata_id": "Q9340221",
+    "timestamp": "2026-08-06T15:50:00Z",
+    "status": "success"
+  },
+  "Q6862": {
+    "wikidata_id": "Q4438121",
+    "timestamp": "2026-08-06T15:50:01Z",
+    "status": "success"
+  },
+  "Q6863": {
+    "wikidata_id": "Q50995749",
+    "timestamp": "2026-08-06T15:50:02Z",
+    "status": "success"
+  },
+  "Q6869": {
+    "wikidata_id": "Q12483",
+    "timestamp": "2026-08-06T15:50:03Z",
+    "status": "success"
+  },
+  "Q83567": {
+    "wikidata_id": "Q163942",
+    "timestamp": "2026-08-06T15:50:04Z",
+    "status": "success"
+  },
+  "Q6870": {
+    "wikidata_id": "Q1949963",
+    "timestamp": "2026-08-06T15:50:05Z",
+    "status": "success"
+  },
+  "Q6873": {
+    "wikidata_id": "Q19822352",
+    "timestamp": "2026-08-06T15:50:06Z",
+    "status": "success"
+  },
+  "Q6876": {
+    "wikidata_id": "Q7623048",
+    "timestamp": "2026-08-06T15:50:07Z",
+    "status": "success"
+  },
+  "Q123965": {
+    "wikidata_id": "Q10503411",
+    "timestamp": "2026-08-06T15:50:08Z",
+    "status": "success"
+  },
+  "Q6880": {
+    "wikidata_id": "Q123414",
+    "timestamp": "2026-08-06T15:50:09Z",
+    "status": "success"
+  },
+  "Q6887": {
+    "wikidata_id": "Q188509",
+    "timestamp": "2026-08-06T15:50:10Z",
+    "status": "success"
+  },
+  "Q6885": {
+    "wikidata_id": "Q264542",
+    "timestamp": "2026-08-06T15:50:12Z",
+    "status": "success"
+  },
+  "Q6886": {
+    "wikidata_id": "Q2702632",
+    "timestamp": "2026-08-06T15:50:13Z",
+    "status": "success"
+  },
+  "Q6884": {
+    "wikidata_id": "Q48282",
+    "timestamp": "2026-08-06T15:50:14Z",
+    "status": "success"
+  },
+  "Q6888": {
+    "wikidata_id": "Q322170",
+    "timestamp": "2026-08-06T15:50:15Z",
+    "status": "success"
+  },
+  "Q6889": {
+    "wikidata_id": "Q876852",
+    "timestamp": "2026-08-06T15:50:15Z",
+    "status": "success"
+  },
+  "Q6894": {
+    "wikidata_id": "Q1501",
+    "timestamp": "2026-08-06T15:50:16Z",
+    "status": "success"
+  },
+  "Q6897": {
+    "wikidata_id": "Q164800",
+    "timestamp": "2026-08-06T15:50:25Z",
+    "status": "success"
+  },
+  "Q6891": {
+    "wikidata_id": "Q190752",
+    "timestamp": "2026-08-06T15:50:25Z",
+    "status": "success"
+  },
+  "Q6893": {
+    "wikidata_id": "Q3490295",
+    "timestamp": "2026-08-06T15:50:26Z",
+    "status": "success"
+  },
+  "Q81372": {
+    "wikidata_id": "Q39427",
+    "timestamp": "2026-08-06T15:50:27Z",
+    "status": "success"
+  },
+  "Q76266": {
+    "wikidata_id": "Q41083",
+    "timestamp": "2026-08-06T15:50:28Z",
+    "status": "success"
+  },
+  "Q157048": {
+    "wikidata_id": "Q7223116",
+    "timestamp": "2026-08-06T15:50:29Z",
+    "status": "success"
+  },
+  "Q76087": {
+    "wikidata_id": "Q1243869",
+    "timestamp": "2026-08-06T15:50:30Z",
+    "status": "success"
+  },
+  "Q6902": {
+    "wikidata_id": "Q121610",
+    "timestamp": "2026-08-06T15:50:30Z",
+    "status": "success"
+  },
+  "Q6903": {
+    "wikidata_id": "Q1449648",
+    "timestamp": "2026-08-06T15:50:31Z",
+    "status": "success"
+  },
+  "Q6904": {
+    "wikidata_id": "Q106650967",
+    "timestamp": "2026-08-06T15:50:32Z",
+    "status": "success"
+  },
+  "Q123962": {
+    "wikidata_id": "Q622812",
+    "timestamp": "2026-08-06T15:50:33Z",
+    "status": "success"
+  },
+  "Q6908": {
+    "wikidata_id": "Q1478316",
+    "timestamp": "2026-08-06T15:50:34Z",
+    "status": "success"
+  },
+  "Q6909": {
+    "wikidata_id": "Q10370861",
+    "timestamp": "2026-08-06T15:50:35Z",
+    "status": "success"
+  },
+  "Q6911": {
+    "wikidata_id": "Q477544",
+    "timestamp": "2026-08-06T15:50:36Z",
+    "status": "success"
+  },
+  "Q6912": {
+    "wikidata_id": "Q1826286",
+    "timestamp": "2026-08-06T15:50:36Z",
+    "status": "success"
+  },
+  "Q115798": {
+    "wikidata_id": "Q181510",
+    "timestamp": "2026-08-06T15:50:37Z",
+    "status": "success"
+  },
+  "Q74726": {
+    "wikidata_id": "Q9598",
+    "timestamp": "2026-08-06T15:50:45Z",
+    "status": "success"
+  },
+  "Q156961": {
+    "wikidata_id": "Q583269",
+    "timestamp": "2026-08-06T15:50:46Z",
+    "status": "success"
+  },
+  "Q6917": {
+    "wikidata_id": "Q12058324",
+    "timestamp": "2026-08-06T15:50:47Z",
+    "status": "success"
+  },
+  "Q6919": {
+    "wikidata_id": "Q510406",
+    "timestamp": "2026-08-06T15:50:48Z",
+    "status": "success"
+  },
+  "Q6920": {
+    "wikidata_id": "Q1546695",
+    "timestamp": "2026-08-06T15:50:49Z",
+    "status": "success"
+  },
+  "Q6922": {
+    "wikidata_id": "Q126645",
+    "timestamp": "2026-08-06T15:50:50Z",
+    "status": "success"
+  },
+  "Q6921": {
+    "wikidata_id": "Q16635395",
+    "timestamp": "2026-08-06T15:50:50Z",
+    "status": "success"
+  },
+  "Q6928": {
+    "wikidata_id": "Q2961580",
+    "timestamp": "2026-08-06T15:50:51Z",
+    "status": "success"
+  },
+  "Q122564": {
+    "wikidata_id": "Q19075087",
+    "timestamp": "2026-08-06T15:50:52Z",
+    "status": "success"
+  },
+  "Q6931": {
+    "wikidata_id": "Q5352191",
+    "timestamp": "2026-08-06T15:50:53Z",
+    "status": "success"
+  },
+  "Q6932": {
+    "wikidata_id": "Q11016",
+    "timestamp": "2026-08-06T15:50:54Z",
+    "status": "success"
+  },
+  "Q74899": {
+    "wikidata_id": "Q289",
+    "timestamp": "2026-08-06T15:50:55Z",
+    "status": "success"
+  },
+  "Q6941": {
+    "wikidata_id": "Q5398426",
+    "timestamp": "2026-08-06T15:50:56Z",
+    "status": "success"
+  },
+  "Q6940": {
+    "wikidata_id": "Q8075",
+    "timestamp": "2026-08-06T15:51:01Z",
+    "status": "success"
+  },
+  "Q76085": {
+    "wikidata_id": "Q2345374",
+    "timestamp": "2026-08-06T15:51:02Z",
+    "status": "success"
+  },
+  "Q6944": {
+    "wikidata_id": "Q47208788",
+    "timestamp": "2026-08-06T15:51:03Z",
+    "status": "success"
+  },
+  "Q75085": {
+    "wikidata_id": "Q7283",
+    "timestamp": "2026-08-06T15:51:04Z",
+    "status": "success"
+  },
+  "Q123958": {
+    "wikidata_id": "Q847",
+    "timestamp": "2026-08-06T15:51:05Z",
+    "status": "success"
+  },
+  "Q119580": {
+    "wikidata_id": "Q324464",
+    "timestamp": "2026-08-06T15:51:06Z",
+    "status": "success"
+  },
+  "Q111405": {
+    "wikidata_id": "Q10988986",
+    "timestamp": "2026-08-06T15:51:07Z",
+    "status": "success"
+  },
+  "Q73314": {
+    "wikidata_id": "Q120931",
+    "timestamp": "2026-08-06T15:51:08Z",
+    "status": "success"
+  },
+  "Q6949": {
+    "wikidata_id": "Q22075301",
+    "timestamp": "2026-08-06T15:51:08Z",
+    "status": "success"
+  },
+  "Q6955": {
+    "wikidata_id": "Q15116915",
+    "timestamp": "2026-08-06T15:51:09Z",
+    "status": "success"
+  },
+  "Q6956": {
+    "wikidata_id": "Q7725310",
+    "timestamp": "2026-08-06T15:51:11Z",
+    "status": "success"
+  },
+  "Q6958": {
+    "wikidata_id": "Q7777570",
+    "timestamp": "2026-08-06T15:51:12Z",
+    "status": "success"
+  },
+  "Q6959": {
+    "wikidata_id": "Q43099500",
+    "timestamp": "2026-08-06T15:51:13Z",
+    "status": "success"
+  },
+  "Q6962": {
+    "wikidata_id": "Q17538722",
+    "timestamp": "2026-08-06T15:51:14Z",
+    "status": "success"
+  },
+  "Q6963": {
+    "wikidata_id": "Q110013395",
+    "timestamp": "2026-08-06T15:51:15Z",
+    "status": "success"
+  },
+  "Q6965": {
+    "wikidata_id": "Q7725634",
+    "timestamp": "2026-08-06T15:51:15Z",
+    "status": "success"
+  },
+  "Q122562": {
+    "wikidata_id": "Q960543",
+    "timestamp": "2026-08-06T15:51:16Z",
+    "status": "success"
+  },
+  "Q6969": {
+    "wikidata_id": "Q2727213",
+    "timestamp": "2026-08-06T15:51:17Z",
+    "status": "success"
+  },
+  "Q6970": {
+    "wikidata_id": "Q1234713",
+    "timestamp": "2026-08-06T15:51:18Z",
+    "status": "success"
+  },
+  "Q110692": {
+    "wikidata_id": "Q34178",
+    "timestamp": "2026-08-06T15:51:19Z",
+    "status": "success"
+  },
+  "Q6972": {
+    "wikidata_id": "Q178671",
+    "timestamp": "2026-08-06T15:51:20Z",
+    "status": "success"
+  },
+  "Q6980": {
+    "wikidata_id": "Q2419397",
+    "timestamp": "2026-08-06T15:51:21Z",
+    "status": "success"
+  },
+  "Q6981": {
+    "wikidata_id": "Q1900167",
+    "timestamp": "2026-08-06T15:51:22Z",
+    "status": "success"
+  },
+  "Q6982": {
+    "wikidata_id": "Q17152639",
+    "timestamp": "2026-08-06T15:51:24Z",
+    "status": "success"
+  },
+  "Q6984": {
+    "wikidata_id": "Q2376111",
+    "timestamp": "2026-08-06T15:51:25Z",
+    "status": "success"
+  },
+  "Q123955": {
+    "wikidata_id": "Q110865752",
+    "timestamp": "2026-08-06T15:51:26Z",
+    "status": "success"
+  },
+  "Q110690": {
+    "wikidata_id": "Q907703",
+    "timestamp": "2026-08-06T15:51:27Z",
+    "status": "success"
+  },
+  "Q6987": {
+    "wikidata_id": "Q845799",
+    "timestamp": "2026-08-06T15:51:28Z",
+    "status": "success"
+  },
+  "Q6988": {
+    "wikidata_id": "Q1136047",
+    "timestamp": "2026-08-06T15:51:30Z",
+    "status": "success"
+  },
+  "Q6989": {
+    "wikidata_id": "Q133744",
+    "timestamp": "2026-08-06T16:00:20Z",
+    "status": "success"
+  },
+  "Q110688": {
+    "wikidata_id": "Q49389",
+    "timestamp": "2026-08-06T16:00:21Z",
+    "status": "success"
+  },
+  "Q111409": {
+    "wikidata_id": "Q3312129",
+    "timestamp": "2026-08-06T16:00:22Z",
+    "status": "success"
+  },
+  "Q111408": {
+    "wikidata_id": "Q601401",
+    "timestamp": "2026-08-06T16:00:23Z",
+    "status": "success"
+  },
+  "Q81599": {
+    "wikidata_id": "Q178790",
+    "timestamp": "2026-08-06T16:00:24Z",
+    "status": "success"
+  },
+  "Q6999": {
+    "wikidata_id": "Q25475921",
+    "timestamp": "2026-08-06T16:00:25Z",
+    "status": "success"
+  },
+  "Q81593": {
+    "wikidata_id": "Q17014367",
+    "timestamp": "2026-08-06T16:00:26Z",
+    "status": "success"
+  },
+  "Q3993": {
+    "wikidata_id": "Q2449779",
+    "timestamp": "2026-08-06T16:00:27Z",
+    "status": "success"
+  },
+  "Q68472": {
+    "wikidata_id": "Q1085588",
+    "timestamp": "2026-08-06T16:00:29Z",
+    "status": "success"
+  },
+  "Q111407": {
+    "wikidata_id": "Q7590",
+    "timestamp": "2026-08-06T16:00:30Z",
+    "status": "success"
+  },
+  "Q7015": {
+    "wikidata_id": "Q740752",
+    "timestamp": "2026-08-06T16:00:31Z",
+    "status": "success"
+  },
+  "Q115786": {
+    "wikidata_id": "Q56148021",
+    "timestamp": "2026-08-06T16:00:33Z",
+    "status": "success"
+  },
+  "Q7017": {
+    "wikidata_id": "Q61509",
+    "timestamp": "2026-08-06T16:00:34Z",
+    "status": "success"
+  },
+  "Q7018": {
+    "wikidata_id": "Q217107",
+    "timestamp": "2026-08-06T16:00:36Z",
+    "status": "success"
+  },
+  "Q1580": {
+    "wikidata_id": "Q18975237",
+    "timestamp": "2026-08-06T16:00:37Z",
+    "status": "success"
+  }
+}

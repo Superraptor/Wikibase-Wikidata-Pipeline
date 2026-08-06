@@ -1,0 +1,1286 @@
+{
+  "Q1527589 P279 {'value': {'entity-type': 'item', 'numeric-id': 187931, 'id': 'Q187931'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1527589",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 187931, 'id': 'Q187931'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T19:57:23Z"
+  },
+  "Q1401131 P279 {'value': {'entity-type': 'item', 'numeric-id': 187931, 'id': 'Q187931'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1401131",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 187931, 'id': 'Q187931'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T19:57:49Z"
+  },
+  "Q380057 P279 {'value': {'entity-type': 'item', 'numeric-id': 8171, 'id': 'Q8171'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q380057",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 8171, 'id': 'Q8171'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T19:58:11Z"
+  },
+  "Q889 P31 {'value': {'entity-type': 'item', 'numeric-id': 6256, 'id': 'Q6256'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q889",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 6256, 'id': 'Q6256'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T19:58:53Z"
+  },
+  "Q315 P31 {'value': {'entity-type': 'item', 'numeric-id': 340169, 'id': 'Q340169'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q315",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 340169, 'id': 'Q340169'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T19:59:33Z"
+  },
+  "Q397 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q397",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:04:41Z"
+  },
+  "Q9129 P31 {'value': {'entity-type': 'item', 'numeric-id': 25295, 'id': 'Q25295'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q9129",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 25295, 'id': 'Q25295'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:05:00Z"
+  },
+  "Q36510 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q36510",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:05:09Z"
+  },
+  "Q150 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q150",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:05:48Z"
+  },
+  "Q1860 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1860",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:06:14Z"
+  },
+  "Q188 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q188",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:14:34Z"
+  },
+  "Q56042915 P279 {'value': {'entity-type': 'item', 'numeric-id': 187931, 'id': 'Q187931'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q56042915",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 187931, 'id': 'Q187931'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:15:04Z"
+  },
+  "Q36395 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q36395",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:15:50Z"
+  },
+  "Q1321 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1321",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:16:29Z"
+  },
+  "Q35127 P31 {'value': {'entity-type': 'item', 'numeric-id': 151885, 'id': 'Q151885'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q35127",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 151885, 'id': 'Q151885'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:17:55Z"
+  },
+  "Q44679 P31 {'value': {'entity-type': 'item', 'numeric-id': 33384, 'id': 'Q33384'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q44679",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 33384, 'id': 'Q33384'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:27:53Z"
+  },
+  "Q35986 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q35986",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:58:31Z"
+  },
+  "Q6199 P31 {'value': {'entity-type': 'item', 'numeric-id': 9357091, 'id': 'Q9357091'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6199",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 9357091, 'id': 'Q9357091'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:59:32Z"
+  },
+  "Q131749 P279 {'value': {'entity-type': 'item', 'numeric-id': 373822, 'id': 'Q373822'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q131749",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 373822, 'id': 'Q373822'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T20:59:48Z"
+  },
+  "Q23404 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q23404",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:00:04Z"
+  },
+  "Q575220 P31 {'value': {'entity-type': 'item', 'numeric-id': 7257, 'id': 'Q7257'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q575220",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 7257, 'id': 'Q7257'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:00:11Z"
+  },
+  "Q11639 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11639",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:11:45Z"
+  },
+  "Q5215299 P4900 {'value': {'entity-type': 'item', 'numeric-id': 200538, 'id': 'Q200538'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5215299",
+    "property": "P4900",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 200538, 'id': 'Q200538'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:11:51Z"
+  },
+  "Q175002 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q175002",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:12:18Z"
+  },
+  "Q10801 P4900 {'value': {'entity-type': 'item', 'numeric-id': 10816, 'id': 'Q10816'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q10801",
+    "property": "P4900",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 10816, 'id': 'Q10816'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:12:29Z"
+  },
+  "Q506259 P279 {'value': {'entity-type': 'item', 'numeric-id': 4060300, 'id': 'Q4060300'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q506259",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 4060300, 'id': 'Q4060300'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:12:38Z"
+  },
+  "Q1254525 P4900 {'value': {'entity-type': 'item', 'numeric-id': 138858, 'id': 'Q138858'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1254525",
+    "property": "P4900",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 138858, 'id': 'Q138858'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:17:02Z"
+  },
+  "Q337084 P4900 {'value': {'entity-type': 'item', 'numeric-id': 138858, 'id': 'Q138858'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q337084",
+    "property": "P4900",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 138858, 'id': 'Q138858'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:17:09Z"
+  },
+  "Q5308931 P4900 {'value': {'entity-type': 'item', 'numeric-id': 5, 'id': 'Q5'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5308931",
+    "property": "P4900",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 5, 'id': 'Q5'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:17:18Z"
+  },
+  "Q8386 P279 {'value': {'entity-type': 'item', 'numeric-id': 3246832, 'id': 'Q3246832'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q8386",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 3246832, 'id': 'Q3246832'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:17:35Z"
+  },
+  "Q8434 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q8434",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:18:05Z"
+  },
+  "Q9415 P279 {'value': {'entity-type': 'item', 'numeric-id': 9332, 'id': 'Q9332'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q9415",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 9332, 'id': 'Q9332'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:23:49Z"
+  },
+  "Q43405 P279 {'value': {'entity-type': 'item', 'numeric-id': 178059, 'id': 'Q178059'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q43405",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 178059, 'id': 'Q178059'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:25:25Z"
+  },
+  "Q7252 P31 {'value': {'entity-type': 'item', 'numeric-id': 34394, 'id': 'Q34394'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q7252",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 34394, 'id': 'Q34394'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:27:03Z"
+  },
+  "Q40207875 P279 {'value': {'entity-type': 'item', 'numeric-id': 68541106, 'id': 'Q68541106'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q40207875",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 68541106, 'id': 'Q68541106'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:27:53Z"
+  },
+  "Q40207875 P279 {'value': {'entity-type': 'item', 'numeric-id': 50377176, 'id': 'Q50377176'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q40207875",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 50377176, 'id': 'Q50377176'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:27:53Z"
+  },
+  "Q618804 P279 {'value': {'entity-type': 'item', 'numeric-id': 104969456, 'id': 'Q104969456'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q618804",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 104969456, 'id': 'Q104969456'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:39:06Z"
+  },
+  "Q5530970 P31 {'value': {'entity-type': 'item', 'numeric-id': 131841, 'id': 'Q131841'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5530970",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 131841, 'id': 'Q131841'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:39:33Z"
+  },
+  "Q427173 P279 {'value': {'entity-type': 'item', 'numeric-id': 736922, 'id': 'Q736922'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q427173",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 736922, 'id': 'Q736922'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:40:11Z"
+  },
+  "Q2907274 P31 {'value': {'entity-type': 'item', 'numeric-id': 2334719, 'id': 'Q2334719'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2907274",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2334719, 'id': 'Q2334719'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:40:17Z"
+  },
+  "Q179366 P279 {'value': {'entity-type': 'item', 'numeric-id': 19358049, 'id': 'Q19358049'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q179366",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 19358049, 'id': 'Q19358049'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:40:30Z"
+  },
+  "Q12078 P31 {'value': {'entity-type': 'item', 'numeric-id': 2057971, 'id': 'Q2057971'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q12078",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2057971, 'id': 'Q2057971'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:42:50Z"
+  },
+  "Q12078 P31 {'value': {'entity-type': 'item', 'numeric-id': 12136, 'id': 'Q12136'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q12078",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 12136, 'id': 'Q12136'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:42:50Z"
+  },
+  "Q3411686 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q3411686",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:43:29Z"
+  },
+  "Q5043 P31 {'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5043",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:44:02Z"
+  },
+  "Q5043 P31 {'value': {'entity-type': 'item', 'numeric-id': 19842652, 'id': 'Q19842652'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5043",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 19842652, 'id': 'Q19842652'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:44:02Z"
+  },
+  "Q11024 P279 {'value': {'entity-type': 'item', 'numeric-id': 609298, 'id': 'Q609298'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11024",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 609298, 'id': 'Q609298'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:55:58Z"
+  },
+  "Q14076 P279 {'value': {'entity-type': 'item', 'numeric-id': 2424752, 'id': 'Q2424752'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q14076",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2424752, 'id': 'Q2424752'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:56:14Z"
+  },
+  "Q7169 P31 {'value': {'entity-type': 'item', 'numeric-id': 12909644, 'id': 'Q12909644'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q7169",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 12909644, 'id': 'Q12909644'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:56:35Z"
+  },
+  "Q7169 P31 {'value': {'entity-type': 'item', 'numeric-id': 7257, 'id': 'Q7257'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q7169",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 7257, 'id': 'Q7257'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:56:35Z"
+  },
+  "Q4390239 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4390239",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T21:56:54Z"
+  },
+  "Q22294697 P279 {'value': {'entity-type': 'item', 'numeric-id': 14865855, 'id': 'Q14865855'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q22294697",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 14865855, 'id': 'Q14865855'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:00:08Z"
+  },
+  "Q43015 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q43015",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:01:05Z"
+  },
+  "Q109482902 P31 {'value': {'entity-type': 'item', 'numeric-id': 49773, 'id': 'Q49773'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q109482902",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 49773, 'id': 'Q49773'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:02:21Z"
+  },
+  "Q109482902 P31 {'value': {'entity-type': 'item', 'numeric-id': 2738074, 'id': 'Q2738074'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q109482902",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2738074, 'id': 'Q2738074'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:02:21Z"
+  },
+  "Q109482902 P31 {'value': {'entity-type': 'item', 'numeric-id': 13406660, 'id': 'Q13406660'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q109482902",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 13406660, 'id': 'Q13406660'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:02:21Z"
+  },
+  "Q2631766 P279 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2631766",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:04:01Z"
+  },
+  "Q1049021 P31 {'value': {'entity-type': 'item', 'numeric-id': 205555, 'id': 'Q205555'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1049021",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 205555, 'id': 'Q205555'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:04:14Z"
+  },
+  "Q48264 P279 {'value': {'entity-type': 'item', 'numeric-id': 2254571, 'id': 'Q2254571'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q48264",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2254571, 'id': 'Q2254571'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:04:23Z"
+  },
+  "Q2672163 P279 {'value': {'entity-type': 'item', 'numeric-id': 214339, 'id': 'Q214339'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2672163",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 214339, 'id': 'Q214339'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:04:33Z"
+  },
+  "Q1189745 P279 {'value': {'entity-type': 'item', 'numeric-id': 36224, 'id': 'Q36224'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1189745",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 36224, 'id': 'Q36224'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:04:50Z"
+  },
+  "Q1434843 P279 {'value': {'entity-type': 'item', 'numeric-id': 20204151, 'id': 'Q20204151'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1434843",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 20204151, 'id': 'Q20204151'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:08:34Z"
+  },
+  "Q829895 P31 {'value': {'entity-type': 'item', 'numeric-id': 2198855, 'id': 'Q2198855'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q829895",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2198855, 'id': 'Q2198855'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:08:44Z"
+  },
+  "Q11364 P279 {'value': {'entity-type': 'item', 'numeric-id': 206229, 'id': 'Q206229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11364",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 206229, 'id': 'Q206229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:09:37Z"
+  },
+  "Q75 P31 {'value': {'entity-type': 'item', 'numeric-id': 11384, 'id': 'Q11384'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q75",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11384, 'id': 'Q11384'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:10:31Z"
+  },
+  "Q16358629 P279 {'value': {'entity-type': 'item', 'numeric-id': 609298, 'id': 'Q609298'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q16358629",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 609298, 'id': 'Q609298'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-04T22:10:39Z"
+  },
+  "Q9268 P31 {'value': {'entity-type': 'item', 'numeric-id': 19842652, 'id': 'Q19842652'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q9268",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 19842652, 'id': 'Q19842652'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:38:23Z"
+  },
+  "Q9268 P31 {'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q9268",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:38:23Z"
+  },
+  "Q221890 P31 {'value': {'entity-type': 'item', 'numeric-id': 7295720, 'id': 'Q7295720'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q221890",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 7295720, 'id': 'Q7295720'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:38:34Z"
+  },
+  "Q7748 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q7748",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:39:10Z"
+  },
+  "Q22935154 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q22935154",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:39:26Z"
+  },
+  "Q11409 P31 {'value': {'entity-type': 'item', 'numeric-id': 28108, 'id': 'Q28108'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11409",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 28108, 'id': 'Q28108'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:40:45Z"
+  },
+  "Q11409 P31 {'value': {'entity-type': 'item', 'numeric-id': 1639378, 'id': 'Q1639378'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11409",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1639378, 'id': 'Q1639378'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:40:45Z"
+  },
+  "Q11409 P31 {'value': {'entity-type': 'item', 'numeric-id': 7257, 'id': 'Q7257'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11409",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 7257, 'id': 'Q7257'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:40:45Z"
+  },
+  "Q12271 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q12271",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:41:51Z"
+  },
+  "Q166142 P279 {'value': {'entity-type': 'item', 'numeric-id': 17537576, 'id': 'Q17537576'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q166142",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 17537576, 'id': 'Q17537576'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:42:04Z"
+  },
+  "Q327541 P279 {'value': {'entity-type': 'item', 'numeric-id': 3196, 'id': 'Q3196'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q327541",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 3196, 'id': 'Q3196'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:44:01Z"
+  },
+  "Q1007870 P279 {'value': {'entity-type': 'item', 'numeric-id': 124081236, 'id': 'Q124081236'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1007870",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 124081236, 'id': 'Q124081236'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:44:08Z"
+  },
+  "Q4806809 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4806809",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:44:17Z"
+  },
+  "Q1436063 P279 {'value': {'entity-type': 'item', 'numeric-id': 12135, 'id': 'Q12135'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1436063",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 12135, 'id': 'Q12135'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:44:36Z"
+  },
+  "Q765633 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q765633",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:44:51Z"
+  },
+  "Q40369420 P31 {'value': {'entity-type': 'item', 'numeric-id': 482980, 'id': 'Q482980'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q40369420",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 482980, 'id': 'Q482980'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:46:42Z"
+  },
+  "Q40369420 P31 {'value': {'entity-type': 'item', 'numeric-id': 1930187, 'id': 'Q1930187'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q40369420",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1930187, 'id': 'Q1930187'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:46:42Z"
+  },
+  "Q40369420 P31 {'value': {'entity-type': 'item', 'numeric-id': 15253558, 'id': 'Q15253558'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q40369420",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 15253558, 'id': 'Q15253558'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:46:42Z"
+  },
+  "Q377402 P279 {'value': {'entity-type': 'item', 'numeric-id': 178059, 'id': 'Q178059'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q377402",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 178059, 'id': 'Q178059'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:46:50Z"
+  },
+  "Q877517 P279 {'value': {'entity-type': 'item', 'numeric-id': 11410, 'id': 'Q11410'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q877517",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11410, 'id': 'Q11410'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:47:13Z"
+  },
+  "Q5369 P31 {'value': {'entity-type': 'item', 'numeric-id': 349, 'id': 'Q349'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5369",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 349, 'id': 'Q349'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:52:09Z"
+  },
+  "Q40080 P279 {'value': {'entity-type': 'item', 'numeric-id': 107123630, 'id': 'Q107123630'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q40080",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 107123630, 'id': 'Q107123630'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:52:27Z"
+  },
+  "Q134995 P279 {'value': {'entity-type': 'item', 'numeric-id': 12139612, 'id': 'Q12139612'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q134995",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 12139612, 'id': 'Q12139612'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:52:45Z"
+  },
+  "Q1845 P31 {'value': {'entity-type': 'item', 'numeric-id': 85796231, 'id': 'Q85796231'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1845",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 85796231, 'id': 'Q85796231'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:53:15Z"
+  },
+  "Q420 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q420",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T06:58:06Z"
+  },
+  "Q864503 P279 {'value': {'entity-type': 'item', 'numeric-id': 901, 'id': 'Q901'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q864503",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 901, 'id': 'Q901'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T11:42:38Z"
+  },
+  "Q131755 P689 {'value': {'entity-type': 'item', 'numeric-id': 15978631, 'id': 'Q15978631'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q131755",
+    "property": "P689",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 15978631, 'id': 'Q15978631'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T11:42:51Z"
+  },
+  "Q131755 P279 {'value': {'entity-type': 'item', 'numeric-id': 188638, 'id': 'Q188638'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q131755",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 188638, 'id': 'Q188638'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T11:42:51Z"
+  },
+  "Q7108 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q7108",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T11:43:01Z"
+  },
+  "Q37542 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q37542",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T11:48:37Z"
+  },
+  "Q383968 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q383968",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:06:42Z"
+  },
+  "Q38157 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q38157",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:06:53Z"
+  },
+  "Q30849 P279 {'value': {'entity-type': 'item', 'numeric-id': 17537576, 'id': 'Q17537576'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q30849",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 17537576, 'id': 'Q17537576'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:07:11Z"
+  },
+  "Q183605 P279 {'value': {'entity-type': 'item', 'numeric-id': 796194, 'id': 'Q796194'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q183605",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 796194, 'id': 'Q796194'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:07:25Z"
+  },
+  "Q9759 P31 {'value': {'entity-type': 'item', 'numeric-id': 188451, 'id': 'Q188451'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q9759",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 188451, 'id': 'Q188451'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:07:48Z"
+  },
+  "Q3523415 P31 {'value': {'entity-type': 'item', 'numeric-id': 46337, 'id': 'Q46337'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q3523415",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 46337, 'id': 'Q46337'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:13:33Z"
+  },
+  "Q59774 P31 {'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q59774",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:14:08Z"
+  },
+  "Q2539788 P31 {'value': {'entity-type': 'item', 'numeric-id': 124757, 'id': 'Q124757'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2539788",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 124757, 'id': 'Q124757'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:15:24Z"
+  },
+  "Q45135021 P31 {'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q45135021",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:16:17Z"
+  },
+  "Q1098925 P31 {'value': {'entity-type': 'item', 'numeric-id': 1527956, 'id': 'Q1527956'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1098925",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1527956, 'id': 'Q1527956'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:16:39Z"
+  },
+  "Q1189608 P31 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1189608",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:18:23Z"
+  },
+  "Q781379 P31 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q781379",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:18:57Z"
+  },
+  "Q62 P31 {'value': {'entity-type': 'item', 'numeric-id': 1093829, 'id': 'Q1093829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q62",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1093829, 'id': 'Q1093829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:19:17Z"
+  },
+  "Q220505 P279 {'value': {'entity-type': 'item', 'numeric-id': 2761147, 'id': 'Q2761147'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q220505",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2761147, 'id': 'Q2761147'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:21:39Z"
+  },
+  "Q220505 P279 {'value': {'entity-type': 'item', 'numeric-id': 132241, 'id': 'Q132241'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q220505",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 132241, 'id': 'Q132241'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:21:39Z"
+  },
+  "Q6498663 P279 {'value': {'entity-type': 'item', 'numeric-id': 7406919, 'id': 'Q7406919'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6498663",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 7406919, 'id': 'Q7406919'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:42:19Z"
+  },
+  "Q43343 P31 {'value': {'entity-type': 'item', 'numeric-id': 188451, 'id': 'Q188451'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q43343",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 188451, 'id': 'Q188451'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:42:54Z"
+  },
+  "Q540912 P31 {'value': {'entity-type': 'item', 'numeric-id': 268592, 'id': 'Q268592'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q540912",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 268592, 'id': 'Q268592'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:43:01Z"
+  },
+  "Q20729778 P279 {'value': {'entity-type': 'item', 'numeric-id': 8436, 'id': 'Q8436'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q20729778",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 8436, 'id': 'Q8436'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:43:09Z"
+  },
+  "Q11076311 P31 {'value': {'entity-type': 'item', 'numeric-id': 2738074, 'id': 'Q2738074'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11076311",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2738074, 'id': 'Q2738074'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:43:43Z"
+  },
+  "Q108353258 P31 {'value': {'entity-type': 'item', 'numeric-id': 11483816, 'id': 'Q11483816'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q108353258",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11483816, 'id': 'Q11483816'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:44:26Z"
+  },
+  "Q18116794 P31 {'value': {'entity-type': 'item', 'numeric-id': 48264, 'id': 'Q48264'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q18116794",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 48264, 'id': 'Q48264'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:44:40Z"
+  },
+  "Q10387 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q10387",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:45:09Z"
+  },
+  "Q10384 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q10384",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:47:11Z"
+  },
+  "Q219625 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q219625",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:47:59Z"
+  },
+  "Q2640827 P279 {'value': {'entity-type': 'item', 'numeric-id': 39631, 'id': 'Q39631'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2640827",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 39631, 'id': 'Q39631'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:48:54Z"
+  },
+  "Q103824 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q103824",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:49:04Z"
+  },
+  "Q8418 P31 {'value': {'entity-type': 'item', 'numeric-id': 11410, 'id': 'Q11410'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q8418",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11410, 'id': 'Q11410'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:49:17Z"
+  },
+  "Q8418 P31 {'value': {'entity-type': 'item', 'numeric-id': 349, 'id': 'Q349'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q8418",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 349, 'id': 'Q349'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:49:17Z"
+  },
+  "Q8418 P31 {'value': {'entity-type': 'item', 'numeric-id': 877517, 'id': 'Q877517'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q8418",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 877517, 'id': 'Q877517'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T12:49:17Z"
+  },
+  "Q1338914 P279 {'value': {'entity-type': 'item', 'numeric-id': 571, 'id': 'Q571'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1338914",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 571, 'id': 'Q571'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:12:44Z"
+  },
+  "Q60168 P279 {'value': {'entity-type': 'item', 'numeric-id': 10268802, 'id': 'Q10268802'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q60168",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 10268802, 'id': 'Q10268802'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:13:54Z"
+  },
+  "Q131036 P31 {'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q131036",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:17:43Z"
+  },
+  "Q131036 P31 {'value': {'entity-type': 'item', 'numeric-id': 49447, 'id': 'Q49447'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q131036",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 49447, 'id': 'Q49447'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:17:43Z"
+  },
+  "Q3429919 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q3429919",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:18:00Z"
+  },
+  "Q860861 P279 {'value': {'entity-type': 'item', 'numeric-id': 17537576, 'id': 'Q17537576'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q860861",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 17537576, 'id': 'Q17537576'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:34:19Z"
+  },
+  "Q14623204 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q14623204",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:34:35Z"
+  },
+  "Q3110090 P279 {'value': {'entity-type': 'item', 'numeric-id': 1656682, 'id': 'Q1656682'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q3110090",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1656682, 'id': 'Q1656682'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:35:48Z"
+  },
+  "Q812767 P31 {'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q812767",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:36:41Z"
+  },
+  "Q177220 P279 {'value': {'entity-type': 'item', 'numeric-id': 1294626, 'id': 'Q1294626'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q177220",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1294626, 'id': 'Q1294626'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T13:38:04Z"
+  },
+  "Q171038 P31 {'value': {'entity-type': 'item', 'numeric-id': 349, 'id': 'Q349'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q171038",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 349, 'id': 'Q349'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:20:24Z"
+  },
+  "Q171038 P31 {'value': {'entity-type': 'item', 'numeric-id': 11410, 'id': 'Q11410'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q171038",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11410, 'id': 'Q11410'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:20:24Z"
+  },
+  "Q205398 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q205398",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:20:36Z"
+  },
+  "Q2306091 P279 {'value': {'entity-type': 'item', 'numeric-id': 1391344, 'id': 'Q1391344'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2306091",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1391344, 'id': 'Q1391344'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:20:43Z"
+  },
+  "Q7272 P31 {'value': {'entity-type': 'item', 'numeric-id': 12909644, 'id': 'Q12909644'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q7272",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 12909644, 'id': 'Q12909644'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:21:11Z"
+  },
+  "Q4835857 P31 {'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4835857",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:22:22Z"
+  },
+  "Q48741880 P31 {'value': {'entity-type': 'item', 'numeric-id': 988108, 'id': 'Q988108'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q48741880",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 988108, 'id': 'Q988108'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:22:56Z"
+  },
+  "Q2412357 P31 {'value': {'entity-type': 'item', 'numeric-id': 49850, 'id': 'Q49850'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2412357",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 49850, 'id': 'Q49850'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:23:52Z"
+  },
+  "Q6530243 P31 {'value': {'entity-type': 'item', 'numeric-id': 264238, 'id': 'Q264238'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6530243",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 264238, 'id': 'Q264238'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:24:36Z"
+  },
+  "Q6530243 P31 {'value': {'entity-type': 'item', 'numeric-id': 49850, 'id': 'Q49850'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6530243",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 49850, 'id': 'Q49850'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:24:36Z"
+  },
+  "Q6530243 P31 {'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6530243",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:24:36Z"
+  },
+  "Q6530249 P31 {'value': {'entity-type': 'item', 'numeric-id': 166118, 'id': 'Q166118'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6530249",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 166118, 'id': 'Q166118'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:24:43Z"
+  },
+  "Q6530249 P31 {'value': {'entity-type': 'item', 'numeric-id': 33506, 'id': 'Q33506'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6530249",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 33506, 'id': 'Q33506'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:24:43Z"
+  },
+  "Q648296 P31 {'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q648296",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:25:54Z"
+  },
+  "Q112695273 P31 {'value': {'entity-type': 'item', 'numeric-id': 21480300, 'id': 'Q21480300'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q112695273",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 21480300, 'id': 'Q21480300'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:26:07Z"
+  },
+  "Q200764 P279 {'value': {'entity-type': 'item', 'numeric-id': 213441, 'id': 'Q213441'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q200764",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 213441, 'id': 'Q213441'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:51:03Z"
+  },
+  "Q208166 P689 {'value': {'entity-type': 'item', 'numeric-id': 15978631, 'id': 'Q15978631'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q208166",
+    "property": "P689",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 15978631, 'id': 'Q15978631'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:51:25Z"
+  },
+  "Q208166 P279 {'value': {'entity-type': 'item', 'numeric-id': 270673, 'id': 'Q270673'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q208166",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 270673, 'id': 'Q270673'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:51:25Z"
+  },
+  "Q4830453 P279 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4830453",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:52:13Z"
+  },
+  "Q422936 P279 {'value': {'entity-type': 'item', 'numeric-id': 71574018, 'id': 'Q71574018'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q422936",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 71574018, 'id': 'Q71574018'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:53:16Z"
+  },
+  "Q627603 P279 {'value': {'entity-type': 'item', 'numeric-id': 93184, 'id': 'Q93184'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q627603",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 93184, 'id': 'Q93184'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T17:54:26Z"
+  },
+  "Q95074 P279 {'value': {'entity-type': 'item', 'numeric-id': 24229398, 'id': 'Q24229398'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q95074",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 24229398, 'id': 'Q24229398'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:09:40Z"
+  },
+  "Q34581 P279 {'value': {'entity-type': 'item', 'numeric-id': 22271532, 'id': 'Q22271532'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q34581",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 22271532, 'id': 'Q22271532'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:10:03Z"
+  },
+  "Q34581 P279 {'value': {'entity-type': 'item', 'numeric-id': 22294339, 'id': 'Q22294339'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q34581",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 22294339, 'id': 'Q22294339'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:10:03Z"
+  },
+  "Q131186 P279 {'value': {'entity-type': 'item', 'numeric-id': 215380, 'id': 'Q215380'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q131186",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 215380, 'id': 'Q215380'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:10:45Z"
+  },
+  "Q37748 P279 {'value': {'entity-type': 'item', 'numeric-id': 22326185, 'id': 'Q22326185'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q37748",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 22326185, 'id': 'Q22326185'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:11:02Z"
+  },
+  "Q3624420 P279 {'value': {'entity-type': 'item', 'numeric-id': 104969456, 'id': 'Q104969456'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q3624420",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 104969456, 'id': 'Q104969456'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:11:08Z"
+  },
+  "Q41253 P279 {'value': {'entity-type': 'item', 'numeric-id': 107123630, 'id': 'Q107123630'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q41253",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 107123630, 'id': 'Q107123630'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:11:35Z"
+  },
+  "Q41253 P279 {'value': {'entity-type': 'item', 'numeric-id': 655686, 'id': 'Q655686'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q41253",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 655686, 'id': 'Q655686'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:11:35Z"
+  },
+  "Q4314867 P31 {'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4314867",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:13:57Z"
+  },
+  "Q543111 P31 {'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q543111",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:58:41Z"
+  },
+  "Q1399232 P31 {'value': {'entity-type': 'item', 'numeric-id': 48264, 'id': 'Q48264'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1399232",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 48264, 'id': 'Q48264'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T19:59:36Z"
+  },
+  "Q46 P31 {'value': {'entity-type': 'item', 'numeric-id': 5107, 'id': 'Q5107'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q46",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 5107, 'id': 'Q5107'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:00:38Z"
+  },
+  "Q1435085 P31 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1435085",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:06:32Z"
+  },
+  "Q1435085 P112 {'value': {'entity-type': 'item', 'numeric-id': 955266, 'id': 'Q955266'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1435085",
+    "property": "P112",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 955266, 'id': 'Q955266'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:06:32Z"
+  },
+  "Q5528542 P31 {'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5528542",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:06:53Z"
+  },
+  "Q6530262 P31 {'value': {'entity-type': 'item', 'numeric-id': 34394, 'id': 'Q34394'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6530262",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 34394, 'id': 'Q34394'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:07:03Z"
+  },
+  "Q6530262 P31 {'value': {'entity-type': 'item', 'numeric-id': 131841, 'id': 'Q131841'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q6530262",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 131841, 'id': 'Q131841'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:07:03Z"
+  },
+  "Q29641323 P279 {'value': {'entity-type': 'item', 'numeric-id': 2373919, 'id': 'Q2373919'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q29641323",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 2373919, 'id': 'Q2373919'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:08:01Z"
+  },
+  "Q10268802 P279 {'value': {'entity-type': 'item', 'numeric-id': 850692, 'id': 'Q850692'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q10268802",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 850692, 'id': 'Q850692'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:13:31Z"
+  },
+  "Q7162 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q7162",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:14:49Z"
+  },
+  "Q102786 P279 {'value': {'entity-type': 'item', 'numeric-id': 1969448, 'id': 'Q1969448'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q102786",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1969448, 'id': 'Q1969448'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:15:10Z"
+  },
+  "Q34698 P279 {'value': {'entity-type': 'item', 'numeric-id': 8171, 'id': 'Q8171'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q34698",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 8171, 'id': 'Q8171'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:15:19Z"
+  },
+  "Q2908540 P31 {'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2908540",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 105044823, 'id': 'Q105044823'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:15:34Z"
+  },
+  "Q2908540 P31 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q2908540",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:15:34Z"
+  },
+  "Q23622 P279 {'value': {'entity-type': 'item', 'numeric-id': 13136, 'id': 'Q13136'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q23622",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 13136, 'id': 'Q13136'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:15:49Z"
+  },
+  "Q18233 P31 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q18233",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:16:02Z"
+  },
+  "Q41746 P31 {'value': {'entity-type': 'item', 'numeric-id': 13002315, 'id': 'Q13002315'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q41746",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 13002315, 'id': 'Q13002315'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:16:14Z"
+  },
+  "Q222749 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q222749",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:51:57Z"
+  },
+  "Q343047 P31 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q343047",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:52:03Z"
+  },
+  "Q4650888 P31 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4650888",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:52:05Z"
+  },
+  "Q752361 P31 {'value': {'entity-type': 'item', 'numeric-id': 1684600, 'id': 'Q1684600'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q752361",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1684600, 'id': 'Q1684600'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:52:12Z"
+  },
+  "Q752361 P31 {'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q752361",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:52:12Z"
+  },
+  "Q4651900 P279 {'value': {'entity-type': 'item', 'numeric-id': 79913, 'id': 'Q79913'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4651900",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 79913, 'id': 'Q79913'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:52:25Z"
+  },
+  "Q4651900 P279 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4651900",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:52:25Z"
+  },
+  "Q27714840 P31 {'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q27714840",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 41298, 'id': 'Q41298'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:52:26Z"
+  },
+  "Q5287 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5287",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:52:49Z"
+  },
+  "Q20065092 P31 {'value': {'entity-type': 'item', 'numeric-id': 264238, 'id': 'Q264238'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q20065092",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 264238, 'id': 'Q264238'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-05T20:53:02Z"
+  },
+  "Q11772 P31 {'value': {'entity-type': 'item', 'numeric-id': 8432, 'id': 'Q8432'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11772",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 8432, 'id': 'Q8432'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:51:24Z"
+  },
+  "Q11772 P31 {'value': {'entity-type': 'item', 'numeric-id': 28171280, 'id': 'Q28171280'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q11772",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 28171280, 'id': 'Q28171280'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:51:24Z"
+  },
+  "Q622425 P279 {'value': {'entity-type': 'item', 'numeric-id': 1188223, 'id': 'Q1188223'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q622425",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1188223, 'id': 'Q1188223'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:51:28Z"
+  },
+  "Q5146 P31 {'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5146",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1322198, 'id': 'Q1322198'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:51:43Z"
+  },
+  "Q189125 P31 {'value': {'entity-type': 'item', 'numeric-id': 106647285, 'id': 'Q106647285'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q189125",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 106647285, 'id': 'Q106647285'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:51:50Z"
+  },
+  "Q1093205 P31 {'value': {'entity-type': 'item', 'numeric-id': 106647285, 'id': 'Q106647285'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1093205",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 106647285, 'id': 'Q106647285'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:51:58Z"
+  },
+  "Q30 P31 {'value': {'entity-type': 'item', 'numeric-id': 6256, 'id': 'Q6256'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q30",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 6256, 'id': 'Q6256'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:52:37Z"
+  },
+  "Q626235 P138 {'value': {'entity-type': 'item', 'numeric-id': 17141, 'id': 'Q17141'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q626235",
+    "property": "P138",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 17141, 'id': 'Q17141'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:53:06Z"
+  },
+  "Q9357091 P31 {'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q9357091",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 11862829, 'id': 'Q11862829'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:53:42Z"
+  },
+  "Q49154 P31 {'value': {'entity-type': 'item', 'numeric-id': 532, 'id': 'Q532'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q49154",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 532, 'id': 'Q532'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T06:53:46Z"
+  },
+  "Q5687582 P31 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q5687582",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:49:25Z"
+  },
+  "Q214255 P31 {'value': {'entity-type': 'item', 'numeric-id': 5390013, 'id': 'Q5390013'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q214255",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 5390013, 'id': 'Q5390013'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:49:57Z"
+  },
+  "Q4438121 P279 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q4438121",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:50:01Z"
+  },
+  "Q264542 P279 {'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q264542",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 43229, 'id': 'Q43229'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:50:12Z"
+  },
+  "Q164800 P31 {'value': {'entity-type': 'item', 'numeric-id': 968159, 'id': 'Q968159'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q164800",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 968159, 'id': 'Q968159'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:50:25Z"
+  },
+  "Q9598 P31 {'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q9598",
+    "property": "P31",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 9174, 'id': 'Q9174'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:50:45Z"
+  },
+  "Q8075 P279 {'value': {'entity-type': 'item', 'numeric-id': 3406743, 'id': 'Q3406743'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q8075",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 3406743, 'id': 'Q3406743'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:51:01Z"
+  },
+  "Q7725310 P279 {'value': {'entity-type': 'item', 'numeric-id': 17537576, 'id': 'Q17537576'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q7725310",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 17537576, 'id': 'Q17537576'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:51:11Z"
+  },
+  "Q17152639 P279 {'value': {'entity-type': 'item', 'numeric-id': 1469824, 'id': 'Q1469824'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q17152639",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 1469824, 'id': 'Q1469824'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:51:24Z"
+  },
+  "Q1136047 P279 {'value': {'entity-type': 'item', 'numeric-id': 7366, 'id': 'Q7366'}, 'type': 'wikibase-entityid'}": {
+    "wikidata_id": "Q1136047",
+    "property": "P279",
+    "value": "{'value': {'entity-type': 'item', 'numeric-id': 7366, 'id': 'Q7366'}, 'type': 'wikibase-entityid'}",
+    "timestamp": "2026-08-06T15:51:30Z"
+  }
+}
